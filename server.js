@@ -7,14 +7,15 @@ const path = require('path');
 const app = express();
 const PORT = process.env.PORT || 3030;
 
+// CORS middleware - must come before any routes
 app.use((req, res, next) => {
 	res.header('Access-Control-Allow-Origin', '*');
 	res.header('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE,OPTIONS');
-	res.header('Access-Control-Allow-Headers', 'Content-Type, Authorization');
+	res.header('Access-Control-Allow-Headers', 'Content-Type, Authorization, X-Requested-With');
 
 	// Handle preflight requests
 	if (req.method === 'OPTIONS') {
-		res.sendStatus(200);
+		res.status(200).end();
 		return;
 	}
 
