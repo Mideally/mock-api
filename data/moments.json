@@ -1,0 +1,842 @@
+[
+	{
+		"id": "878482ce",
+		"title": "Boost Hour",
+		"description": "Boost Hour la Cafeneaua Urbană: shot espresso din partea casei între 08:00 și 09:00.",
+		"startTime": "2025-07-31T08:00:00",
+		"endTime": "2025-07-31T09:00:00",
+		"business": {
+			"id": "1",
+			"slug": "cafeneaua-urbana",
+			"name": "Cafeneaua Urbană",
+			"availableLocations": [
+				{
+					"id": "9187132",
+					"name": "Iași - Piața Alexandru",
+					"latitude": 47.158473,
+					"longitude": 27.595912,
+					"featuredImage": "https://www.iointeriors.in/assets/img/top-5-creative-ideas-for-small-coffee-shop-interior-design.webp"
+				}
+			]
+		}
+	},
+	{
+		"id": "e4a0e556",
+		"title": "Ultimate Afternoon",
+		"description": "Ultimate Afternoon la Cafeneaua Urbană: upgrade de mărime gratuit între 16:00 și 19:00.",
+		"startTime": "2025-08-02T16:00:00",
+		"endTime": "2025-08-02T19:00:00",
+		"business": {
+			"id": "1",
+			"slug": "cafeneaua-urbana",
+			"name": "Cafeneaua Urbană",
+			"availableLocations": [
+				{
+					"id": "9187134",
+					"name": "Iași - Piața Alexandru",
+					"latitude": 47.158473,
+					"longitude": 27.595912,
+					"featuredImage": "https://www.iointeriors.in/assets/img/top-5-creative-ideas-for-small-coffee-shop-interior-design.webp"
+				}
+			]
+		}
+	},
+	{
+		"id": "26fb50b7",
+		"title": "Fresh Bonanza",
+		"description": "Fresh Bonanza la Cafeneaua Noastră: 2 la preț de 1 între 17:00 și 20:00.",
+		"startTime": "2025-07-30T17:00:00",
+		"endTime": "2025-07-30T20:00:00",
+		"business": {
+			"id": "2",
+			"slug": "cafeneaua-noastra",
+			"name": "Cafeneaua Noastră",
+			"availableLocations": [
+				{
+					"id": "9187132",
+					"name": "Iași - Piața Unirii",
+					"latitude": 47.158473,
+					"longitude": 27.595912,
+					"featuredImage": "https://sharpsheets.io/wp-content/uploads/2022/11/bakery-solutions03.jpeg.webp"
+				}
+			]
+		}
+	},
+	{
+		"id": "5edf2811",
+		"title": "Epic Moment",
+		"description": "Epic Moment la Cafeneaua Aurora: upgrade de mărime gratuit între 12:00 și 13:00.",
+		"startTime": "2025-08-02T12:00:00",
+		"endTime": "2025-08-02T13:00:00",
+		"business": {
+			"id": "3",
+			"slug": "cafeneaua-aurora",
+			"name": "Cafeneaua Aurora",
+			"availableLocations": [
+				{
+					"id": "9187135",
+					"name": "București - Centrul Vechi",
+					"latitude": 44.4268,
+					"longitude": 26.1025,
+					"featuredImage": "https://texascoffeeschool.com/wp-content/uploads/2024/08/1418-e1723733846245.jpg"
+				}
+			]
+		}
+	},
+	{
+		"id": "4a1c1cdb",
+		"title": "Boost Morning",
+		"description": "Boost Morning la Cafeneaua Aurora: produsele selecționate la jumătate de preț între 14:00 și 16:00.",
+		"startTime": "2025-07-29T14:00:00",
+		"endTime": "2025-07-29T16:00:00",
+		"business": {
+			"id": "3",
+			"slug": "cafeneaua-aurora",
+			"name": "Cafeneaua Aurora",
+			"availableLocations": [
+				{
+					"id": "9187135",
+					"name": "București - Centrul Vechi",
+					"latitude": 44.4268,
+					"longitude": 26.1025,
+					"featuredImage": "https://texascoffeeschool.com/wp-content/uploads/2024/08/1418-e1723733846245.jpg"
+				}
+			]
+		}
+	},
+	{
+		"id": "04c258d4",
+		"title": "Fresh Morning",
+		"description": "Fresh Morning la Cafeneaua Aurora: desert gratuit la orice meniu între 17:00 și 20:00.",
+		"startTime": "2025-08-03T17:00:00",
+		"endTime": "2025-08-03T20:00:00",
+		"business": {
+			"id": "3",
+			"slug": "cafeneaua-aurora",
+			"name": "Cafeneaua Aurora",
+			"availableLocations": [
+				{
+					"id": "9187135",
+					"name": "București - Centrul Vechi",
+					"latitude": 44.4268,
+					"longitude": 26.1025,
+					"featuredImage": "https://texascoffeeschool.com/wp-content/uploads/2024/08/1418-e1723733846245.jpg"
+				}
+			]
+		}
+	},
+	{
+		"id": "186f00d4",
+		"title": "Midday Bite",
+		"description": "Midday Bite la Brutăria Tradițională: upgrade de mărime gratuit între 17:00 și 20:00.",
+		"startTime": "2025-07-29T17:00:00",
+		"endTime": "2025-07-29T20:00:00",
+		"business": {
+			"id": "4",
+			"slug": "brutaria-traditionala",
+			"name": "Brutăria Tradițională",
+			"availableLocations": [
+				{
+					"id": "9187137",
+					"name": "Cluj-Napoca - Mănăștur",
+					"latitude": 46.7712,
+					"longitude": 23.6236,
+					"featuredImage": "https://sharpsheets.io/wp-content/uploads/2022/11/bakery-solutions03.jpeg.webp"
+				}
+			]
+		}
+	},
+	{
+		"id": "68bd85ea",
+		"title": "Boost Break",
+		"description": "Boost Break la Barul Nocturn: produsele selecționate la jumătate de preț între 17:00 și 20:00.",
+		"startTime": "2025-08-07T17:00:00",
+		"endTime": "2025-08-07T20:00:00",
+		"business": {
+			"id": "5",
+			"slug": "barul-nocturn",
+			"name": "Barul Nocturn",
+			"availableLocations": [
+				{
+					"id": "9187138",
+					"name": "Timișoara - Centru",
+					"latitude": 45.7471,
+					"longitude": 21.2087,
+					"featuredImage": "https://www.barniescoffee.com/cdn/shop/articles/bar-1869656_1920.jpg?v=1660683986"
+				}
+			]
+		}
+	},
+	{
+		"id": "8e2615db",
+		"title": "Boost Moment",
+		"description": "Boost Moment la Barul Nocturn: upgrade de mărime gratuit între 12:00 și 13:00.",
+		"startTime": "2025-08-03T12:00:00",
+		"endTime": "2025-08-03T13:00:00",
+		"business": {
+			"id": "5",
+			"slug": "barul-nocturn",
+			"name": "Barul Nocturn",
+			"availableLocations": [
+				{
+					"id": "9187138",
+					"name": "Timișoara - Centru",
+					"latitude": 45.7471,
+					"longitude": 21.2087,
+					"featuredImage": "https://www.barniescoffee.com/cdn/shop/articles/bar-1869656_1920.jpg?v=1660683986"
+				}
+			]
+		}
+	},
+	{
+		"id": "feb5421d",
+		"title": "Power Deal",
+		"description": "Power Deal la Cafeneaua Verde: 30% discount la nota de plată între 09:00 și 11:00.",
+		"startTime": "2025-07-24T09:00:00",
+		"endTime": "2025-07-24T11:00:00",
+		"business": {
+			"id": "6",
+			"slug": "cafeneaua-verde",
+			"name": "Cafeneaua Verde",
+			"availableLocations": [
+				{
+					"id": "9187139",
+					"name": "Brașov - Centru Istoric",
+					"latitude": 45.6427,
+					"longitude": 25.5887,
+					"featuredImage": "https://esquirescoffee.co.uk/wp-content/uploads/2021/11/kaylah-matthews-6e5hgWV2DAo-unsplash-e1684321509250.jpg"
+				}
+			]
+		}
+	},
+	{
+		"id": "e96e516a",
+		"title": "Epic Afternoon",
+		"description": "Epic Afternoon la Cafeneaua Verde: desert gratuit la orice meniu între 16:00 și 17:00.",
+		"startTime": "2025-07-31T16:00:00",
+		"endTime": "2025-07-31T17:00:00",
+		"business": {
+			"id": "6",
+			"slug": "cafeneaua-verde",
+			"name": "Cafeneaua Verde",
+			"availableLocations": [
+				{
+					"id": "9187139",
+					"name": "Brașov - Centru Istoric",
+					"latitude": 45.6427,
+					"longitude": 25.5887,
+					"featuredImage": "https://esquirescoffee.co.uk/wp-content/uploads/2021/11/kaylah-matthews-6e5hgWV2DAo-unsplash-e1684321509250.jpg"
+				},
+				{
+					"id": "9187140",
+					"name": "Brașov - Poiana Brașov",
+					"latitude": 45.6427,
+					"longitude": 25.5887,
+					"featuredImage": "https://www.iointeriors.in/assets/img/top-5-creative-ideas-for-small-coffee-shop-interior-design.webp"
+				}
+			]
+		}
+	},
+	{
+		"id": "ff549671",
+		"title": "Sunny Bonanza",
+		"description": "Sunny Bonanza la Cafeneaua Verde: produsele selecționate la jumătate de preț între 18:00 și 19:00.",
+		"startTime": "2025-07-30T18:00:00",
+		"endTime": "2025-07-30T19:00:00",
+		"business": {
+			"id": "6",
+			"slug": "cafeneaua-verde",
+			"name": "Cafeneaua Verde",
+			"availableLocations": [
+				{
+					"id": "9187139",
+					"name": "Brașov - Centru Istoric",
+					"latitude": 45.6427,
+					"longitude": 25.5887,
+					"featuredImage": "https://esquirescoffee.co.uk/wp-content/uploads/2021/11/kaylah-matthews-6e5hgWV2DAo-unsplash-e1684321509250.jpg"
+				},
+				{
+					"id": "9187140",
+					"name": "Brașov - Poiana Brașov",
+					"latitude": 45.6427,
+					"longitude": 25.5887,
+					"featuredImage": "https://www.iointeriors.in/assets/img/top-5-creative-ideas-for-small-coffee-shop-interior-design.webp"
+				}
+			]
+		}
+	},
+	{
+		"id": "c9195e5a",
+		"title": "Epic Afternoon",
+		"description": "Epic Afternoon la Brutăria Artizanală: upgrade de mărime gratuit între 08:00 și 11:00.",
+		"startTime": "2025-08-05T08:00:00",
+		"endTime": "2025-08-05T11:00:00",
+		"business": {
+			"id": "7",
+			"slug": "brutaria-artizanala",
+			"name": "Brutăria Artizanală",
+			"availableLocations": [
+				{
+					"id": "9187141",
+					"name": "Sibiu - Centru",
+					"latitude": 45.7983,
+					"longitude": 24.1256,
+					"featuredImage": "https://3brothersbakery.com/wp-content/uploads/2019/02/Houston%E2%80%99s-Specialty-Bakery.png"
+				}
+			]
+		}
+	},
+	{
+		"id": "d33dc7c3",
+		"title": "Sweet Morning",
+		"description": "Sweet Morning la Brutăria Artizanală: upgrade de mărime gratuit între 08:00 și 10:00.",
+		"startTime": "2025-08-03T08:00:00",
+		"endTime": "2025-08-03T10:00:00",
+		"business": {
+			"id": "7",
+			"slug": "brutaria-artizanala",
+			"name": "Brutăria Artizanală",
+			"availableLocations": [
+				{
+					"id": "9187141",
+					"name": "Sibiu - Centru",
+					"latitude": 45.7983,
+					"longitude": 24.1256,
+					"featuredImage": "https://3brothersbakery.com/wp-content/uploads/2019/02/Houston%E2%80%99s-Specialty-Bakery.png"
+				}
+			]
+		}
+	},
+	{
+		"id": "af0354b6",
+		"title": "Golden Bliss",
+		"description": "Golden Bliss la Cafeneaua Aurora: produsele selecționate la jumătate de preț între 12:00 și 15:00.",
+		"startTime": "2025-07-24T12:00:00",
+		"endTime": "2025-07-24T15:00:00",
+		"business": {
+			"id": "8",
+			"slug": "cafeneaua-aurora",
+			"name": "Cafeneaua Aurora",
+			"availableLocations": [
+				{
+					"id": "9187144",
+					"name": "Constanța - Eforie",
+					"latitude": 44.1733,
+					"longitude": 28.6383,
+					"featuredImage": "https://www.iointeriors.in/assets/img/top-5-creative-ideas-for-small-coffee-shop-interior-design.webp"
+				}
+			]
+		}
+	},
+	{
+		"id": "73520a8e",
+		"title": "Ultimate Bite",
+		"description": "Ultimate Bite la Cafeneaua Aurora: 2 la preț de 1 între 13:00 și 14:00.",
+		"startTime": "2025-08-05T13:00:00",
+		"endTime": "2025-08-05T14:00:00",
+		"business": {
+			"id": "8",
+			"slug": "cafeneaua-aurora",
+			"name": "Cafeneaua Aurora",
+			"availableLocations": [
+				{
+					"id": "9187144",
+					"name": "Constanța - Eforie",
+					"latitude": 44.1733,
+					"longitude": 28.6383,
+					"featuredImage": "https://www.iointeriors.in/assets/img/top-5-creative-ideas-for-small-coffee-shop-interior-design.webp"
+				}
+			]
+		}
+	},
+	{
+		"id": "3ed4d77d",
+		"title": "Epic Treat",
+		"description": "Epic Treat la Night Club Elite: shot espresso din partea casei între 18:00 și 21:00.",
+		"startTime": "2025-08-05T18:00:00",
+		"endTime": "2025-08-05T21:00:00",
+		"business": {
+			"id": "9",
+			"slug": "night-club-elite",
+			"name": "Night Club Elite",
+			"availableLocations": [
+				{
+					"id": "9187145",
+					"name": "București - Centrul Vechi",
+					"latitude": 44.4268,
+					"longitude": 26.1025,
+					"featuredImage": "https://marketplace.canva.com/EAGOVOZ3zeY/1/0/1600w/canva-retro-dazle-night-club-logo-c36gMC1IF1c.jpg"
+				}
+			]
+		}
+	},
+	{
+		"id": "10c90074",
+		"title": "Power Morning",
+		"description": "Power Morning la Night Club Elite: upgrade de mărime gratuit între 09:00 și 10:00.",
+		"startTime": "2025-08-02T09:00:00",
+		"endTime": "2025-08-02T10:00:00",
+		"business": {
+			"id": "9",
+			"slug": "night-club-elite",
+			"name": "Night Club Elite",
+			"availableLocations": [
+				{
+					"id": "9187145",
+					"name": "București - Centrul Vechi",
+					"latitude": 44.4268,
+					"longitude": 26.1025,
+					"featuredImage": "https://marketplace.canva.com/EAGOVOZ3zeY/1/0/1600w/canva-retro-dazle-night-club-logo-c36gMC1IF1c.jpg"
+				}
+			]
+		}
+	},
+	{
+		"id": "0890057d",
+		"title": "Midday Afternoon",
+		"description": "Midday Afternoon la Night Club Elite: desert gratuit la orice meniu între 16:00 și 19:00.",
+		"startTime": "2025-07-31T16:00:00",
+		"endTime": "2025-07-31T19:00:00",
+		"business": {
+			"id": "9",
+			"slug": "night-club-elite",
+			"name": "Night Club Elite",
+			"availableLocations": [
+				{
+					"id": "9187145",
+					"name": "București - Centrul Vechi",
+					"latitude": 44.4268,
+					"longitude": 26.1025,
+					"featuredImage": "https://marketplace.canva.com/EAGOVOZ3zeY/1/0/1600w/canva-retro-dazle-night-club-logo-c36gMC1IF1c.jpg"
+				}
+			]
+		}
+	},
+	{
+		"id": "613b6f96",
+		"title": "Happy Moment",
+		"description": "Happy Moment la Cafeneaua Dorobanți: upgrade de mărime gratuit între 15:00 și 16:00.",
+		"startTime": "2025-07-27T15:00:00",
+		"endTime": "2025-07-27T16:00:00",
+		"business": {
+			"id": "10",
+			"slug": "cafeneaua-dorobanti",
+			"name": "Cafeneaua Dorobanți",
+			"availableLocations": [
+				{
+					"id": "9187146",
+					"name": "București - Dorobanți",
+					"latitude": 44.4268,
+					"longitude": 26.1025,
+					"featuredImage": "https://texascoffeeschool.com/wp-content/uploads/2022/03/JAN00491-scaled.jpg"
+				}
+			]
+		}
+	},
+	{
+		"id": "ef3a51cd",
+		"title": "Ultimate Fiesta",
+		"description": "Ultimate Fiesta la Brutăria Mama: upgrade de mărime gratuit între 10:00 și 12:00.",
+		"startTime": "2025-08-05T10:00:00",
+		"endTime": "2025-08-05T12:00:00",
+		"business": {
+			"id": "11",
+			"slug": "brutaria-mama",
+			"name": "Brutăria Mama",
+			"availableLocations": [
+				{
+					"id": "9187147",
+					"name": "Ploiești - Centru",
+					"latitude": 44.9411,
+					"longitude": 26.0226,
+					"featuredImage": "https://sharpsheets.io/wp-content/uploads/2022/11/bakery-solutions03.jpeg.webp"
+				},
+				{
+					"id": "9187148",
+					"name": "Ploiești - Sud",
+					"latitude": 44.9411,
+					"longitude": 26.0226,
+					"featuredImage": "https://cdn.vox-cdn.com/thumbor/qb6scDiFH4wTKcbVehj1f1e-X7E=/0x0:1731x1155/1200x900/filters:focal(933x452:1209x728)/cdn.vox-cdn.com/uploads/chorus_image/image/64999899/Eater__Tapisserie_09024.14.jpg"
+				}
+			]
+		}
+	},
+	{
+		"id": "d372c8bf",
+		"title": "Happy Bite",
+		"description": "Happy Bite la Brutăria Mama: 2 la preț de 1 între 12:00 și 13:00.",
+		"startTime": "2025-07-25T12:00:00",
+		"endTime": "2025-07-25T13:00:00",
+		"business": {
+			"id": "11",
+			"slug": "brutaria-mama",
+			"name": "Brutăria Mama",
+			"availableLocations": [
+				{
+					"id": "9187148",
+					"name": "Ploiești - Sud",
+					"latitude": 44.9411,
+					"longitude": 26.0226,
+					"featuredImage": "https://cdn.vox-cdn.com/thumbor/qb6scDiFH4wTKcbVehj1f1e-X7E=/0x0:1731x1155/1200x900/filters:focal(933x452:1209x728)/cdn.vox-cdn.com/uploads/chorus_image/image/64999899/Eater__Tapisserie_09024.14.jpg"
+				}
+			]
+		}
+	},
+	{
+		"id": "8bb254a3",
+		"title": "Power Bliss",
+		"description": "Power Bliss la Cafeneaua Universitate: produsele selecționate la jumătate de preț între 10:00 și 11:00.",
+		"startTime": "2025-07-31T10:00:00",
+		"endTime": "2025-07-31T11:00:00",
+		"business": {
+			"id": "12",
+			"slug": "cafeneaua-universitate",
+			"name": "Cafeneaua Universitate",
+			"availableLocations": [
+				{
+					"id": "9187149",
+					"name": "București - Universitate",
+					"latitude": 44.4268,
+					"longitude": 26.1025,
+					"featuredImage": "https://sumatocoffee.com/cdn/shop/articles/the-importance-of-coffee-shops-in-communities-782577.jpg?v=1713277728&width=1600"
+				}
+			]
+		}
+	},
+	{
+		"id": "531db495",
+		"title": "Chill Deal",
+		"description": "Chill Deal la Barul Vechi: 2 la preț de 1 între 14:00 și 15:00.",
+		"startTime": "2025-08-06T14:00:00",
+		"endTime": "2025-08-06T15:00:00",
+		"business": {
+			"id": "13",
+			"slug": "barul-vechi",
+			"name": "Barul Vechi",
+			"availableLocations": [
+				{
+					"id": "9187150",
+					"name": "Sibiu - Centru Vechi",
+					"latitude": 45.7983,
+					"longitude": 24.1256,
+					"featuredImage": "https://www.barniescoffee.com/cdn/shop/articles/bar-1869656_1920.jpg?v=1660683986"
+				}
+			]
+		}
+	},
+	{
+		"id": "28a9a861",
+		"title": "Chill Rush",
+		"description": "Chill Rush la Cafeneaua Studenților: 30% discount la nota de plată între 15:00 și 18:00.",
+		"startTime": "2025-08-07T15:00:00",
+		"endTime": "2025-08-07T18:00:00",
+		"business": {
+			"id": "14",
+			"slug": "cafeneaua-studentilor",
+			"name": "Cafeneaua Studenților",
+			"availableLocations": [
+				{
+					"id": "9187151",
+					"name": "Cluj-Napoca - Campus",
+					"latitude": 46.7712,
+					"longitude": 23.6236,
+					"featuredImage": "https://esquirescoffee.co.uk/wp-content/uploads/2021/11/kaylah-matthews-6e5hgWV2DAo-unsplash-e1684321509250.jpg"
+				}
+			]
+		}
+	},
+	{
+		"id": "0bfda7ed",
+		"title": "Epic Treat",
+		"description": "Epic Treat la Brutăria Cornel: 30% discount la nota de plată între 08:00 și 10:00.",
+		"startTime": "2025-08-04T08:00:00",
+		"endTime": "2025-08-04T10:00:00",
+		"business": {
+			"id": "15",
+			"slug": "brutaria-cornel",
+			"name": "Brutăria Cornel",
+			"availableLocations": [
+				{
+					"id": "9187152",
+					"name": "Timișoara - Centru",
+					"latitude": 45.7471,
+					"longitude": 21.2087,
+					"featuredImage": "https://3brothersbakery.com/wp-content/uploads/2019/02/Houston%E2%80%99s-Specialty-Bakery.png"
+				}
+			]
+		}
+	},
+	{
+		"id": "a9744516",
+		"title": "Midday Morning",
+		"description": "Midday Morning la Cafeneaua Centrală: shot espresso din partea casei între 12:00 și 15:00.",
+		"startTime": "2025-08-02T12:00:00",
+		"endTime": "2025-08-02T15:00:00",
+		"business": {
+			"id": "16",
+			"slug": "cafeneaua-centrala",
+			"name": "Cafeneaua Centrală",
+			"availableLocations": [
+				{
+					"id": "9187153",
+					"name": "Brașov - Centru",
+					"latitude": 45.6427,
+					"longitude": 25.5887,
+					"featuredImage": "https://texascoffeeschool.com/wp-content/uploads/2024/08/1418-e1723733846245.jpg"
+				}
+			]
+		}
+	},
+	{
+		"id": "b706c1e8",
+		"title": "Boost Bite",
+		"description": "Boost Bite la Cafeneaua Centrală: produsele selecționate la jumătate de preț între 14:00 și 15:00.",
+		"startTime": "2025-07-26T14:00:00",
+		"endTime": "2025-07-26T15:00:00",
+		"business": {
+			"id": "16",
+			"slug": "cafeneaua-centrala",
+			"name": "Cafeneaua Centrală",
+			"availableLocations": [
+				{
+					"id": "9187153",
+					"name": "Brașov - Centru",
+					"latitude": 45.6427,
+					"longitude": 25.5887,
+					"featuredImage": "https://texascoffeeschool.com/wp-content/uploads/2024/08/1418-e1723733846245.jpg"
+				}
+			]
+		}
+	},
+	{
+		"id": "8f121198",
+		"title": "Sunny Bonanza",
+		"description": "Sunny Bonanza la Cafeneaua Centrală: 2 la preț de 1 între 14:00 și 16:00.",
+		"startTime": "2025-07-30T14:00:00",
+		"endTime": "2025-07-30T16:00:00",
+		"business": {
+			"id": "16",
+			"slug": "cafeneaua-centrala",
+			"name": "Cafeneaua Centrală",
+			"availableLocations": [
+				{
+					"id": "9187153",
+					"name": "Brașov - Centru",
+					"latitude": 45.6427,
+					"longitude": 25.5887,
+					"featuredImage": "https://texascoffeeschool.com/wp-content/uploads/2024/08/1418-e1723733846245.jpg"
+				}
+			]
+		}
+	},
+	{
+		"id": "9c1ecbeb",
+		"title": "Ultimate Bliss",
+		"description": "Ultimate Bliss la Brutăria Bunicii: shot espresso din partea casei între 16:00 și 19:00.",
+		"startTime": "2025-08-04T16:00:00",
+		"endTime": "2025-08-04T19:00:00",
+		"business": {
+			"id": "17",
+			"slug": "brutaria-bunicii",
+			"name": "Brutăria Bunicii",
+			"availableLocations": [
+				{
+					"id": "9187154",
+					"name": "Craiova - Centru",
+					"latitude": 44.3195,
+					"longitude": 23.7967,
+					"featuredImage": "https://sharpsheets.io/wp-content/uploads/2022/11/bakery-solutions03.jpeg.webp"
+				}
+			]
+		}
+	},
+	{
+		"id": "2c8ebc0c",
+		"title": "Sweet Rush",
+		"description": "Sweet Rush la Brutăria Bunicii: shot espresso din partea casei între 15:00 și 16:00.",
+		"startTime": "2025-08-05T15:00:00",
+		"endTime": "2025-08-05T16:00:00",
+		"business": {
+			"id": "17",
+			"slug": "brutaria-bunicii",
+			"name": "Brutăria Bunicii",
+			"availableLocations": [
+				{
+					"id": "9187154",
+					"name": "Craiova - Centru",
+					"latitude": 44.3195,
+					"longitude": 23.7967,
+					"featuredImage": "https://sharpsheets.io/wp-content/uploads/2022/11/bakery-solutions03.jpeg.webp"
+				}
+			]
+		}
+	},
+	{
+		"id": "03112561",
+		"title": "Sunny Afternoon",
+		"description": "Sunny Afternoon la Brutăria Bunicii: produsele selecționate la jumătate de preț între 09:00 și 11:00.",
+		"startTime": "2025-08-06T09:00:00",
+		"endTime": "2025-08-06T11:00:00",
+		"business": {
+			"id": "17",
+			"slug": "brutaria-bunicii",
+			"name": "Brutăria Bunicii",
+			"availableLocations": [
+				{
+					"id": "9187154",
+					"name": "Craiova - Centru",
+					"latitude": 44.3195,
+					"longitude": 23.7967,
+					"featuredImage": "https://sharpsheets.io/wp-content/uploads/2022/11/bakery-solutions03.jpeg.webp"
+				}
+			]
+		}
+	},
+	{
+		"id": "12a36f02",
+		"title": "Fresh Rush",
+		"description": "Fresh Rush la Barul Modern: 2 la preț de 1 între 18:00 și 19:00.",
+		"startTime": "2025-08-07T18:00:00",
+		"endTime": "2025-08-07T19:00:00",
+		"business": {
+			"id": "18",
+			"slug": "",
+			"name": "Barul Modern",
+			"availableLocations": [
+				{
+					"id": "9187155",
+					"name": "București - Herăstrău",
+					"latitude": 44.4268,
+					"longitude": 26.1025,
+					"featuredImage": "https://www.barniescoffee.com/cdn/shop/articles/bar-1869656_1920.jpg?v=1660683986"
+				}
+			]
+		}
+	},
+	{
+		"id": "79450f1e",
+		"title": "Sweet Bliss",
+		"description": "Sweet Bliss la Barul Modern: 30% discount la nota de plată între 09:00 și 10:00.",
+		"startTime": "2025-07-26T09:00:00",
+		"endTime": "2025-07-26T10:00:00",
+		"business": {
+			"id": "18",
+			"slug": "",
+			"name": "Barul Modern",
+			"availableLocations": [
+				{
+					"id": "9187155",
+					"name": "București - Herăstrău",
+					"latitude": 44.4268,
+					"longitude": 26.1025,
+					"featuredImage": "https://www.barniescoffee.com/cdn/shop/articles/bar-1869656_1920.jpg?v=1660683986"
+				}
+			]
+		}
+	},
+	{
+		"id": "177983ea",
+		"title": "Fresh Deal",
+		"description": "Fresh Deal la Barul Modern: 2 la preț de 1 între 18:00 și 21:00.",
+		"startTime": "2025-08-03T18:00:00",
+		"endTime": "2025-08-03T21:00:00",
+		"business": {
+			"id": "18",
+			"slug": "",
+			"name": "Barul Modern",
+			"availableLocations": [
+				{
+					"id": "9187155",
+					"name": "București - Herăstrău",
+					"latitude": 44.4268,
+					"longitude": 26.1025,
+					"featuredImage": "https://www.barniescoffee.com/cdn/shop/articles/bar-1869656_1920.jpg?v=1660683986"
+				}
+			]
+		}
+	},
+	{
+		"id": "3ab1b011",
+		"title": "Golden Deal",
+		"description": "Golden Deal la Cafeneaua Romantică: upgrade de mărime gratuit între 08:00 și 10:00.",
+		"startTime": "2025-07-24T08:00:00",
+		"endTime": "2025-07-24T10:00:00",
+		"business": {
+			"id": "19",
+			"slug": "cafeneaua-romantica",
+			"name": "Cafeneaua Romantică",
+			"availableLocations": [
+				{
+					"id": "9187156",
+					"name": "Sibiu - Centru",
+					"latitude": 45.7983,
+					"longitude": 24.1256,
+					"featuredImage": "https://esquirescoffee.co.uk/wp-content/uploads/2021/11/kaylah-matthews-6e5hgWV2DAo-unsplash-e1684321509250.jpg"
+				}
+			]
+		}
+	},
+	{
+		"id": "fb84ebcd",
+		"title": "Epic Deal",
+		"description": "Epic Deal la Cafeneaua Romantică: desert gratuit la orice meniu între 17:00 și 19:00.",
+		"startTime": "2025-07-30T17:00:00",
+		"endTime": "2025-07-30T19:00:00",
+		"business": {
+			"id": "19",
+			"slug": "cafeneaua-romantica",
+			"name": "Cafeneaua Romantică",
+			"availableLocations": [
+				{
+					"id": "9187156",
+					"name": "Sibiu - Centru",
+					"latitude": 45.7983,
+					"longitude": 24.1256,
+					"featuredImage": "https://esquirescoffee.co.uk/wp-content/uploads/2021/11/kaylah-matthews-6e5hgWV2DAo-unsplash-e1684321509250.jpg"
+				}
+			]
+		}
+	},
+	{
+		"id": "9e912cfd",
+		"title": "Boost Deal",
+		"description": "Boost Deal la Brutăria Familiei: shot espresso din partea casei între 09:00 și 12:00.",
+		"startTime": "2025-07-29T09:00:00",
+		"endTime": "2025-07-29T12:00:00",
+		"business": {
+			"id": "20",
+			"slug": "brutaria-familiei",
+			"name": "Brutăria Familiei",
+			"availableLocations": [
+				{
+					"id": "9187157",
+					"name": "Miroslava - Centru",
+					"latitude": 47.14365344079652,
+					"longitude": 27.532135686582055,
+					"featuredImage": "https://cdn.vox-cdn.com/thumbor/qb6scDiFH4wTKcbVehj1f1e-X7E=/0x0:1731x1155/1200x900/filters:focal(933x452:1209x728)/cdn.vox-cdn.com/uploads/chorus_image/image/64999899/Eater__Tapisserie_09024.14.jpg"
+				}
+			]
+		}
+	},
+	{
+		"id": "e92fe6b6",
+		"title": "Power Hour",
+		"description": "Power Hour la Brutăria Familiei: upgrade de mărime gratuit între 11:00 și 12:00.",
+		"startTime": "2025-07-27T11:00:00",
+		"endTime": "2025-07-27T12:00:00",
+		"business": {
+			"id": "20",
+			"slug": "brutaria-familiei",
+			"name": "Brutăria Familiei",
+			"availableLocations": [
+				{
+					"id": "9187157",
+					"name": "Miroslava - Centru",
+					"latitude": 47.14365344079652,
+					"longitude": 27.532135686582055,
+					"featuredImage": "https://cdn.vox-cdn.com/thumbor/qb6scDiFH4wTKcbVehj1f1e-X7E=/0x0:1731x1155/1200x900/filters:focal(933x452:1209x728)/cdn.vox-cdn.com/uploads/chorus_image/image/64999899/Eater__Tapisserie_09024.14.jpg"
+				}
+			]
+		}
+	}
+]

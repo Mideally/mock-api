@@ -1,0 +1,2954 @@
+[
+	{
+		"id": "1",
+		"active": true,
+		"slug": "cafeneaua-urbana",
+		"companyDetails": {
+			"name": "Cafeneaua Urbană",
+			"description": "Spațiu expozițional dedicat artei contemporane, reprezentând artiști români și internaționali. Organizăm vernisaje și evenimente culturale.",
+			"website": "https://mideally.com",
+			"businessType": "servicii"
+		},
+		"locations": [
+			{
+				"id": "9187132",
+				"name": "Iași - Piața Unirii",
+				"shortName": "PU",
+				"address": {
+					"zip": "730000",
+					"city": "Iași",
+					"state": null,
+					"county": "Iași",
+					"street": "Piața Unirii nr. 1",
+					"fullAddress": "Piața Unirii nr. 1, Iași",
+					"country": "Romania",
+					"coordinates": {
+						"latitude": 47.158473,
+						"longitude": 27.595912
+					}
+				},
+				"featuredImage": "https://texascoffeeschool.com/wp-content/uploads/2024/08/1418-e1723733846245.jpg",
+				"contact": null,
+				"schedule": [
+					{
+						"day": "monday",
+						"open": "08:00",
+						"close": "17:00"
+					},
+					{
+						"day": "tuesday",
+						"open": "08:00",
+						"close": "17:00"
+					},
+					{
+						"day": "wednesday",
+						"open": "08:00",
+						"close": "17:00"
+					},
+					{
+						"day": "thursday",
+						"open": "08:00",
+						"close": "17:00"
+					},
+					{
+						"day": "friday",
+						"open": "08:00",
+						"close": "17:00"
+					},
+					{
+						"day": "saturday",
+						"open": "08:00",
+						"close": "17:00"
+					},
+					{
+						"day": "sunday",
+						"open": "08:00",
+						"close": "17:00"
+					}
+				],
+				"gallery": ["https://texascoffeeschool.com/wp-content/uploads/2024/08/1418-e1723733846245.jpg"],
+				"tags": ["cafenea", "cafenea urbana", "cafenea urbana iași"],
+				"reviews": [
+					{
+						"name": "Andrei Popescu",
+						"rating": 4.5,
+						"comment": "Foarte bună cafenea, cu un personal foarte amabil și atențios."
+					},
+					{
+						"name": "Maria Ionescu",
+						"rating": 5,
+						"comment": "Servicii excelente! Personalul este foarte amabil și profesionist. Recomand cu încredere!"
+					}
+				],
+				"products": [
+					{
+						"id": "9187132",
+						"title": "Cappuccino",
+						"description": "Cafea italiana cu lapte",
+						"price": 12,
+						"image": "https://lorcoffee.com/cdn/shop/articles/Cappuccino-exc.jpg?v=1684870907"
+					},
+					{
+						"id": "9187133",
+						"title": "Espresso",
+						"description": "Cafea italiana",
+						"price": 8,
+						"image": "https://blogstudio.s3.theshoppad.net/coffeeheroau/ec178d83e5f597b162cda1e60cb64194.jpg"
+					},
+					{
+						"id": "9187134",
+						"title": "Americano",
+						"description": "Cafea italiana",
+						"price": 10,
+						"image": "https://www.caffesociety.co.uk/assets/recipe-images/how-to-make-an-americano.jpg"
+					},
+					{
+						"id": "9187135",
+						"title": "Latte",
+						"description": "Cafea italiana cu lapte",
+						"price": 15,
+						"image": "https://www.foodandwine.com/thmb/CCe2JUHfjCQ44L0YTbCu97ukUzA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Partners-Latte-FT-BLOG0523-09569880de524fe487831d95184495cc.jpg"
+					}
+				]
+			},
+			{
+				"id": "9187133",
+				"name": "Iași - Miroslava",
+				"shortName": "MI",
+				"address": {
+					"zip": "730000",
+					"city": "Miroslava",
+					"state": null,
+					"county": "Iași",
+					"street": "Family Market",
+					"fullAddress": "Family Market, Miroslava, Iași",
+					"country": "Romania",
+					"coordinates": {
+						"latitude": 47.158473,
+						"longitude": 27.595912
+					}
+				},
+				"featuredImage": "https://esquirescoffee.co.uk/wp-content/uploads/2021/11/kaylah-matthews-6e5hgWV2DAo-unsplash-e1684321509250.jpg",
+				"contact": null,
+				"schedule": [
+					{
+						"day": "monday",
+						"open": "08:00",
+						"close": "17:00"
+					},
+					{
+						"day": "tuesday",
+						"open": "08:00",
+						"close": "17:00"
+					},
+					{
+						"day": "wednesday",
+						"open": "08:00",
+						"close": "17:00"
+					},
+					{
+						"day": "thursday",
+						"open": "08:00",
+						"close": "17:00"
+					},
+					{
+						"day": "friday",
+						"open": "08:00",
+						"close": "17:00"
+					},
+					{
+						"day": "saturday",
+						"open": "08:00",
+						"close": "17:00"
+					},
+					{
+						"day": "sunday",
+						"open": "08:00",
+						"close": "17:00"
+					}
+				],
+				"gallery": [
+					"https://esquirescoffee.co.uk/wp-content/uploads/2021/11/kaylah-matthews-6e5hgWV2DAo-unsplash-e1684321509250.jpg"
+				],
+				"tags": ["cafenea", "cafenea urbana", "cafenea urbana iași"],
+				"reviews": [
+					{
+						"name": "Andrei Popescu",
+						"rating": 4.5,
+						"comment": "O experiență minunată, atmosferă plăcută și produse de calitate. Voi reveni cu siguranță."
+					},
+					{
+						"name": "Maria Ionescu",
+						"rating": 3.5,
+						"comment": "În general bine, dar mai este loc de îmbunătățire la timpul de așteptare."
+					},
+					{
+						"name": "Gabriela Jucu",
+						"rating": 5,
+						"comment": "Cea mai bună alegere din oraș! Calitate premium și servicii impecabile."
+					},
+					{
+						"name": "Ilinca Avram",
+						"rating": 4,
+						"comment": "Foarte mulțumit de serviciile oferite. Personalul este bine pregătit și prietenos."
+					},
+					{
+						"name": "Filip Iacob",
+						"rating": 5,
+						"comment": "Locație superbă, servicii de top și prețuri corecte. Merită vizitat!"
+					},
+					{
+						"name": "Lucian Stanciu",
+						"rating": 4.5,
+						"comment": "Am rămas plăcut impresionat de profesionalismul echipei. Recomand cu căldură!"
+					},
+					{
+						"name": "Alexandra Lazăr",
+						"rating": 3,
+						"comment": "Servicii decent, dar prețurile sunt cam mari pentru ce oferă."
+					},
+					{
+						"name": "Mihai Popescu",
+						"rating": 5,
+						"comment": "O experiență extraordinară! Totul a fost perfect, de la început până la sfârșit."
+					},
+					{
+						"name": "Elena Munteanu",
+						"rating": 4.5,
+						"comment": "Personalul foarte amabil și atent la detalii. Servicii de calitate!"
+					},
+					{
+						"name": "Cristian Gheorghe",
+						"rating": 5,
+						"comment": "Unul dintre cele mai bune locuri din oraș. Mereu plec mulțumit de aici."
+					}
+				],
+				"products": [
+					{
+						"id": "9187132",
+						"title": "Cappuccino",
+						"description": "Cafea italiana cu lapte",
+						"price": 12,
+						"image": "https://lorcoffee.com/cdn/shop/articles/Cappuccino-exc.jpg?v=1684870907"
+					},
+					{
+						"id": "9187133",
+						"title": "Espresso",
+						"description": "Cafea italiana",
+						"price": 8,
+						"image": "https://blogstudio.s3.theshoppad.net/coffeeheroau/ec178d83e5f597b162cda1e60cb64194.jpg"
+					},
+					{
+						"id": "9187134",
+						"title": "Americano",
+						"description": "Cafea italiana",
+						"price": 10,
+						"image": "https://www.caffesociety.co.uk/assets/recipe-images/how-to-make-an-americano.jpg"
+					},
+					{
+						"id": "9187135",
+						"title": "Latte",
+						"description": "Cafea italiana cu lapte",
+						"price": 15,
+						"image": "https://www.foodandwine.com/thmb/CCe2JUHfjCQ44L0YTbCu97ukUzA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Partners-Latte-FT-BLOG0523-09569880de524fe487831d95184495cc.jpg"
+					}
+				]
+			},
+			{
+				"id": "9187134",
+				"name": "Iași - Piața Alexandru",
+				"shortName": "PA1",
+				"address": {
+					"zip": "730000",
+					"city": "Iași",
+					"state": null,
+					"county": "Iași",
+					"street": "Piața Alexandru nr. 1",
+					"fullAddress": "Piața Alexandru nr. 1, Iași",
+					"country": "Romania",
+					"coordinates": {
+						"latitude": 47.158473,
+						"longitude": 27.595912
+					}
+				},
+				"featuredImage": "https://www.iointeriors.in/assets/img/top-5-creative-ideas-for-small-coffee-shop-interior-design.webp",
+				"contact": null,
+				"schedule": [
+					{
+						"day": "monday",
+						"open": "08:00",
+						"close": "17:00"
+					},
+					{
+						"day": "tuesday",
+						"open": "08:00",
+						"close": "17:00"
+					},
+					{
+						"day": "wednesday",
+						"open": "08:00",
+						"close": "17:00"
+					},
+					{
+						"day": "thursday",
+						"open": "08:00",
+						"close": "17:00"
+					},
+					{
+						"day": "friday",
+						"open": "08:00",
+						"close": "17:00"
+					},
+					{
+						"day": "saturday",
+						"open": "08:00",
+						"close": "17:00"
+					},
+					{
+						"day": "sunday",
+						"open": "08:00",
+						"close": "17:00"
+					}
+				],
+				"gallery": [
+					"https://www.iointeriors.in/assets/img/top-5-creative-ideas-for-small-coffee-shop-interior-design.webp"
+				],
+				"tags": ["cafenea", "cafenea urbana", "cafenea urbana iași"],
+				"reviews": [
+					{
+						"name": "Andrei Popescu",
+						"rating": 4,
+						"comment": "Servicii bune, personal prietenos. Recomand pentru calitatea oferită."
+					},
+					{
+						"name": "Maria Ionescu",
+						"rating": 4.5,
+						"comment": "Experiență foarte plăcută! Voi reveni cu siguranță și data viitoare."
+					},
+					{
+						"name": "Bogdan Dinu",
+						"rating": 5,
+						"comment": "Absolut fantastic! Depășește toate așteptările. Merit� vizitat!"
+					},
+					{
+						"name": "Dragoș Vasilescu",
+						"rating": 4,
+						"comment": "O alegere excelentă! Raport calitate-preț foarte bun."
+					}
+				],
+				"products": [
+					{
+						"id": "9187132",
+						"title": "Cappuccino",
+						"description": "Cafea italiana cu lapte",
+						"price": 12,
+						"image": "https://lorcoffee.com/cdn/shop/articles/Cappuccino-exc.jpg?v=1684870907"
+					},
+					{
+						"id": "9187133",
+						"title": "Espresso",
+						"description": "Cafea italiana",
+						"price": 8,
+						"image": "https://blogstudio.s3.theshoppad.net/coffeeheroau/ec178d83e5f597b162cda1e60cb64194.jpg"
+					},
+					{
+						"id": "9187134",
+						"title": "Americano",
+						"description": "Cafea italiana",
+						"price": 10,
+						"image": "https://www.caffesociety.co.uk/assets/recipe-images/how-to-make-an-americano.jpg"
+					},
+					{
+						"id": "9187135",
+						"title": "Latte",
+						"description": "Cafea italiana cu lapte",
+						"price": 15,
+						"image": "https://www.foodandwine.com/thmb/CCe2JUHfjCQ44L0YTbCu97ukUzA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Partners-Latte-FT-BLOG0523-09569880de524fe487831d95184495cc.jpg"
+					}
+				]
+			}
+		],
+		"followers": 245,
+		"socialMedia": {
+			"facebook": "https://www.facebook.com/business",
+			"instagram": "https://www.instagram.com/business"
+		},
+		"gallery": [
+			"https://sharpsheets.io/wp-content/uploads/2022/11/bakery-solutions03.jpeg.webp",
+			"https://cdn.vox-cdn.com/thumbor/qb6scDiFH4wTKcbVehj1f1e-X7E=/0x0:1731x1155/1200x900/filters:focal(933x452:1209x728)/cdn.vox-cdn.com/uploads/chorus_image/image/64999899/Eater__Tapisserie_09024.14.jpg",
+			"https://sumatocoffee.com/cdn/shop/articles/the-importance-of-coffee-shops-in-communities-782577.jpg?v=1713277728&width=1600",
+			"https://www.barniescoffee.com/cdn/shop/articles/bar-1869656_1920.jpg?v=1660683986"
+		],
+		"logo": "https://t4.ftcdn.net/jpg/03/23/91/57/360_F_323915727_pGJQjKMNqpvpOMVqZ5Z2iCDGEVSd5Upk.jpg",
+		"featuredImage": "https://texascoffeeschool.com/wp-content/uploads/2022/03/JAN00491-scaled.jpg",
+		"address": {
+			"zip": "730000",
+			"city": "Iași",
+			"state": null,
+			"county": "Iași",
+			"street": "Str. Ștefan cel Mare, nr. 1",
+			"fullAddress": "Str. Ștefan cel Mare, nr. 1, Iași",
+			"country": "Romania"
+		},
+		"contact": {
+			"name": "Aidan Eichmann",
+			"email": "wkoch@example.org",
+			"phone": "(820) 775-6657"
+		}
+	},
+	{
+		"id": "2",
+		"active": true,
+		"slug": "cafeneaua-noastra",
+		"locations": [
+			{
+				"id": "9187132",
+				"name": "Iași - Piața Unirii",
+				"shortName": "PU",
+				"address": {
+					"zip": "730000",
+					"city": "Iași",
+					"state": null,
+					"county": "Iași",
+					"street": "Piața Unirii nr. 1",
+					"fullAddress": "Piața Unirii nr. 1, Iași",
+					"country": "Romania",
+					"coordinates": {
+						"latitude": 47.158473,
+						"longitude": 27.595912
+					}
+				},
+				"featuredImage": "https://sharpsheets.io/wp-content/uploads/2022/11/bakery-solutions03.jpeg.webp",
+				"contact": null,
+				"schedule": [
+					{
+						"day": "monday",
+						"open": "08:00",
+						"close": "17:00"
+					},
+					{
+						"day": "tuesday",
+						"open": "08:00",
+						"close": "17:00"
+					},
+					{
+						"day": "wednesday",
+						"open": "08:00",
+						"close": "17:00"
+					},
+					{
+						"day": "thursday",
+						"open": "08:00",
+						"close": "17:00"
+					},
+					{
+						"day": "friday",
+						"open": "08:00",
+						"close": "17:00"
+					},
+					{
+						"day": "saturday",
+						"open": "08:00",
+						"close": "17:00"
+					},
+					{
+						"day": "sunday",
+						"open": "08:00",
+						"close": "17:00"
+					}
+				],
+				"gallery": ["https://sharpsheets.io/wp-content/uploads/2022/11/bakery-solutions03.jpeg.webp"],
+				"tags": ["cafenea", "cafenea urbana", "cafenea urbana iași"],
+				"reviews": [
+					{
+						"name": "Andrei Popescu",
+						"rating": 4.5,
+						"comment": "Foarte bună cafenea, cu un personal foarte amabil și atențios."
+					},
+					{
+						"name": "Maria Ionescu",
+						"rating": 5,
+						"comment": "Servicii excelente! Personalul este foarte amabil și profesionist. Recomand cu încredere!"
+					}
+				],
+				"products": [
+					{
+						"id": "9187132",
+						"title": "Cappuccino",
+						"description": "Cafea italiana cu lapte",
+						"price": 12,
+						"image": "https://lorcoffee.com/cdn/shop/articles/Cappuccino-exc.jpg?v=1684870907"
+					},
+					{
+						"id": "9187133",
+						"title": "Espresso",
+						"description": "Cafea italiana",
+						"price": 8,
+						"image": "https://blogstudio.s3.theshoppad.net/coffeeheroau/ec178d83e5f597b162cda1e60cb64194.jpg"
+					},
+					{
+						"id": "9187134",
+						"title": "Americano",
+						"description": "Cafea italiana",
+						"price": 10,
+						"image": "https://www.caffesociety.co.uk/assets/recipe-images/how-to-make-an-americano.jpg"
+					},
+					{
+						"id": "9187135",
+						"title": "Latte",
+						"description": "Cafea italiana cu lapte",
+						"price": 15,
+						"image": "https://www.foodandwine.com/thmb/CCe2JUHfjCQ44L0YTbCu97ukUzA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Partners-Latte-FT-BLOG0523-09569880de524fe487831d95184495cc.jpg"
+					}
+				]
+			}
+		],
+		"followers": 245,
+		"socialMedia": {
+			"facebook": "https://www.facebook.com/business",
+			"instagram": "https://www.instagram.com/business"
+		},
+		"gallery": [
+			"https://sharpsheets.io/wp-content/uploads/2022/11/bakery-solutions03.jpeg.webp",
+			"https://cdn.vox-cdn.com/thumbor/qb6scDiFH4wTKcbVehj1f1e-X7E=/0x0:1731x1155/1200x900/filters:focal(933x452:1209x728)/cdn.vox-cdn.com/uploads/chorus_image/image/64999899/Eater__Tapisserie_09024.14.jpg",
+			"https://sumatocoffee.com/cdn/shop/articles/the-importance-of-coffee-shops-in-communities-782577.jpg?v=1713277728&width=1600",
+			"https://www.barniescoffee.com/cdn/shop/articles/bar-1869656_1920.jpg?v=1660683986",
+			"https://www.barniescoffee.com/cdn/shop/articles/bar-1869656_1920.jpg?v=1660683986"
+		],
+		"logo": "https://t4.ftcdn.net/jpg/03/23/91/57/360_F_323915727_pGJQjKMNqpvpOMVqZ5Z2iCDGEVSd5Upk.jpg",
+		"featuredImage": "https://texascoffeeschool.com/wp-content/uploads/2022/03/JAN00491-scaled.jpg",
+		"address": {
+			"zip": "730000",
+			"city": "Iași",
+			"state": null,
+			"county": "Iași",
+			"street": "Str. Ștefan cel Mare, nr. 1",
+			"fullAddress": "Str. Ștefan cel Mare, nr. 1, Iași",
+			"country": "Romania"
+		},
+		"contact": {
+			"name": "Aidan Eichmann",
+			"email": "wkoch@example.org",
+			"phone": "(820) 775-6657"
+		},
+		"companyDetails": {
+			"name": "Cafeneaua Noastră",
+			"description": "Cafeneaua noastră este un loc unde poți să te relaxezi și să te bucuri de o cafea bună.",
+			"website": "https://mideally.com",
+			"businessType": "cafenea"
+		}
+	},
+	{
+		"id": "3",
+		"active": true,
+		"slug": "cafeneaua-aurora",
+		"locations": [
+			{
+				"id": "9187135",
+				"name": "București - Centrul Vechi",
+				"shortName": "CV",
+				"address": {
+					"zip": "010131",
+					"city": "București",
+					"state": null,
+					"county": "București",
+					"street": "Strada Lipscani nr. 15",
+					"fullAddress": "Strada Lipscani nr. 15, București",
+					"country": "Romania",
+					"coordinates": {
+						"latitude": 44.4268,
+						"longitude": 26.1025
+					}
+				},
+				"featuredImage": "https://texascoffeeschool.com/wp-content/uploads/2024/08/1418-e1723733846245.jpg",
+				"contact": null,
+				"schedule": [
+					{
+						"day": "monday",
+						"open": "08:00",
+						"close": "22:00"
+					},
+					{
+						"day": "tuesday",
+						"open": "08:00",
+						"close": "22:00"
+					},
+					{
+						"day": "wednesday",
+						"open": "08:00",
+						"close": "22:00"
+					},
+					{
+						"day": "thursday",
+						"open": "08:00",
+						"close": "22:00"
+					},
+					{
+						"day": "friday",
+						"open": "08:00",
+						"close": "23:00"
+					},
+					{
+						"day": "saturday",
+						"open": "09:00",
+						"close": "23:00"
+					},
+					{
+						"day": "sunday",
+						"open": "09:00",
+						"close": "21:00"
+					}
+				],
+				"gallery": ["https://texascoffeeschool.com/wp-content/uploads/2024/08/1418-e1723733846245.jpg"],
+				"tags": ["cafenea", "cafenea aurora", "cafenea bucurești"],
+				"reviews": [
+					{
+						"name": "Andrei Popescu",
+						"rating": 4.5,
+						"comment": "Foarte bună cafenea, cu un personal foarte amabil și atențios."
+					},
+					{
+						"name": "Maria Ionescu",
+						"rating": 5,
+						"comment": "Servicii excelente! Personalul este foarte amabil și profesionist. Recomand cu încredere!"
+					}
+				],
+				"products": []
+			}
+		],
+		"followers": 189,
+		"socialMedia": {
+			"facebook": "https://www.facebook.com/business",
+			"instagram": "https://www.instagram.com/business"
+		},
+		"gallery": [
+			"https://sharpsheets.io/wp-content/uploads/2022/11/bakery-solutions03.jpeg.webp",
+			"https://cdn.vox-cdn.com/thumbor/qb6scDiFH4wTKcbVehj1f1e-X7E=/0x0:1731x1155/1200x900/filters:focal(933x452:1209x728)/cdn.vox-cdn.com/uploads/chorus_image/image/64999899/Eater__Tapisserie_09024.14.jpg",
+			"https://sumatocoffee.com/cdn/shop/articles/the-importance-of-coffee-shops-in-communities-782577.jpg?v=1713277728&width=1600",
+			"https://www.barniescoffee.com/cdn/shop/articles/bar-1869656_1920.jpg?v=1660683986"
+		],
+		"logo": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/coffee-shop-logos-design-template-cda8575e146cc5ba17cd3c1a24d65ba1_screen.jpg?ts=1638177256",
+		"featuredImage": "https://sumatocoffee.com/cdn/shop/articles/the-importance-of-coffee-shops-in-communities-782577.jpg?v=1713277728&width=1600",
+		"address": {
+			"zip": "010131",
+			"city": "București",
+			"state": null,
+			"county": "București",
+			"street": "Strada Lipscani nr. 15",
+			"fullAddress": "Strada Lipscani nr. 15, București",
+			"country": "Romania"
+		},
+		"contact": {
+			"name": "Elena Dumitrescu",
+			"email": "elena@cafeneaua-aurora.ro",
+			"phone": "(021) 123-4567"
+		},
+		"companyDetails": {
+			"name": "Cafeneaua Aurora",
+			"description": "Cafeneaua Aurora este un loc unde poți să te relaxezi și să te bucuri de o cafea bună.",
+			"website": "https://mideally.com",
+			"businessType": "cafenea"
+		}
+	},
+	{
+		"id": "4",
+		"active": true,
+		"slug": "brutaria-traditionala",
+		"locations": [
+			{
+				"id": "9187136",
+				"name": "Cluj-Napoca - Centru",
+				"shortName": "CN",
+				"address": {
+					"zip": "400001",
+					"city": "Cluj-Napoca",
+					"state": null,
+					"county": "Cluj",
+					"street": "Piața Unirii nr. 10",
+					"fullAddress": "Piața Unirii nr. 10, Cluj-Napoca",
+					"country": "Romania",
+					"coordinates": {
+						"latitude": 46.7712,
+						"longitude": 23.6236
+					}
+				},
+				"featuredImage": "https://cdn.vox-cdn.com/thumbor/qb6scDiFH4wTKcbVehj1f1e-X7E=/0x0:1731x1155/1200x900/filters:focal(933x452:1209x728)/cdn.vox-cdn.com/uploads/chorus_image/image/64999899/Eater__Tapisserie_09024.14.jpg",
+				"contact": null,
+				"schedule": [
+					{
+						"day": "monday",
+						"open": "07:00",
+						"close": "20:00"
+					},
+					{
+						"day": "tuesday",
+						"open": "07:00",
+						"close": "20:00"
+					},
+					{
+						"day": "wednesday",
+						"open": "07:00",
+						"close": "20:00"
+					},
+					{
+						"day": "thursday",
+						"open": "07:00",
+						"close": "20:00"
+					},
+					{
+						"day": "friday",
+						"open": "07:00",
+						"close": "20:00"
+					},
+					{
+						"day": "saturday",
+						"open": "07:00",
+						"close": "18:00"
+					},
+					{
+						"day": "sunday",
+						"open": "07:00",
+						"close": "16:00"
+					}
+				],
+				"gallery": [
+					"https://cdn.vox-cdn.com/thumbor/qb6scDiFH4wTKcbVehj1f1e-X7E=/0x0:1731x1155/1200x900/filters:focal(933x452:1209x728)/cdn.vox-cdn.com/uploads/chorus_image/image/64999899/Eater__Tapisserie_09024.14.jpg"
+				],
+				"tags": ["brutărie", "brutărie tradițională", "brutărie cluj"],
+				"reviews": [
+					{
+						"name": "Andrei Popescu",
+						"rating": 4.5,
+						"comment": "Foarte bună cafenea, cu un personal foarte amabil și atențios."
+					},
+					{
+						"name": "Maria Ionescu",
+						"rating": 5,
+						"comment": "Servicii excelente! Personalul este foarte amabil și profesionist. Recomand cu încredere!"
+					}
+				],
+				"products": []
+			},
+			{
+				"id": "9187137",
+				"name": "Cluj-Napoca - Mănăștur",
+				"shortName": "MN",
+				"address": {
+					"zip": "400001",
+					"city": "Cluj-Napoca",
+					"state": null,
+					"county": "Cluj",
+					"street": "Strada Mănăștur",
+					"fullAddress": "Strada Mănăștur, Cluj-Napoca",
+					"country": "Romania",
+					"coordinates": {
+						"latitude": 46.7712,
+						"longitude": 23.6236
+					}
+				},
+				"featuredImage": "https://sharpsheets.io/wp-content/uploads/2022/11/bakery-solutions03.jpeg.webp",
+				"contact": null,
+				"schedule": [
+					{
+						"day": "monday",
+						"open": "07:00",
+						"close": "20:00"
+					},
+					{
+						"day": "tuesday",
+						"open": "07:00",
+						"close": "20:00"
+					},
+					{
+						"day": "wednesday",
+						"open": "07:00",
+						"close": "20:00"
+					},
+					{
+						"day": "thursday",
+						"open": "07:00",
+						"close": "20:00"
+					},
+					{
+						"day": "friday",
+						"open": "07:00",
+						"close": "20:00"
+					},
+					{
+						"day": "saturday",
+						"open": "07:00",
+						"close": "18:00"
+					},
+					{
+						"day": "sunday",
+						"open": "07:00",
+						"close": "16:00"
+					}
+				],
+				"gallery": ["https://sharpsheets.io/wp-content/uploads/2022/11/bakery-solutions03.jpeg.webp"],
+				"tags": ["brutărie", "brutărie tradițională", "brutărie cluj"],
+				"reviews": [
+					{
+						"name": "Andrei Popescu",
+						"rating": 4.5,
+						"comment": "Foarte bună cafenea, cu un personal foarte amabil și atențios."
+					},
+					{
+						"name": "Maria Ionescu",
+						"rating": 5,
+						"comment": "Servicii excelente! Personalul este foarte amabil și profesionist. Recomand cu încredere!"
+					}
+				],
+				"products": []
+			}
+		],
+		"followers": 312,
+		"socialMedia": {
+			"facebook": "https://www.facebook.com/business",
+			"instagram": "https://www.instagram.com/business"
+		},
+		"gallery": [
+			"https://sharpsheets.io/wp-content/uploads/2022/11/bakery-solutions03.jpeg.webp",
+			"https://cdn.vox-cdn.com/thumbor/qb6scDiFH4wTKcbVehj1f1e-X7E=/0x0:1731x1155/1200x900/filters:focal(933x452:1209x728)/cdn.vox-cdn.com/uploads/chorus_image/image/64999899/Eater__Tapisserie_09024.14.jpg",
+			"https://sumatocoffee.com/cdn/shop/articles/the-importance-of-coffee-shops-in-communities-782577.jpg?v=1713277728&width=1600",
+			"https://www.barniescoffee.com/cdn/shop/articles/bar-1869656_1920.jpg?v=1660683986"
+		],
+		"logo": "https://media.istockphoto.com/id/1291582566/vector/bakery-bread-and-cakes-vector-design-logo.jpg?s=612x612&w=0&k=20&c=PVgG3CEiWlo_YdjX24CEJhDdxNBACHdt4Z-nLe-jjX8=",
+		"featuredImage": "https://sharpsheets.io/wp-content/uploads/2022/11/bakery-solutions03.jpeg.webp",
+		"address": {
+			"zip": "400001",
+			"city": "Cluj-Napoca",
+			"state": null,
+			"county": "Cluj",
+			"street": "Piața Unirii nr. 10",
+			"fullAddress": "Piața Unirii nr. 10, Cluj-Napoca",
+			"country": "Romania"
+		},
+		"contact": {
+			"name": "Ioan Popa",
+			"email": "ioan@brutaria-traditionala.ro",
+			"phone": "(0264) 123-4567"
+		},
+		"companyDetails": {
+			"name": "Brutăria Tradițională",
+			"description": "Brutăria Tradițională este un loc unde poți să te relaxezi și să te bucuri de o cafea bună.",
+			"website": "https://mideally.com",
+			"businessType": "patiserie"
+		}
+	},
+	{
+		"id": "5",
+		"active": true,
+		"slug": "barul-nocturn",
+		"locations": [
+			{
+				"id": "9187138",
+				"name": "Timișoara - Centru",
+				"shortName": "TM",
+				"address": {
+					"zip": "300001",
+					"city": "Timișoara",
+					"state": null,
+					"county": "Timiș",
+					"street": "Piața Victoriei nr. 5",
+					"fullAddress": "Piața Victoriei 5, Timișoara",
+					"country": "Romania",
+					"coordinates": {
+						"latitude": 45.7471,
+						"longitude": 21.2087
+					}
+				},
+				"featuredImage": "https://www.barniescoffee.com/cdn/shop/articles/bar-1869656_1920.jpg?v=1660683986",
+				"contact": null,
+				"schedule": [
+					{
+						"day": "monday",
+						"open": "18:00",
+						"close": "02:00"
+					},
+					{
+						"day": "tuesday",
+						"open": "18:00",
+						"close": "02:00"
+					},
+					{
+						"day": "wednesday",
+						"open": "18:00",
+						"close": "02:00"
+					},
+					{
+						"day": "thursday",
+						"open": "18:00",
+						"close": "02:00"
+					},
+					{
+						"day": "friday",
+						"open": "18:00",
+						"close": "04:00"
+					},
+					{
+						"day": "saturday",
+						"open": "18:00",
+						"close": "04:00"
+					},
+					{
+						"day": "sunday",
+						"open": "18:00",
+						"close": "02:00"
+					}
+				],
+				"gallery": ["https://www.barniescoffee.com/cdn/shop/articles/bar-1869656_1920.jpg?v=1660683986"],
+				"tags": ["bar", "bar nocturn", "bar timișoara"],
+				"reviews": [
+					{
+						"name": "Andrei Popescu",
+						"rating": 4.5,
+						"comment": "Foarte bună cafenea, cu un personal foarte amabil și atențios."
+					},
+					{
+						"name": "Maria Ionescu",
+						"rating": 5,
+						"comment": "Servicii excelente! Personalul este foarte amabil și profesionist. Recomand cu încredere!"
+					}
+				],
+				"products": []
+			}
+		],
+		"followers": 156,
+		"socialMedia": {
+			"facebook": "https://www.facebook.com/business",
+			"instagram": "https://www.instagram.com/business"
+		},
+		"gallery": [
+			"https://sharpsheets.io/wp-content/uploads/2022/11/bakery-solutions03.jpeg.webp",
+			"https://cdn.vox-cdn.com/thumbor/qb6scDiFH4wTKcbVehj1f1e-X7E=/0x0:1731x1155/1200x900/filters:focal(933x452:1209x728)/cdn.vox-cdn.com/uploads/chorus_image/image/64999899/Eater__Tapisserie_09024.14.jpg",
+			"https://sumatocoffee.com/cdn/shop/articles/the-importance-of-coffee-shops-in-communities-782577.jpg?v=1713277728&width=1600",
+			"https://www.barniescoffee.com/cdn/shop/articles/bar-1869656_1920.jpg?v=1660683986"
+		],
+		"logo": "https://static.vecteezy.com/system/resources/previews/010/628/580/non_2x/cocktail-logo-design-template-bar-logo-vector.jpg",
+		"featuredImage": "https://www.barniescoffee.com/cdn/shop/articles/bar-1869656_1920.jpg?v=1660683986",
+		"address": {
+			"zip": "300001",
+			"city": "Timișoara",
+			"state": null,
+			"county": "Timiș",
+			"street": "Piața Victoriei nr. 5",
+			"fullAddress": "Piața Victoriei 5, Timișoara",
+			"country": "Romania"
+		},
+		"contact": {
+			"name": "Alexandru Munteanu",
+			"email": "alex@barul-nocturn.ro",
+			"phone": "(0256) 123-4567"
+		},
+		"companyDetails": {
+			"name": "Barul Nocturn",
+			"description": "Barul Nocturn este un loc unde poți să te relaxezi și să te bucuri de o cafea bună.",
+			"website": "https://mideally.com",
+			"businessType": "restaurant"
+		}
+	},
+	{
+		"id": "6",
+		"active": true,
+		"slug": "cafeneaua-verde",
+		"locations": [
+			{
+				"id": "9187139",
+				"name": "Brașov - Centru Istoric",
+				"shortName": "CI",
+				"address": {
+					"zip": "500001",
+					"city": "Brașov",
+					"state": null,
+					"county": "Brașov",
+					"street": "Piața Sfatului nr. 1",
+					"fullAddress": "Piața Sfatului nr. 1, Brașov",
+					"country": "Romania",
+					"coordinates": {
+						"latitude": 45.6427,
+						"longitude": 25.5887
+					}
+				},
+				"featuredImage": "https://esquirescoffee.co.uk/wp-content/uploads/2021/11/kaylah-matthews-6e5hgWV2DAo-unsplash-e1684321509250.jpg",
+				"contact": null,
+				"schedule": [
+					{
+						"day": "monday",
+						"open": "08:00",
+						"close": "21:00"
+					},
+					{
+						"day": "tuesday",
+						"open": "08:00",
+						"close": "21:00"
+					},
+					{
+						"day": "wednesday",
+						"open": "08:00",
+						"close": "21:00"
+					},
+					{
+						"day": "thursday",
+						"open": "08:00",
+						"close": "21:00"
+					},
+					{
+						"day": "friday",
+						"open": "08:00",
+						"close": "22:00"
+					},
+					{
+						"day": "saturday",
+						"open": "09:00",
+						"close": "22:00"
+					},
+					{
+						"day": "sunday",
+						"open": "09:00",
+						"close": "20:00"
+					}
+				],
+				"gallery": [
+					"https://esquirescoffee.co.uk/wp-content/uploads/2021/11/kaylah-matthews-6e5hgWV2DAo-unsplash-e1684321509250.jpg"
+				],
+				"tags": ["cafenea", "cafenea verde", "cafenea brașov"],
+				"reviews": [
+					{
+						"name": "Andrei Popescu",
+						"rating": 4.5,
+						"comment": "Foarte bună cafenea, cu un personal foarte amabil și atențios."
+					},
+					{
+						"name": "Maria Ionescu",
+						"rating": 5,
+						"comment": "Servicii excelente! Personalul este foarte amabil și profesionist. Recomand cu încredere!"
+					}
+				],
+				"products": []
+			},
+			{
+				"id": "9187140",
+				"name": "Brașov - Poiana Brașov",
+				"shortName": "PB",
+				"address": {
+					"zip": "500001",
+					"city": "Brașov",
+					"state": null,
+					"county": "Brașov",
+					"street": "Poiana Brașov nr. 1",
+					"fullAddress": "Poiana Brașov nr. 1, Brașov",
+					"country": "Romania",
+					"coordinates": {
+						"latitude": 45.6427,
+						"longitude": 25.5887
+					}
+				},
+				"featuredImage": "https://www.iointeriors.in/assets/img/top-5-creative-ideas-for-small-coffee-shop-interior-design.webp",
+				"contact": null,
+				"schedule": [
+					{
+						"day": "monday",
+						"open": "08:00",
+						"close": "21:00"
+					},
+					{
+						"day": "tuesday",
+						"open": "08:00",
+						"close": "21:00"
+					},
+					{
+						"day": "wednesday",
+						"open": "08:00",
+						"close": "21:00"
+					},
+					{
+						"day": "thursday",
+						"open": "08:00",
+						"close": "21:00"
+					},
+					{
+						"day": "friday",
+						"open": "08:00",
+						"close": "22:00"
+					},
+					{
+						"day": "saturday",
+						"open": "09:00",
+						"close": "22:00"
+					},
+					{
+						"day": "sunday",
+						"open": "09:00",
+						"close": "20:00"
+					}
+				],
+				"gallery": [
+					"https://www.iointeriors.in/assets/img/top-5-creative-ideas-for-small-coffee-shop-interior-design.webp"
+				],
+				"tags": ["cafenea", "cafenea verde", "cafenea brașov"],
+				"reviews": [
+					{
+						"name": "Andrei Popescu",
+						"rating": 4.5,
+						"comment": "Foarte bună cafenea, cu un personal foarte amabil și atențios."
+					},
+					{
+						"name": "Maria Ionescu",
+						"rating": 5,
+						"comment": "Servicii excelente! Personalul este foarte amabil și profesionist. Recomand cu încredere!"
+					}
+				],
+				"products": []
+			}
+		],
+		"followers": 278,
+		"socialMedia": {
+			"facebook": "https://www.facebook.com/business",
+			"instagram": "https://www.instagram.com/business"
+		},
+		"gallery": [
+			"https://sharpsheets.io/wp-content/uploads/2022/11/bakery-solutions03.jpeg.webp",
+			"https://cdn.vox-cdn.com/thumbor/qb6scDiFH4wTKcbVehj1f1e-X7E=/0x0:1731x1155/1200x900/filters:focal(933x452:1209x728)/cdn.vox-cdn.com/uploads/chorus_image/image/64999899/Eater__Tapisserie_09024.14.jpg",
+			"https://sumatocoffee.com/cdn/shop/articles/the-importance-of-coffee-shops-in-communities-782577.jpg?v=1713277728&width=1600",
+			"https://www.barniescoffee.com/cdn/shop/articles/bar-1869656_1920.jpg?v=1660683986"
+		],
+		"logo": "https://media.istockphoto.com/id/1262771454/vector/coffee-shop-emblem-template.jpg?s=612x612&w=0&k=20&c=y1EyHCxENVCPCgblJ00BEdjiUjwMnYk4QgZSKRCegxY=",
+		"featuredImage": "https://esquirescoffee.co.uk/wp-content/uploads/2021/11/kaylah-matthews-6e5hgWV2DAo-unsplash-e1684321509250.jpg",
+		"address": {
+			"zip": "500001",
+			"city": "Brașov",
+			"state": null,
+			"county": "Brașov",
+			"street": "Piața Sfatului nr. 8",
+			"fullAddress": "Piața Sfatului 8, Brașov",
+			"country": "Romania"
+		},
+		"contact": {
+			"name": "Cristina Vasilescu",
+			"email": "cristina@cafeneaua-verde.ro",
+			"phone": "(0268) 123-4567"
+		},
+		"companyDetails": {
+			"name": "Cafeneaua Verde",
+			"description": "Cafeneaua Verde este un loc unde poți să te relaxezi și să te bucuri de o cafea bună.",
+			"website": "https://mideally.com",
+			"businessType": "cafenea"
+		}
+	},
+	{
+		"id": "7",
+		"active": true,
+		"slug": "brutaria-artizanala",
+		"locations": [
+			{
+				"id": "9187141",
+				"name": "Sibiu - Centru",
+				"shortName": "SB",
+				"address": {
+					"zip": "500001",
+					"city": "Sibiu",
+					"state": null,
+					"county": "Sibiu",
+					"street": "Piața Mare nr. 15",
+					"fullAddress": "Piața Mare nr. 15, Sibiu",
+					"country": "Romania",
+					"coordinates": {
+						"latitude": 45.7983,
+						"longitude": 24.1256
+					}
+				},
+				"featuredImage": "https://3brothersbakery.com/wp-content/uploads/2019/02/Houston%E2%80%99s-Specialty-Bakery.png",
+				"contact": null,
+				"schedule": [
+					{
+						"day": "monday",
+						"open": "07:00",
+						"close": "19:00"
+					},
+					{
+						"day": "tuesday",
+						"open": "07:00",
+						"close": "19:00"
+					},
+					{
+						"day": "wednesday",
+						"open": "07:00",
+						"close": "19:00"
+					},
+					{
+						"day": "thursday",
+						"open": "07:00",
+						"close": "19:00"
+					},
+					{
+						"day": "friday",
+						"open": "07:00",
+						"close": "19:00"
+					},
+					{
+						"day": "saturday",
+						"open": "07:00",
+						"close": "17:00"
+					},
+					{
+						"day": "sunday",
+						"open": "07:00",
+						"close": "15:00"
+					}
+				],
+				"gallery": [
+					"https://3brothersbakery.com/wp-content/uploads/2019/02/Houston%E2%80%99s-Specialty-Bakery.png"
+				],
+				"tags": ["brutărie", "brutărie artizanală", "brutărie sibiu"],
+				"reviews": [
+					{
+						"name": "Andrei Popescu",
+						"rating": 4.5,
+						"comment": "Foarte bună cafenea, cu un personal foarte amabil și atențios."
+					},
+					{
+						"name": "Maria Ionescu",
+						"rating": 5,
+						"comment": "Servicii excelente! Personalul este foarte amabil și profesionist. Recomand cu încredere!"
+					}
+				],
+				"products": []
+			}
+		],
+		"followers": 134,
+		"socialMedia": {
+			"facebook": "https://www.facebook.com/business",
+			"instagram": "https://www.instagram.com/business"
+		},
+		"gallery": [
+			"https://sharpsheets.io/wp-content/uploads/2022/11/bakery-solutions03.jpeg.webp",
+			"https://cdn.vox-cdn.com/thumbor/qb6scDiFH4wTKcbVehj1f1e-X7E=/0x0:1731x1155/1200x900/filters:focal(933x452:1209x728)/cdn.vox-cdn.com/uploads/chorus_image/image/64999899/Eater__Tapisserie_09024.14.jpg",
+			"https://sumatocoffee.com/cdn/shop/articles/the-importance-of-coffee-shops-in-communities-782577.jpg?v=1713277728&width=1600",
+			"https://www.barniescoffee.com/cdn/shop/articles/bar-1869656_1920.jpg?v=1660683986"
+		],
+		"logo": "https://thumbs.dreamstime.com/b/bakery-bakeshop-logo-label-home-baking-bread-concept-cartoon-vector-illustration-bakery-bakeshop-logo-label-home-baking-120071941.jpg",
+		"featuredImage": "https://3brothersbakery.com/wp-content/uploads/2019/02/Houston%E2%80%99s-Specialty-Bakery.png",
+		"address": {
+			"zip": "550001",
+			"city": "Sibiu",
+			"state": null,
+			"county": "Sibiu",
+			"street": "Piața Mare nr. 12",
+			"fullAddress": "Piața Mare 12, Sibiu",
+			"country": "Romania"
+		},
+		"contact": {
+			"name": "Mihai Dumitrescu",
+			"email": "mihai@brutaria-artizanala.ro",
+			"phone": "(0269) 123-4567"
+		},
+		"companyDetails": {
+			"name": "Brutăria Artizanală",
+			"description": "Brutăria Artizanală este un loc unde poți să te relaxezi și să te bucuri de o cafea bună.",
+			"website": "https://mideally.com",
+			"businessType": "patiserie"
+		}
+	},
+	{
+		"id": "8",
+		"active": true,
+		"slug": "cafeneaua-aurora",
+		"locations": [
+			{
+				"id": "9187142",
+				"name": "Constanța - Centru",
+				"shortName": "CT",
+				"address": {
+					"zip": "500001",
+					"city": "Constanța",
+					"state": null,
+					"county": "Constanța",
+					"street": "Piața Ovidiu nr. 1",
+					"fullAddress": "Piața Ovidiu nr. 1, Constanța",
+					"country": "Romania",
+					"coordinates": {
+						"latitude": 44.1733,
+						"longitude": 28.6383
+					}
+				},
+				"featuredImage": "https://texascoffeeschool.com/wp-content/uploads/2024/08/1418-e1723733846245.jpg",
+				"contact": null,
+				"schedule": [
+					{
+						"day": "monday",
+						"open": "08:00",
+						"close": "20:00"
+					},
+					{
+						"day": "tuesday",
+						"open": "08:00",
+						"close": "20:00"
+					},
+					{
+						"day": "wednesday",
+						"open": "08:00",
+						"close": "20:00"
+					},
+					{
+						"day": "thursday",
+						"open": "08:00",
+						"close": "20:00"
+					},
+					{
+						"day": "friday",
+						"open": "08:00",
+						"close": "21:00"
+					},
+					{
+						"day": "saturday",
+						"open": "09:00",
+						"close": "21:00"
+					},
+					{
+						"day": "sunday",
+						"open": "09:00",
+						"close": "19:00"
+					}
+				],
+				"gallery": ["https://texascoffeeschool.com/wp-content/uploads/2024/08/1418-e1723733846245.jpg"],
+				"tags": ["cafenea", "cafenea aurora", "cafenea constanța"],
+				"reviews": [
+					{
+						"name": "Andrei Popescu",
+						"rating": 4.5,
+						"comment": "Foarte bună cafenea, cu un personal foarte amabil și atențios."
+					},
+					{
+						"name": "Maria Ionescu",
+						"rating": 5,
+						"comment": "Servicii excelente! Personalul este foarte amabil și profesionist. Recomand cu încredere!"
+					}
+				],
+				"products": []
+			},
+			{
+				"id": "9187143",
+				"name": "Constanța - Mamaia",
+				"shortName": "MM",
+				"address": {
+					"zip": "500001",
+					"city": "Constanța",
+					"state": null,
+					"county": "Constanța",
+					"street": "Mamaia nr. 1",
+					"fullAddress": "Mamaia nr. 1, Constanța",
+					"country": "Romania",
+					"coordinates": {
+						"latitude": 44.1733,
+						"longitude": 28.6383
+					}
+				},
+				"featuredImage": "https://esquirescoffee.co.uk/wp-content/uploads/2021/11/kaylah-matthews-6e5hgWV2DAo-unsplash-e1684321509250.jpg",
+				"contact": null,
+				"schedule": [
+					{
+						"day": "monday",
+						"open": "08:00",
+						"close": "20:00"
+					},
+					{
+						"day": "tuesday",
+						"open": "08:00",
+						"close": "20:00"
+					},
+					{
+						"day": "wednesday",
+						"open": "08:00",
+						"close": "20:00"
+					},
+					{
+						"day": "thursday",
+						"open": "08:00",
+						"close": "20:00"
+					},
+					{
+						"day": "friday",
+						"open": "08:00",
+						"close": "21:00"
+					},
+					{
+						"day": "saturday",
+						"open": "09:00",
+						"close": "21:00"
+					},
+					{
+						"day": "sunday",
+						"open": "09:00",
+						"close": "19:00"
+					}
+				],
+				"gallery": [
+					"https://esquirescoffee.co.uk/wp-content/uploads/2021/11/kaylah-matthews-6e5hgWV2DAo-unsplash-e1684321509250.jpg"
+				],
+				"tags": ["cafenea", "cafenea aurora", "cafenea constanța"],
+				"reviews": [
+					{
+						"name": "Andrei Popescu",
+						"rating": 4.5,
+						"comment": "Foarte bună cafenea, cu un personal foarte amabil și atențios."
+					},
+					{
+						"name": "Maria Ionescu",
+						"rating": 5,
+						"comment": "Servicii excelente! Personalul este foarte amabil și profesionist. Recomand cu încredere!"
+					}
+				],
+				"products": []
+			},
+			{
+				"id": "9187144",
+				"name": "Constanța - Eforie",
+				"shortName": "EF",
+				"address": {
+					"zip": "500001",
+					"city": "Constanța",
+					"state": null,
+					"county": "Constanța",
+					"street": "Eforie nr. 1",
+					"fullAddress": "Eforie nr. 1, Constanța",
+					"country": "Romania",
+					"coordinates": {
+						"latitude": 44.1733,
+						"longitude": 28.6383
+					}
+				},
+				"featuredImage": "https://www.iointeriors.in/assets/img/top-5-creative-ideas-for-small-coffee-shop-interior-design.webp",
+				"contact": null,
+				"schedule": [
+					{
+						"day": "monday",
+						"open": "08:00",
+						"close": "20:00"
+					},
+					{
+						"day": "tuesday",
+						"open": "08:00",
+						"close": "20:00"
+					},
+					{
+						"day": "wednesday",
+						"open": "08:00",
+						"close": "20:00"
+					},
+					{
+						"day": "thursday",
+						"open": "08:00",
+						"close": "20:00"
+					},
+					{
+						"day": "friday",
+						"open": "08:00",
+						"close": "21:00"
+					},
+					{
+						"day": "saturday",
+						"open": "09:00",
+						"close": "21:00"
+					},
+					{
+						"day": "sunday",
+						"open": "09:00",
+						"close": "19:00"
+					}
+				],
+				"gallery": [
+					"https://www.iointeriors.in/assets/img/top-5-creative-ideas-for-small-coffee-shop-interior-design.webp"
+				],
+				"tags": ["cafenea", "cafenea aurora", "cafenea constanța"],
+				"reviews": [
+					{
+						"name": "Andrei Popescu",
+						"rating": 4.5,
+						"comment": "Foarte bună cafenea, cu un personal foarte amabil și atențios."
+					},
+					{
+						"name": "Maria Ionescu",
+						"rating": 5,
+						"comment": "Servicii excelente! Personalul este foarte amabil și profesionist. Recomand cu încredere!"
+					}
+				],
+				"products": []
+			}
+		],
+		"followers": 423,
+		"socialMedia": {
+			"facebook": "https://www.facebook.com/business",
+			"instagram": "https://www.instagram.com/business"
+		},
+		"gallery": [
+			"https://sharpsheets.io/wp-content/uploads/2022/11/bakery-solutions03.jpeg.webp",
+			"https://cdn.vox-cdn.com/thumbor/qb6scDiFH4wTKcbVehj1f1e-X7E=/0x0:1731x1155/1200x900/filters:focal(933x452:1209x728)/cdn.vox-cdn.com/uploads/chorus_image/image/64999899/Eater__Tapisserie_09024.14.jpg",
+			"https://sumatocoffee.com/cdn/shop/articles/the-importance-of-coffee-shops-in-communities-782577.jpg?v=1713277728&width=1600",
+			"https://www.barniescoffee.com/cdn/shop/articles/bar-1869656_1920.jpg?v=1660683986"
+		],
+		"logo": "https://t4.ftcdn.net/jpg/03/23/91/57/360_F_323915727_pGJQjKMNqpvpOMVqZ5Z2iCDGEVSd5Upk.jpg",
+		"featuredImage": "https://texascoffeeschool.com/wp-content/uploads/2024/08/1418-e1723733846245.jpg",
+		"address": {
+			"zip": "900001",
+			"city": "Constanța",
+			"state": "Constanța",
+			"county": null,
+			"street": "Piața Ovidiu 3",
+			"address": null,
+			"country": "România"
+		},
+		"contact": {
+			"name": "Ana Popescu",
+			"email": "ana@cafeneaua-aurora.ro",
+			"phone": "(0241) 123-4567"
+		},
+		"companyDetails": {
+			"name": "Cafeneaua Aurora",
+			"description": "Voluptate quo eum voluptate. Eos eius labore eos aliquid ipsam inventore quisquam. Enim sequi eum modi molestiae sit corrupti magni. Ut nihil nihil iure totam velit.",
+			"website": "https://mideally.com",
+			"businessType": "cafenea"
+		}
+	},
+	{
+		"id": "9",
+		"active": true,
+		"slug": "night-club-elite",
+		"name": "Night Club Elite",
+		"description": "Voluptate quo eum voluptate. Eos eius labore eos aliquid ipsam inventore quisquam. Enim sequi eum modi molestiae sit corrupti magni. Ut nihil nihil iure totam velit.",
+		"locations": [
+			{
+				"id": "9187145",
+				"name": "București - Centrul Vechi",
+				"shortName": "CV",
+				"address": {
+					"zip": "010131",
+					"city": "București",
+					"state": null,
+					"county": "București",
+					"street": "Strada Lipscani nr. 25",
+					"fullAddress": "Strada Lipscani nr. 25, București",
+					"country": "Romania",
+					"coordinates": {
+						"latitude": 44.4268,
+						"longitude": 26.1025
+					}
+				},
+				"featuredImage": "https://marketplace.canva.com/EAGOVOZ3zeY/1/0/1600w/canva-retro-dazle-night-club-logo-c36gMC1IF1c.jpg",
+				"contact": null,
+				"schedule": [
+					{
+						"day": "monday",
+						"open": "22:00",
+						"close": "06:00"
+					},
+					{
+						"day": "tuesday",
+						"open": "22:00",
+						"close": "06:00"
+					},
+					{
+						"day": "wednesday",
+						"open": "22:00",
+						"close": "06:00"
+					},
+					{
+						"day": "thursday",
+						"open": "22:00",
+						"close": "06:00"
+					},
+					{
+						"day": "friday",
+						"open": "22:00",
+						"close": "08:00"
+					},
+					{
+						"day": "saturday",
+						"open": "22:00",
+						"close": "08:00"
+					},
+					{
+						"day": "sunday",
+						"open": "22:00",
+						"close": "06:00"
+					}
+				],
+				"gallery": [
+					"https://marketplace.canva.com/EAGOVOZ3zeY/1/0/1600w/canva-retro-dazle-night-club-logo-c36gMC1IF1c.jpg"
+				],
+				"tags": ["night club", "club", "club bucurești"],
+				"reviews": [
+					{
+						"name": "Andrei Popescu",
+						"rating": 4.5,
+						"comment": "Foarte bună cafenea, cu un personal foarte amabil și atențios."
+					},
+					{
+						"name": "Maria Ionescu",
+						"rating": 5,
+						"comment": "Servicii excelente! Personalul este foarte amabil și profesionist. Recomand cu încredere!"
+					}
+				],
+				"products": []
+			}
+		],
+		"followers": 567,
+		"socialMedia": {
+			"facebook": "https://www.facebook.com/business",
+			"instagram": "https://www.instagram.com/business"
+		},
+		"gallery": [
+			"https://sharpsheets.io/wp-content/uploads/2022/11/bakery-solutions03.jpeg.webp",
+			"https://cdn.vox-cdn.com/thumbor/qb6scDiFH4wTKcbVehj1f1e-X7E=/0x0:1731x1155/1200x900/filters:focal(933x452:1209x728)/cdn.vox-cdn.com/uploads/chorus_image/image/64999899/Eater__Tapisserie_09024.14.jpg",
+			"https://sumatocoffee.com/cdn/shop/articles/the-importance-of-coffee-shops-in-communities-782577.jpg?v=1713277728&width=1600",
+			"https://www.barniescoffee.com/cdn/shop/articles/bar-1869656_1920.jpg?v=1660683986"
+		],
+		"logo": "https://marketplace.canva.com/EAGOVOZ3zeY/1/0/1600w/canva-retro-dazle-night-club-logo-c36gMC1IF1c.jpg",
+		"featuredImage": "https://marketplace.canva.com/EAGOVOZ3zeY/1/0/1600w/canva-retro-dazle-night-club-logo-c36gMC1IF1c.jpg",
+		"address": {
+			"zip": "010131",
+			"city": "București",
+			"state": null,
+			"county": "București",
+			"street": "Strada Lipscani nr. 25",
+			"fullAddress": "Strada Lipscani 25, București",
+			"country": "Romania"
+		},
+		"contact": {
+			"name": "Vlad Ionescu",
+			"email": "vlad@night-club-elite.ro",
+			"phone": "(021) 987-6543"
+		},
+		"companyDetails": {
+			"name": "Night Club Elite",
+			"description": "Voluptate quo eum voluptate. Eos eius labore eos aliquid ipsam inventore quisquam. Enim sequi eum modi molestiae sit corrupti magni. Ut nihil nihil iure totam velit.",
+			"website": "https://mideally.com",
+			"businessType": "servicii"
+		}
+	},
+	{
+		"id": "10",
+		"active": true,
+		"slug": "cafeneaua-dorobanti",
+		"name": "Cafeneaua Dorobanți",
+		"description": "Voluptate quo eum voluptate. Eos eius labore eos aliquid ipsam inventore quisquam. Enim sequi eum modi molestiae sit corrupti magni. Ut nihil nihil iure totam velit.",
+		"locations": [
+			{
+				"id": "9187146",
+				"name": "București - Dorobanți",
+				"shortName": "DR",
+				"address": {
+					"zip": "010131",
+					"city": "București",
+					"state": null,
+					"county": "București",
+					"street": "Strada Dorobanți nr. 1",
+					"fullAddress": "Strada Dorobanți nr. 1, București",
+					"country": "Romania",
+					"coordinates": {
+						"latitude": 44.4268,
+						"longitude": 26.1025
+					}
+				},
+				"featuredImage": "https://texascoffeeschool.com/wp-content/uploads/2022/03/JAN00491-scaled.jpg",
+				"contact": null,
+				"schedule": [
+					{
+						"day": "monday",
+						"open": "07:00",
+						"close": "22:00"
+					},
+					{
+						"day": "tuesday",
+						"open": "07:00",
+						"close": "22:00"
+					},
+					{
+						"day": "wednesday",
+						"open": "07:00",
+						"close": "22:00"
+					},
+					{
+						"day": "thursday",
+						"open": "07:00",
+						"close": "22:00"
+					},
+					{
+						"day": "friday",
+						"open": "07:00",
+						"close": "23:00"
+					},
+					{
+						"day": "saturday",
+						"open": "08:00",
+						"close": "23:00"
+					},
+					{
+						"day": "sunday",
+						"open": "08:00",
+						"close": "21:00"
+					}
+				],
+				"gallery": ["https://texascoffeeschool.com/wp-content/uploads/2022/03/JAN00491-scaled.jpg"],
+				"tags": ["cafenea", "cafenea dorobanți", "cafenea bucurești"],
+				"reviews": [
+					{
+						"name": "Andrei Popescu",
+						"rating": 4.5,
+						"comment": "Foarte bună cafenea, cu un personal foarte amabil și atențios."
+					},
+					{
+						"name": "Maria Ionescu",
+						"rating": 5,
+						"comment": "Servicii excelente! Personalul este foarte amabil și profesionist. Recomand cu încredere!"
+					}
+				],
+				"products": []
+			}
+		],
+		"followers": 198,
+		"socialMedia": {
+			"facebook": "https://www.facebook.com/business",
+			"instagram": "https://www.instagram.com/business"
+		},
+		"gallery": [
+			"https://sharpsheets.io/wp-content/uploads/2022/11/bakery-solutions03.jpeg.webp",
+			"https://cdn.vox-cdn.com/thumbor/qb6scDiFH4wTKcbVehj1f1e-X7E=/0x0:1731x1155/1200x900/filters:focal(933x452:1209x728)/cdn.vox-cdn.com/uploads/chorus_image/image/64999899/Eater__Tapisserie_09024.14.jpg",
+			"https://sumatocoffee.com/cdn/shop/articles/the-importance-of-coffee-shops-in-communities-782577.jpg?v=1713277728&width=1600",
+			"https://www.barniescoffee.com/cdn/shop/articles/bar-1869656_1920.jpg?v=1660683986"
+		],
+		"logo": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/coffee-shop-logos-design-template-cda8575e146cc5ba17cd3c1a24d65ba1_screen.jpg?ts=1638177256",
+		"featuredImage": "https://texascoffeeschool.com/wp-content/uploads/2022/03/JAN00491-scaled.jpg",
+		"address": {
+			"zip": "010131",
+			"city": "București",
+			"state": null,
+			"county": "București",
+			"street": "Strada Dorobanți nr. 45",
+			"fullAddress": "Strada Dorobanți 45, București",
+			"country": "Romania"
+		},
+		"contact": {
+			"name": "Laura Dumitrescu",
+			"email": "laura@cafeneaua-dorobanti.ro",
+			"phone": "(021) 456-7890"
+		},
+		"companyDetails": {
+			"name": "Cafeneaua Dorobanți",
+			"description": "Voluptate quo eum voluptate. Eos eius labore eos aliquid ipsam inventore quisquam. Enim sequi eum modi molestiae sit corrupti magni. Ut nihil nihil iure totam velit.",
+			"website": "https://mideally.com",
+			"businessType": "cafenea"
+		}
+	},
+	{
+		"id": "11",
+		"active": true,
+		"slug": "brutaria-mama",
+		"locations": [
+			{
+				"id": "9187147",
+				"name": "Ploiești - Centru",
+				"shortName": "PL",
+				"address": {
+					"zip": "100001",
+					"city": "Ploiești",
+					"state": null,
+					"county": "Ploiești",
+					"street": "Piața Victoriei nr. 1",
+					"fullAddress": "Piața Victoriei nr. 1, Ploiești",
+					"country": "Romania",
+					"coordinates": {
+						"latitude": 44.9411,
+						"longitude": 26.0226
+					}
+				},
+				"featuredImage": "https://sharpsheets.io/wp-content/uploads/2022/11/bakery-solutions03.jpeg.webp",
+				"contact": null,
+				"schedule": [
+					{
+						"day": "monday",
+						"open": "06:00",
+						"close": "20:00"
+					},
+					{
+						"day": "tuesday",
+						"open": "06:00",
+						"close": "20:00"
+					},
+					{
+						"day": "wednesday",
+						"open": "06:00",
+						"close": "20:00"
+					},
+					{
+						"day": "thursday",
+						"open": "06:00",
+						"close": "20:00"
+					},
+					{
+						"day": "friday",
+						"open": "06:00",
+						"close": "20:00"
+					},
+					{
+						"day": "saturday",
+						"open": "06:00",
+						"close": "18:00"
+					},
+					{
+						"day": "sunday",
+						"open": "06:00",
+						"close": "16:00"
+					}
+				],
+				"gallery": ["https://sharpsheets.io/wp-content/uploads/2022/11/bakery-solutions03.jpeg.webp"],
+				"tags": ["brutărie", "brutărie mama", "brutărie ploiești"],
+				"reviews": [
+					{
+						"name": "Andrei Popescu",
+						"rating": 4.5,
+						"comment": "Foarte bună cafenea, cu un personal foarte amabil și atențios."
+					},
+					{
+						"name": "Maria Ionescu",
+						"rating": 5,
+						"comment": "Servicii excelente! Personalul este foarte amabil și profesionist. Recomand cu încredere!"
+					}
+				],
+				"products": []
+			},
+			{
+				"id": "9187148",
+				"name": "Ploiești - Sud",
+				"shortName": "PS",
+				"address": {
+					"zip": "100001",
+					"city": "Ploiești",
+					"state": null,
+					"county": "Ploiești",
+					"street": "Cartierul Sud nr. 1",
+					"fullAddress": "Cartierul Sud nr. 1, Ploiești",
+					"country": "Romania",
+					"coordinates": {
+						"latitude": 44.9411,
+						"longitude": 26.0226
+					}
+				},
+				"featuredImage": "https://cdn.vox-cdn.com/thumbor/qb6scDiFH4wTKcbVehj1f1e-X7E=/0x0:1731x1155/1200x900/filters:focal(933x452:1209x728)/cdn.vox-cdn.com/uploads/chorus_image/image/64999899/Eater__Tapisserie_09024.14.jpg",
+				"contact": null,
+				"schedule": [
+					{
+						"day": "monday",
+						"open": "06:00",
+						"close": "20:00"
+					},
+					{
+						"day": "tuesday",
+						"open": "06:00",
+						"close": "20:00"
+					},
+					{
+						"day": "wednesday",
+						"open": "06:00",
+						"close": "20:00"
+					},
+					{
+						"day": "thursday",
+						"open": "06:00",
+						"close": "20:00"
+					},
+					{
+						"day": "friday",
+						"open": "06:00",
+						"close": "20:00"
+					},
+					{
+						"day": "saturday",
+						"open": "06:00",
+						"close": "18:00"
+					},
+					{
+						"day": "sunday",
+						"open": "06:00",
+						"close": "16:00"
+					}
+				],
+				"gallery": [
+					"https://cdn.vox-cdn.com/thumbor/qb6scDiFH4wTKcbVehj1f1e-X7E=/0x0:1731x1155/1200x900/filters:focal(933x452:1209x728)/cdn.vox-cdn.com/uploads/chorus_image/image/64999899/Eater__Tapisserie_09024.14.jpg"
+				],
+				"tags": ["brutărie", "brutărie mama", "brutărie ploiești"],
+				"reviews": [
+					{
+						"name": "Andrei Popescu",
+						"rating": 4.5,
+						"comment": "Foarte bună cafenea, cu un personal foarte amabil și atențios."
+					},
+					{
+						"name": "Maria Ionescu",
+						"rating": 5,
+						"comment": "Servicii excelente! Personalul este foarte amabil și profesionist. Recomand cu încredere!"
+					}
+				],
+				"products": []
+			}
+		],
+		"followers": 267,
+		"socialMedia": {
+			"facebook": "https://www.facebook.com/business",
+			"instagram": "https://www.instagram.com/business"
+		},
+		"gallery": [
+			"https://sharpsheets.io/wp-content/uploads/2022/11/bakery-solutions03.jpeg.webp",
+			"https://cdn.vox-cdn.com/thumbor/qb6scDiFH4wTKcbVehj1f1e-X7E=/0x0:1731x1155/1200x900/filters:focal(933x452:1209x728)/cdn.vox-cdn.com/uploads/chorus_image/image/64999899/Eater__Tapisserie_09024.14.jpg",
+			"https://sumatocoffee.com/cdn/shop/articles/the-importance-of-coffee-shops-in-communities-782577.jpg?v=1713277728&width=1600",
+			"https://www.barniescoffee.com/cdn/shop/articles/bar-1869656_1920.jpg?v=1660683986"
+		],
+		"logo": "https://media.istockphoto.com/id/1291582566/vector/bakery-bread-and-cakes-vector-design-logo.jpg?s=612x612&w=0&k=20&c=PVgG3CEiWlo_YdjX24CEJhDdxNBACHdt4Z-nLe-jjX8=",
+		"featuredImage": "https://sharpsheets.io/wp-content/uploads/2022/11/bakery-solutions03.jpeg.webp",
+		"address": {
+			"zip": "100001",
+			"city": "Ploiești",
+			"state": null,
+			"county": "Prahova",
+			"street": "Piața Victoriei nr. 7",
+			"fullAddress": "Piața Victoriei 7, Ploiești",
+			"country": "Romania"
+		},
+		"contact": {
+			"name": "Elena Popa",
+			"email": "elena@brutaria-mama.ro",
+			"phone": "(0244) 123-4567"
+		},
+		"companyDetails": {
+			"name": "Brutăria Mama",
+			"description": "Voluptate quo eum voluptate. Eos eius labore eos aliquid ipsam inventore quisquam. Enim sequi eum modi molestiae sit corrupti magni. Ut nihil nihil iure totam velit.",
+			"website": "https://mideally.com",
+			"businessType": "patiserie"
+		}
+	},
+	{
+		"id": "12",
+		"active": true,
+		"slug": "cafeneaua-universitate",
+		"name": "Cafeneaua Universitate",
+		"description": "Voluptate quo eum voluptate. Eos eius labore eos aliquid ipsam inventore quisquam. Enim sequi eum modi molestiae sit corrupti magni. Ut nihil nihil iure totam velit.",
+		"locations": [
+			{
+				"id": "9187149",
+				"name": "București - Universitate",
+				"shortName": "UN",
+				"address": {
+					"zip": "010131",
+					"city": "București",
+					"state": null,
+					"county": "București",
+					"street": "Piața Universității nr. 1",
+					"fullAddress": "Piața Universității nr. 1, București",
+					"country": "Romania",
+					"coordinates": {
+						"latitude": 44.4268,
+						"longitude": 26.1025
+					}
+				},
+				"featuredImage": "https://sumatocoffee.com/cdn/shop/articles/the-importance-of-coffee-shops-in-communities-782577.jpg?v=1713277728&width=1600",
+				"contact": null,
+				"schedule": [
+					{
+						"day": "monday",
+						"open": "07:00",
+						"close": "23:00"
+					},
+					{
+						"day": "tuesday",
+						"open": "07:00",
+						"close": "23:00"
+					},
+					{
+						"day": "wednesday",
+						"open": "07:00",
+						"close": "23:00"
+					},
+					{
+						"day": "thursday",
+						"open": "07:00",
+						"close": "23:00"
+					},
+					{
+						"day": "friday",
+						"open": "07:00",
+						"close": "00:00"
+					},
+					{
+						"day": "saturday",
+						"open": "08:00",
+						"close": "00:00"
+					},
+					{
+						"day": "sunday",
+						"open": "08:00",
+						"close": "22:00"
+					}
+				],
+				"gallery": [
+					"https://sumatocoffee.com/cdn/shop/articles/the-importance-of-coffee-shops-in-communities-782577.jpg?v=1713277728&width=1600"
+				],
+				"tags": ["cafenea", "cafenea universitate", "cafenea bucurești"],
+				"reviews": [
+					{
+						"name": "Andrei Popescu",
+						"rating": 4.5,
+						"comment": "Foarte bună cafenea, cu un personal foarte amabil și atențios."
+					},
+					{
+						"name": "Maria Ionescu",
+						"rating": 5,
+						"comment": "Servicii excelente! Personalul este foarte amabil și profesionist. Recomand cu încredere!"
+					}
+				],
+				"products": []
+			}
+		],
+		"followers": 345,
+		"socialMedia": {
+			"facebook": "https://www.facebook.com/business",
+			"instagram": "https://www.instagram.com/business"
+		},
+		"gallery": [
+			"https://sharpsheets.io/wp-content/uploads/2022/11/bakery-solutions03.jpeg.webp",
+			"https://cdn.vox-cdn.com/thumbor/qb6scDiFH4wTKcbVehj1f1e-X7E=/0x0:1731x1155/1200x900/filters:focal(933x452:1209x728)/cdn.vox-cdn.com/uploads/chorus_image/image/64999899/Eater__Tapisserie_09024.14.jpg",
+			"https://sumatocoffee.com/cdn/shop/articles/the-importance-of-coffee-shops-in-communities-782577.jpg?v=1713277728&width=1600",
+			"https://www.barniescoffee.com/cdn/shop/articles/bar-1869656_1920.jpg?v=1660683986"
+		],
+		"logo": "https://t4.ftcdn.net/jpg/03/23/91/57/360_F_323915727_pGJQjKMNqpvpOMVqZ5Z2iCDGEVSd5Upk.jpg",
+		"featuredImage": "https://sumatocoffee.com/cdn/shop/articles/the-importance-of-coffee-shops-in-communities-782577.jpg?v=1713277728&width=1600",
+		"address": {
+			"zip": "010131",
+			"city": "București",
+			"state": null,
+			"county": "București",
+			"street": "Piața Universității nr. 1",
+			"fullAddress": "Piața Universității nr. 1, București",
+			"country": "Romania"
+		},
+		"contact": {
+			"name": "Cristian Munteanu",
+			"email": "cristian@cafeneaua-universitate.ro",
+			"phone": "(021) 234-5678"
+		},
+		"companyDetails": {
+			"name": "Cafeneaua Universitate",
+			"description": "Cafeneaua Universitate este un loc unde poți să te relaxezi și să te bucuri de o cafea bună.",
+			"website": "https://mideally.com",
+			"businessType": "cafenea"
+		}
+	},
+	{
+		"id": "13",
+		"active": true,
+		"slug": "barul-vechi",
+		"name": "Barul Vechi",
+		"description": "Barul Vechi este un loc unde poți să te relaxezi și să te bucuri de o cafea bună.",
+		"locations": [
+			{
+				"id": "9187150",
+				"name": "Sibiu - Centru Vechi",
+				"shortName": "CV",
+				"address": {
+					"zip": "500001",
+					"city": "Sibiu",
+					"state": null,
+					"county": "Sibiu",
+					"street": "Piața Mare nr. 15",
+					"fullAddress": "Piața Mare nr. 15, Sibiu",
+					"country": "Romania",
+					"coordinates": {
+						"latitude": 45.7983,
+						"longitude": 24.1256
+					}
+				},
+				"featuredImage": "https://www.barniescoffee.com/cdn/shop/articles/bar-1869656_1920.jpg?v=1660683986",
+				"contact": null,
+				"schedule": [
+					{
+						"day": "monday",
+						"open": "17:00",
+						"close": "02:00"
+					},
+					{
+						"day": "tuesday",
+						"open": "17:00",
+						"close": "02:00"
+					},
+					{
+						"day": "wednesday",
+						"open": "17:00",
+						"close": "02:00"
+					},
+					{
+						"day": "thursday",
+						"open": "17:00",
+						"close": "02:00"
+					},
+					{
+						"day": "friday",
+						"open": "17:00",
+						"close": "03:00"
+					},
+					{
+						"day": "saturday",
+						"open": "17:00",
+						"close": "03:00"
+					},
+					{
+						"day": "sunday",
+						"open": "17:00",
+						"close": "02:00"
+					}
+				],
+				"gallery": ["https://www.barniescoffee.com/cdn/shop/articles/bar-1869656_1920.jpg?v=1660683986"],
+				"tags": ["bar", "bar vechi", "bar sibiu"],
+				"reviews": [
+					{
+						"name": "Andrei Popescu",
+						"rating": 4.5,
+						"comment": "Foarte bună cafenea, cu un personal foarte amabil și atențios."
+					},
+					{
+						"name": "Maria Ionescu",
+						"rating": 5,
+						"comment": "Servicii excelente! Personalul este foarte amabil și profesionist. Recomand cu încredere!"
+					}
+				],
+				"products": []
+			}
+		],
+		"followers": 234,
+		"socialMedia": {
+			"facebook": "https://www.facebook.com/business",
+			"instagram": "https://www.instagram.com/business"
+		},
+		"gallery": [
+			"https://sharpsheets.io/wp-content/uploads/2022/11/bakery-solutions03.jpeg.webp",
+			"https://cdn.vox-cdn.com/thumbor/qb6scDiFH4wTKcbVehj1f1e-X7E=/0x0:1731x1155/1200x900/filters:focal(933x452:1209x728)/cdn.vox-cdn.com/uploads/chorus_image/image/64999899/Eater__Tapisserie_09024.14.jpg",
+			"https://sumatocoffee.com/cdn/shop/articles/the-importance-of-coffee-shops-in-communities-782577.jpg?v=1713277728&width=1600",
+			"https://www.barniescoffee.com/cdn/shop/articles/bar-1869656_1920.jpg?v=1660683986"
+		],
+		"logo": "https://static.vecteezy.com/system/resources/previews/010/628/580/non_2x/cocktail-logo-design-template-bar-logo-vector.jpg",
+		"featuredImage": "https://www.barniescoffee.com/cdn/shop/articles/bar-1869656_1920.jpg?v=1660683986",
+		"address": {
+			"zip": "550001",
+			"city": "Sibiu",
+			"state": null,
+			"county": "Sibiu",
+			"street": "Piața Mare nr. 15",
+			"fullAddress": "Piața Mare 15, Sibiu",
+			"country": "Romania"
+		},
+		"contact": {
+			"name": "Mihai Vasilescu",
+			"email": "mihai@barul-vechi.ro",
+			"phone": "(0269) 987-6543"
+		},
+		"companyDetails": {
+			"name": "Barul Vechi",
+			"description": "Barul Vechi este un loc unde poți să te relaxezi și să te bucuri de o cafea bună.",
+			"website": "https://mideally.com",
+			"businessType": "restaurant"
+		}
+	},
+	{
+		"id": "14",
+		"active": true,
+		"slug": "cafeneaua-studentilor",
+		"name": "Cafeneaua Studenților",
+		"description": "Voluptate quo eum voluptate. Eos eius labore eos aliquid ipsam inventore quisquam. Enim sequi eum modi molestiae sit corrupti magni. Ut nihil nihil iure totam velit.",
+		"locations": [
+			{
+				"id": "9187151",
+				"name": "Cluj-Napoca - Campus",
+				"shortName": "CP",
+				"address": {
+					"zip": "400001",
+					"city": "Cluj-Napoca",
+					"state": null,
+					"county": "Cluj",
+					"street": "Campusul Universității nr. 1",
+					"fullAddress": "Campusul Universității nr. 1, Cluj-Napoca",
+					"country": "Romania",
+					"coordinates": {
+						"latitude": 46.7712,
+						"longitude": 23.6236
+					}
+				},
+				"featuredImage": "https://esquirescoffee.co.uk/wp-content/uploads/2021/11/kaylah-matthews-6e5hgWV2DAo-unsplash-e1684321509250.jpg",
+				"contact": null,
+				"schedule": [
+					{
+						"day": "monday",
+						"open": "08:00",
+						"close": "22:00"
+					},
+					{
+						"day": "tuesday",
+						"open": "08:00",
+						"close": "22:00"
+					},
+					{
+						"day": "wednesday",
+						"open": "08:00",
+						"close": "22:00"
+					},
+					{
+						"day": "thursday",
+						"open": "08:00",
+						"close": "22:00"
+					},
+					{
+						"day": "friday",
+						"open": "08:00",
+						"close": "23:00"
+					},
+					{
+						"day": "saturday",
+						"open": "09:00",
+						"close": "23:00"
+					},
+					{
+						"day": "sunday",
+						"open": "09:00",
+						"close": "21:00"
+					}
+				],
+				"gallery": [
+					"https://esquirescoffee.co.uk/wp-content/uploads/2021/11/kaylah-matthews-6e5hgWV2DAo-unsplash-e1684321509250.jpg"
+				],
+				"tags": ["cafenea", "cafenea studenților", "cafenea cluj"],
+				"reviews": [
+					{
+						"name": "Andrei Popescu",
+						"rating": 4.5,
+						"comment": "Foarte bună cafenea, cu un personal foarte amabil și atențios."
+					},
+					{
+						"name": "Maria Ionescu",
+						"rating": 5,
+						"comment": "Servicii excelente! Personalul este foarte amabil și profesionist. Recomand cu încredere!"
+					}
+				],
+				"products": []
+			}
+		],
+		"followers": 456,
+		"socialMedia": {
+			"facebook": "https://www.facebook.com/business",
+			"instagram": "https://www.instagram.com/business"
+		},
+		"gallery": [
+			"https://sharpsheets.io/wp-content/uploads/2022/11/bakery-solutions03.jpeg.webp",
+			"https://cdn.vox-cdn.com/thumbor/qb6scDiFH4wTKcbVehj1f1e-X7E=/0x0:1731x1155/1200x900/filters:focal(933x452:1209x728)/cdn.vox-cdn.com/uploads/chorus_image/image/64999899/Eater__Tapisserie_09024.14.jpg",
+			"https://sumatocoffee.com/cdn/shop/articles/the-importance-of-coffee-shops-in-communities-782577.jpg?v=1713277728&width=1600",
+			"https://www.barniescoffee.com/cdn/shop/articles/bar-1869656_1920.jpg?v=1660683986"
+		],
+		"logo": "https://media.istockphoto.com/id/1262771454/vector/coffee-shop-emblem-template.jpg?s=612x612&w=0&k=20&c=y1EyHCxENVCPCgblJ00BEdjiUjwMnYk4QgZSKRCegxY=",
+		"featuredImage": "https://esquirescoffee.co.uk/wp-content/uploads/2021/11/kaylah-matthews-6e5hgWV2DAo-unsplash-e1684321509250.jpg",
+		"address": {
+			"zip": "400001",
+			"city": "Cluj-Napoca",
+			"state": null,
+			"county": "Cluj",
+			"street": "Strada Universității nr. 13",
+			"fullAddress": "Strada Universității 13, Cluj-Napoca",
+			"country": "Romania"
+		},
+		"contact": {
+			"name": "Ana Munteanu",
+			"email": "ana@cafeneaua-studentilor.ro",
+			"phone": "(0264) 456-7890"
+		},
+		"companyDetails": {
+			"name": "Cafeneaua Studenților",
+			"description": "Cafeneaua Studenților este un loc unde poți să te relaxezi și să te bucuri de o cafea bună.",
+			"website": "https://mideally.com",
+			"businessType": "cafenea"
+		}
+	},
+	{
+		"id": "15",
+		"active": true,
+		"slug": "brutaria-cornel",
+		"locations": [
+			{
+				"id": "9187152",
+				"name": "Timișoara - Centru",
+				"shortName": "TM",
+				"address": {
+					"zip": "300001",
+					"city": "Timișoara",
+					"state": null,
+					"county": "Timiș",
+					"street": "Piața Victoriei nr. 1",
+					"fullAddress": "Piața Victoriei nr. 1, Timișoara",
+					"country": "Romania",
+					"coordinates": {
+						"latitude": 45.7471,
+						"longitude": 21.2087
+					}
+				},
+				"featuredImage": "https://3brothersbakery.com/wp-content/uploads/2019/02/Houston%E2%80%99s-Specialty-Bakery.png",
+				"contact": null,
+				"schedule": [
+					{
+						"day": "monday",
+						"open": "06:00",
+						"close": "19:00"
+					},
+					{
+						"day": "tuesday",
+						"open": "06:00",
+						"close": "19:00"
+					},
+					{
+						"day": "wednesday",
+						"open": "06:00",
+						"close": "19:00"
+					},
+					{
+						"day": "thursday",
+						"open": "06:00",
+						"close": "19:00"
+					},
+					{
+						"day": "friday",
+						"open": "06:00",
+						"close": "19:00"
+					},
+					{
+						"day": "saturday",
+						"open": "06:00",
+						"close": "17:00"
+					},
+					{
+						"day": "sunday",
+						"open": "06:00",
+						"close": "15:00"
+					}
+				],
+				"gallery": [
+					"https://3brothersbakery.com/wp-content/uploads/2019/02/Houston%E2%80%99s-Specialty-Bakery.png"
+				],
+				"tags": ["brutărie", "brutărie cornel", "brutărie timișoara"],
+				"reviews": [
+					{
+						"name": "Andrei Popescu",
+						"rating": 4.5,
+						"comment": "Foarte bună cafenea, cu un personal foarte amabil și atențios."
+					},
+					{
+						"name": "Maria Ionescu",
+						"rating": 5,
+						"comment": "Servicii excelente! Personalul este foarte amabil și profesionist. Recomand cu încredere!"
+					}
+				],
+				"products": []
+			}
+		],
+		"followers": 178,
+		"socialMedia": {
+			"facebook": "https://www.facebook.com/business",
+			"instagram": "https://www.instagram.com/business"
+		},
+		"gallery": [
+			"https://sharpsheets.io/wp-content/uploads/2022/11/bakery-solutions03.jpeg.webp",
+			"https://cdn.vox-cdn.com/thumbor/qb6scDiFH4wTKcbVehj1f1e-X7E=/0x0:1731x1155/1200x900/filters:focal(933x452:1209x728)/cdn.vox-cdn.com/uploads/chorus_image/image/64999899/Eater__Tapisserie_09024.14.jpg",
+			"https://sumatocoffee.com/cdn/shop/articles/the-importance-of-coffee-shops-in-communities-782577.jpg?v=1713277728&width=1600",
+			"https://www.barniescoffee.com/cdn/shop/articles/bar-1869656_1920.jpg?v=1660683986"
+		],
+		"logo": "https://thumbs.dreamstime.com/b/bakery-bakeshop-logo-label-home-baking-bread-concept-cartoon-vector-illustration-bakery-bakeshop-logo-label-home-baking-120071941.jpg",
+		"featuredImage": "https://3brothersbakery.com/wp-content/uploads/2019/02/Houston%E2%80%99s-Specialty-Bakery.png",
+		"address": {
+			"zip": "300001",
+			"city": "Timișoara",
+			"state": null,
+			"county": "Timiș",
+			"street": "Piața Victoriei nr. 12",
+			"fullAddress": "Piața Victoriei 12, Timișoara",
+			"country": "Romania"
+		},
+		"contact": {
+			"name": "Cornel Popescu",
+			"email": "cornel@brutaria-cornel.ro",
+			"phone": "(0256) 789-0123"
+		},
+		"companyDetails": {
+			"name": "Brutăria Cornel",
+			"description": "Brutăria Cornel este un loc unde poți să te relaxezi și să te bucuri de o cafea bună.",
+			"website": "https://mideally.com",
+			"businessType": "patiserie"
+		}
+	},
+	{
+		"id": "16",
+		"active": true,
+		"slug": "cafeneaua-centrala",
+		"description": "Cafeneaua Centrală este un loc unde poți să te relaxezi și să te bucuri de o cafea bună.",
+		"locations": [
+			{
+				"id": "9187153",
+				"name": "Brașov - Centru",
+				"shortName": "BR",
+				"address": {
+					"zip": "500001",
+					"city": "Brașov",
+					"state": null,
+					"county": "Brașov",
+					"street": "Piața Sfatului nr. 1",
+					"fullAddress": "Piața Sfatului nr. 1, Brașov",
+					"country": "Romania",
+					"coordinates": {
+						"latitude": 45.6427,
+						"longitude": 25.5887
+					}
+				},
+				"featuredImage": "https://texascoffeeschool.com/wp-content/uploads/2024/08/1418-e1723733846245.jpg",
+				"contact": null,
+				"schedule": [
+					{
+						"day": "monday",
+						"open": "08:00",
+						"close": "21:00"
+					},
+					{
+						"day": "tuesday",
+						"open": "08:00",
+						"close": "21:00"
+					},
+					{
+						"day": "wednesday",
+						"open": "08:00",
+						"close": "21:00"
+					},
+					{
+						"day": "thursday",
+						"open": "08:00",
+						"close": "21:00"
+					},
+					{
+						"day": "friday",
+						"open": "08:00",
+						"close": "22:00"
+					},
+					{
+						"day": "saturday",
+						"open": "09:00",
+						"close": "22:00"
+					},
+					{
+						"day": "sunday",
+						"open": "09:00",
+						"close": "20:00"
+					}
+				],
+				"gallery": ["https://texascoffeeschool.com/wp-content/uploads/2024/08/1418-e1723733846245.jpg"],
+				"tags": ["cafenea", "cafenea centrală", "cafenea brașov"],
+				"reviews": [
+					{
+						"name": "Andrei Popescu",
+						"rating": 4.5,
+						"comment": "Foarte bună cafenea, cu un personal foarte amabil și atențios."
+					},
+					{
+						"name": "Maria Ionescu",
+						"rating": 5,
+						"comment": "Servicii excelente! Personalul este foarte amabil și profesionist. Recomand cu încredere!"
+					}
+				],
+				"products": []
+			}
+		],
+		"followers": 289,
+		"socialMedia": {
+			"facebook": "https://www.facebook.com/business",
+			"instagram": "https://www.instagram.com/business"
+		},
+		"gallery": [
+			"https://sharpsheets.io/wp-content/uploads/2022/11/bakery-solutions03.jpeg.webp",
+			"https://cdn.vox-cdn.com/thumbor/qb6scDiFH4wTKcbVehj1f1e-X7E=/0x0:1731x1155/1200x900/filters:focal(933x452:1209x728)/cdn.vox-cdn.com/uploads/chorus_image/image/64999899/Eater__Tapisserie_09024.14.jpg",
+			"https://sumatocoffee.com/cdn/shop/articles/the-importance-of-coffee-shops-in-communities-782577.jpg?v=1713277728&width=1600",
+			"https://www.barniescoffee.com/cdn/shop/articles/bar-1869656_1920.jpg?v=1660683986"
+		],
+		"logo": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/coffee-shop-logos-design-template-cda8575e146cc5ba17cd3c1a24d65ba1_screen.jpg?ts=1638177256",
+		"featuredImage": "https://texascoffeeschool.com/wp-content/uploads/2024/08/1418-e1723733846245.jpg",
+		"address": {
+			"zip": "500001",
+			"city": "Brașov",
+			"state": null,
+			"county": "Brașov",
+			"street": "Piața Sfatului nr. 20",
+			"fullAddress": "Piața Sfatului 20, Brașov",
+			"country": "Romania"
+		},
+		"contact": {
+			"name": "Vasile Dumitrescu",
+			"email": "vasile@cafeneaua-centrala.ro",
+			"phone": "(0268) 987-6543"
+		},
+		"companyDetails": {
+			"name": "Cafeneaua Centrală",
+			"description": "Cafeneaua Centrală este un loc unde poți să te relaxezi și să te bucuri de o cafea bună.",
+			"website": "https://mideally.com",
+			"businessType": "cafenea"
+		}
+	},
+	{
+		"id": "17",
+		"active": true,
+		"slug": "brutaria-bunicii",
+		"description": "Brutăria Bunicii este un loc unde poți să te relaxezi și să te bucuri de o cafea bună.",
+		"locations": [
+			{
+				"id": "9187154",
+				"name": "Craiova - Centru",
+				"shortName": "CR",
+				"address": {
+					"zip": "200001",
+					"city": "Craiova",
+					"state": null,
+					"county": "Dolj",
+					"street": "Piața Mihai Viteazu nr. 1",
+					"fullAddress": "Piața Mihai Viteazu nr. 1, Craiova",
+					"country": "Romania",
+					"coordinates": {
+						"latitude": 44.3195,
+						"longitude": 23.7967
+					}
+				},
+				"featuredImage": "https://sharpsheets.io/wp-content/uploads/2022/11/bakery-solutions03.jpeg.webp",
+				"contact": null,
+				"schedule": [
+					{
+						"day": "monday",
+						"open": "06:00",
+						"close": "19:00"
+					},
+					{
+						"day": "tuesday",
+						"open": "06:00",
+						"close": "19:00"
+					},
+					{
+						"day": "wednesday",
+						"open": "06:00",
+						"close": "19:00"
+					},
+					{
+						"day": "thursday",
+						"open": "06:00",
+						"close": "19:00"
+					},
+					{
+						"day": "friday",
+						"open": "06:00",
+						"close": "19:00"
+					},
+					{
+						"day": "saturday",
+						"open": "06:00",
+						"close": "17:00"
+					},
+					{
+						"day": "sunday",
+						"open": "06:00",
+						"close": "15:00"
+					}
+				],
+				"gallery": ["https://sharpsheets.io/wp-content/uploads/2022/11/bakery-solutions03.jpeg.webp"],
+				"tags": ["brutărie", "brutărie bunicii", "brutărie craiova"],
+				"reviews": [
+					{
+						"name": "Andrei Popescu",
+						"rating": 4.5,
+						"comment": "Foarte bună cafenea, cu un personal foarte amabil și atențios."
+					},
+					{
+						"name": "Maria Ionescu",
+						"rating": 5,
+						"comment": "Servicii excelente! Personalul este foarte amabil și profesionist. Recomand cu încredere!"
+					}
+				],
+				"products": []
+			}
+		],
+		"followers": 145,
+		"socialMedia": {
+			"facebook": "https://www.facebook.com/business",
+			"instagram": "https://www.instagram.com/business"
+		},
+		"gallery": [
+			"https://sharpsheets.io/wp-content/uploads/2022/11/bakery-solutions03.jpeg.webp",
+			"https://cdn.vox-cdn.com/thumbor/qb6scDiFH4wTKcbVehj1f1e-X7E=/0x0:1731x1155/1200x900/filters:focal(933x452:1209x728)/cdn.vox-cdn.com/uploads/chorus_image/image/64999899/Eater__Tapisserie_09024.14.jpg",
+			"https://sumatocoffee.com/cdn/shop/articles/the-importance-of-coffee-shops-in-communities-782577.jpg?v=1713277728&width=1600",
+			"https://www.barniescoffee.com/cdn/shop/articles/bar-1869656_1920.jpg?v=1660683986"
+		],
+		"logo": "https://media.istockphoto.com/id/1291582566/vector/bakery-bread-and-cakes-vector-design-logo.jpg?s=612x612&w=0&k=20&c=PVgG3CEiWlo_YdjX24CEJhDdxNBACHdt4Z-nLe-jjX8=",
+		"featuredImage": "https://sharpsheets.io/wp-content/uploads/2022/11/bakery-solutions03.jpeg.webp",
+		"address": {
+			"zip": "200001",
+			"city": "Craiova",
+			"state": null,
+			"county": "Dolj",
+			"street": "Piața Mihai Viteazu nr. 5",
+			"fullAddress": "Piața Mihai Viteazu 5, Craiova",
+			"country": "Romania"
+		},
+		"contact": {
+			"name": "Maria Ionescu",
+			"email": "maria@brutaria-bunicii.ro",
+			"phone": "(0251) 123-4567"
+		},
+		"companyDetails": {
+			"name": "Brutăria Bunicii",
+			"description": "Brutăria Bunicii este un loc unde poți să te relaxezi și să te bucuri de o cafea bună.",
+			"website": "https://mideally.com",
+			"businessType": "patiserie"
+		}
+	},
+	{
+		"id": "18",
+		"active": true,
+		"locations": [
+			{
+				"id": "9187155",
+				"name": "București - Herăstrău",
+				"shortName": "HR",
+				"address": {
+					"zip": "010131",
+					"city": "București",
+					"state": null,
+					"county": "București",
+					"street": "Parcul Herăstrău nr. 1",
+					"fullAddress": "Parcul Herăstrău nr. 1, București",
+					"country": "Romania",
+					"coordinates": {
+						"latitude": 44.4268,
+						"longitude": 26.1025
+					}
+				},
+				"featuredImage": "https://www.barniescoffee.com/cdn/shop/articles/bar-1869656_1920.jpg?v=1660683986",
+				"contact": null,
+				"schedule": [
+					{
+						"day": "monday",
+						"open": "18:00",
+						"close": "02:00"
+					},
+					{
+						"day": "tuesday",
+						"open": "18:00",
+						"close": "02:00"
+					},
+					{
+						"day": "wednesday",
+						"open": "18:00",
+						"close": "02:00"
+					},
+					{
+						"day": "thursday",
+						"open": "18:00",
+						"close": "02:00"
+					},
+					{
+						"day": "friday",
+						"open": "18:00",
+						"close": "03:00"
+					},
+					{
+						"day": "saturday",
+						"open": "18:00",
+						"close": "03:00"
+					},
+					{
+						"day": "sunday",
+						"open": "18:00",
+						"close": "02:00"
+					}
+				],
+				"gallery": ["https://www.barniescoffee.com/cdn/shop/articles/bar-1869656_1920.jpg?v=1660683986"],
+				"tags": ["bar", "bar modern", "bar bucurești"],
+				"reviews": [
+					{
+						"name": "Andrei Popescu",
+						"rating": 4.5,
+						"comment": "Foarte bună cafenea, cu un personal foarte amabil și atențios."
+					},
+					{
+						"name": "Maria Ionescu",
+						"rating": 5,
+						"comment": "Servicii excelente! Personalul este foarte amabil și profesionist. Recomand cu încredere!"
+					}
+				],
+				"products": []
+			}
+		],
+		"followers": 334,
+		"socialMedia": {
+			"facebook": "https://www.facebook.com/business",
+			"instagram": "https://www.instagram.com/business"
+		},
+		"gallery": [
+			"https://sharpsheets.io/wp-content/uploads/2022/11/bakery-solutions03.jpeg.webp",
+			"https://cdn.vox-cdn.com/thumbor/qb6scDiFH4wTKcbVehj1f1e-X7E=/0x0:1731x1155/1200x900/filters:focal(933x452:1209x728)/cdn.vox-cdn.com/uploads/chorus_image/image/64999899/Eater__Tapisserie_09024.14.jpg",
+			"https://sumatocoffee.com/cdn/shop/articles/the-importance-of-coffee-shops-in-communities-782577.jpg?v=1713277728&width=1600",
+			"https://www.barniescoffee.com/cdn/shop/articles/bar-1869656_1920.jpg?v=1660683986"
+		],
+		"logo": "https://static.vecteezy.com/system/resources/previews/010/628/580/non_2x/cocktail-logo-design-template-bar-logo-vector.jpg",
+		"featuredImage": "https://www.barniescoffee.com/cdn/shop/articles/bar-1869656_1920.jpg?v=1660683986",
+		"address": {
+			"zip": "010131",
+			"city": "București",
+			"state": null,
+			"county": "București",
+			"street": "Șoseaua Nordului nr. 15",
+			"fullAddress": "Șoseaua Nordului 15, București",
+			"country": "Romania"
+		},
+		"contact": {
+			"name": "Alexandru Popa",
+			"email": "alexandru@barul-modern.ro",
+			"phone": "(021) 567-8901"
+		},
+		"companyDetails": {
+			"name": "Barul Modern",
+			"description": "Barul Modern este un loc unde poți să te relaxezi și să te bucuri de o cafea bună.",
+			"website": "https://mideally.com",
+			"businessType": "restaurant"
+		}
+	},
+	{
+		"id": "19",
+		"active": true,
+		"slug": "cafeneaua-romantica",
+		"locations": [
+			{
+				"id": "9187156",
+				"name": "Sibiu - Centru",
+				"shortName": "SB",
+				"address": {
+					"zip": "500001",
+					"city": "Sibiu",
+					"state": null,
+					"county": "Sibiu",
+					"street": "Piața Mare nr. 25",
+					"fullAddress": "Piața Mare nr. 25, Sibiu",
+					"country": "Romania",
+					"coordinates": {
+						"latitude": 45.7983,
+						"longitude": 24.1256
+					}
+				},
+				"featuredImage": "https://esquirescoffee.co.uk/wp-content/uploads/2021/11/kaylah-matthews-6e5hgWV2DAo-unsplash-e1684321509250.jpg",
+				"contact": null,
+				"schedule": [
+					{
+						"day": "monday",
+						"open": "08:00",
+						"close": "22:00"
+					},
+					{
+						"day": "tuesday",
+						"open": "08:00",
+						"close": "22:00"
+					},
+					{
+						"day": "wednesday",
+						"open": "08:00",
+						"close": "22:00"
+					},
+					{
+						"day": "thursday",
+						"open": "08:00",
+						"close": "22:00"
+					},
+					{
+						"day": "friday",
+						"open": "08:00",
+						"close": "23:00"
+					},
+					{
+						"day": "saturday",
+						"open": "09:00",
+						"close": "23:00"
+					},
+					{
+						"day": "sunday",
+						"open": "09:00",
+						"close": "21:00"
+					}
+				],
+				"gallery": [
+					"https://esquirescoffee.co.uk/wp-content/uploads/2021/11/kaylah-matthews-6e5hgWV2DAo-unsplash-e1684321509250.jpg"
+				],
+				"tags": ["cafenea", "cafenea romantică", "cafenea sibiu"],
+				"reviews": [
+					{
+						"name": "Andrei Popescu",
+						"rating": 4.5,
+						"comment": "Foarte bună cafenea, cu un personal foarte amabil și atențios."
+					},
+					{
+						"name": "Maria Ionescu",
+						"rating": 5,
+						"comment": "Servicii excelente! Personalul este foarte amabil și profesionist. Recomand cu încredere!"
+					}
+				],
+				"products": []
+			}
+		],
+		"followers": 223,
+		"socialMedia": {
+			"facebook": "https://www.facebook.com/business",
+			"instagram": "https://www.instagram.com/business"
+		},
+		"gallery": [
+			"https://sharpsheets.io/wp-content/uploads/2022/11/bakery-solutions03.jpeg.webp",
+			"https://cdn.vox-cdn.com/thumbor/qb6scDiFH4wTKcbVehj1f1e-X7E=/0x0:1731x1155/1200x900/filters:focal(933x452:1209x728)/cdn.vox-cdn.com/uploads/chorus_image/image/64999899/Eater__Tapisserie_09024.14.jpg",
+			"https://sumatocoffee.com/cdn/shop/articles/the-importance-of-coffee-shops-in-communities-782577.jpg?v=1713277728&width=1600",
+			"https://www.barniescoffee.com/cdn/shop/articles/bar-1869656_1920.jpg?v=1660683986"
+		],
+		"logo": "https://t4.ftcdn.net/jpg/03/23/91/57/360_F_323915727_pGJQjKMNqpvpOMVqZ5Z2iCDGEVSd5Upk.jpg",
+		"featuredImage": "https://esquirescoffee.co.uk/wp-content/uploads/2021/11/kaylah-matthews-6e5hgWV2DAo-unsplash-e1684321509250.jpg",
+		"address": {
+			"zip": "550001",
+			"city": "Sibiu",
+			"state": null,
+			"county": "Sibiu",
+			"street": "Piața Mare nr. 25",
+			"fullAddress": "Piața Mare 25, Sibiu",
+			"country": "Romania"
+		},
+		"contact": {
+			"name": "Elena Vasilescu",
+			"email": "elena@cafeneaua-romantica.ro",
+			"phone": "(0269) 456-7890"
+		},
+		"companyDetails": {
+			"name": "Cafeneaua Romantică",
+			"description": "Cafeneaua Romantică este un loc unde poți să te relaxezi și să te bucuri de o cafea bună.",
+			"website": "https://mideally.com",
+			"businessType": "cafenea"
+		}
+	},
+	{
+		"id": "20",
+		"active": true,
+		"slug": "brutaria-familiei",
+		"locations": [
+			{
+				"id": "9187157",
+				"name": "Miroslava - Centru",
+				"shortName": "MIR",
+				"address": {
+					"zip": "500001",
+					"city": "Miroslava",
+					"state": null,
+					"county": "Iași",
+					"street": "Strada Eustatie Dabija Vodă nr. 3",
+					"fullAddress": "Strada Eustatie Dabija Vodă nr. 3, Miroslava, Iași",
+					"country": "Romania",
+					"coordinates": {
+						"latitude": 47.14365344079652,
+						"longitude": 27.532135686582055
+					}
+				},
+				"featuredImage": "https://cdn.vox-cdn.com/thumbor/qb6scDiFH4wTKcbVehj1f1e-X7E=/0x0:1731x1155/1200x900/filters:focal(933x452:1209x728)/cdn.vox-cdn.com/uploads/chorus_image/image/64999899/Eater__Tapisserie_09024.14.jpg",
+				"contact": null,
+				"schedule": [
+					{
+						"day": "monday",
+						"open": "06:00",
+						"close": "20:00"
+					},
+					{
+						"day": "tuesday",
+						"open": "06:00",
+						"close": "20:00"
+					},
+					{
+						"day": "wednesday",
+						"open": "06:00",
+						"close": "20:00"
+					},
+					{
+						"day": "thursday",
+						"open": "06:00",
+						"close": "20:00"
+					},
+					{
+						"day": "friday",
+						"open": "06:00",
+						"close": "20:00"
+					},
+					{
+						"day": "saturday",
+						"open": "06:00",
+						"close": "18:00"
+					},
+					{
+						"day": "sunday",
+						"open": "06:00",
+						"close": "16:00"
+					}
+				],
+				"gallery": [
+					"https://cdn.vox-cdn.com/thumbor/qb6scDiFH4wTKcbVehj1f1e-X7E=/0x0:1731x1155/1200x900/filters:focal(933x452:1209x728)/cdn.vox-cdn.com/uploads/chorus_image/image/64999899/Eater__Tapisserie_09024.14.jpg"
+				],
+				"tags": ["brutărie", "brutărie familiei", "brutărie galați"],
+				"reviews": [
+					{
+						"name": "Andrei Popescu",
+						"rating": 4.5,
+						"comment": "Foarte bună cafenea, cu un personal foarte amabil și atențios."
+					},
+					{
+						"name": "Maria Ionescu",
+						"rating": 5,
+						"comment": "Servicii excelente! Personalul este foarte amabil și profesionist. Recomand cu încredere!"
+					}
+				],
+				"products": []
+			}
+		],
+		"followers": 167,
+		"socialMedia": {
+			"facebook": "https://www.facebook.com/business",
+			"instagram": "https://www.instagram.com/business"
+		},
+		"gallery": [
+			"https://sharpsheets.io/wp-content/uploads/2022/11/bakery-solutions03.jpeg.webp",
+			"https://cdn.vox-cdn.com/thumbor/qb6scDiFH4wTKcbVehj1f1e-X7E=/0x0:1731x1155/1200x900/filters:focal(933x452:1209x728)/cdn.vox-cdn.com/uploads/chorus_image/image/64999899/Eater__Tapisserie_09024.14.jpg",
+			"https://sumatocoffee.com/cdn/shop/articles/the-importance-of-coffee-shops-in-communities-782577.jpg?v=1713277728&width=1600",
+			"https://www.barniescoffee.com/cdn/shop/articles/bar-1869656_1920.jpg?v=1660683986"
+		],
+		"logo": "https://thumbs.dreamstime.com/b/bakery-bakeshop-logo-label-home-baking-bread-concept-cartoon-vector-illustration-bakery-bakeshop-logo-label-home-baking-120071941.jpg",
+		"featuredImage": "https://cdn.vox-cdn.com/thumbor/qb6scDiFH4wTKcbVehj1f1e-X7E=/0x0:1731x1155/1200x900/filters:focal(933x452:1209x728)/cdn.vox-cdn.com/uploads/chorus_image/image/64999899/Eater__Tapisserie_09024.14.jpg",
+		"address": {
+			"zip": "800001",
+			"city": "Miroslava",
+			"state": null,
+			"county": "Iași",
+			"street": "Strada Eustatie Dabija Vodă nr. 3",
+			"fullAddress": "Strada Eustatie Dabija Vodă nr. 3, Miroslava, Iași",
+			"country": "Romania"
+		},
+		"contact": {
+			"name": "Ioan Munteanu",
+			"email": "ioan@brutaria-familiei.ro",
+			"phone": "(0236) 123-4567"
+		},
+		"companyDetails": {
+			"name": "Brutăria Familiei",
+			"description": "Brutăria Familiei este un loc unde poți să te relaxezi și să te bucuri de o cafea bună.",
+			"website": "https://mideally.com",
+			"businessType": "patiserie"
+		}
+	}
+]

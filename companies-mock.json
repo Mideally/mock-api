@@ -1,0 +1,2204 @@
+[
+	{
+		"id": 1,
+		"companyDetails": {
+			"name": "Cafeneaua Zorilor",
+			"description": "O cafenea artizanală cu specific local, unde fiecare ceașcă spune o poveste. Oferim cafea proaspăt prăjită și produse de patiserie făcute în casă, într-un ambient primitor și relaxant.",
+			"website": "https://website-business.ro",
+			"businessType": "cafenea"
+		},
+		"location": {
+			"address": "Strada Exemplu, Nr. 1",
+			"city": "Iași",
+			"citySlug": "iasi",
+			"coordinates": {
+				"lat": 47.151491,
+				"lng": 27.595543
+			}
+		},
+		"reviews": [
+			{
+				"rating": 4.5,
+				"comment": "Foarte bună cafenea, cu un personal foarte amabil și atențios."
+			},
+			{
+				"rating": 5,
+				"comment": "Servicii excelente! Personalul este foarte amabil și profesionist. Recomand cu încredere!"
+			},
+			{
+				"rating": 4.5,
+				"comment": "O experiență minunată, atmosferă plăcută și produse de calitate. Voi reveni cu siguranță."
+			},
+			{
+				"rating": 3.5,
+				"comment": "În general bine, dar mai este loc de îmbunătățire la timpul de așteptare."
+			},
+			{
+				"rating": 5,
+				"comment": "Cea mai bună alegere din oraș! Calitate premium și servicii impecabile."
+			},
+			{
+				"rating": 4,
+				"comment": "Foarte mulțumit de serviciile oferite. Personalul este bine pregătit și prietenos."
+			},
+			{
+				"rating": 5,
+				"comment": "Locație superbă, servicii de top și prețuri corecte. Merită vizitat!"
+			},
+			{
+				"rating": 4.5,
+				"comment": "Am rămas plăcut impresionat de profesionalismul echipei. Recomand cu căldură!"
+			},
+			{
+				"rating": 3,
+				"comment": "Servicii decent, dar prețurile sunt cam mari pentru ce oferă."
+			},
+			{
+				"rating": 5,
+				"comment": "O experiență extraordinară! Totul a fost perfect, de la început până la sfârșit."
+			},
+			{
+				"rating": 4.5,
+				"comment": "Personalul foarte amabil și atent la detalii. Servicii de calitate!"
+			},
+			{
+				"rating": 5,
+				"comment": "Unul dintre cele mai bune locuri din oraș. Mereu plec mulțumit de aici."
+			},
+			{
+				"rating": 4,
+				"comment": "Servicii bune, personal prietenos. Recomand pentru calitatea oferită."
+			},
+			{
+				"rating": 4.5,
+				"comment": "Experiență foarte plăcută! Voi reveni cu siguranță și data viitoare."
+			},
+			{
+				"rating": 5,
+				"comment": "Absolut fantastic! Depășește toate așteptările. Merit� vizitat!"
+			},
+			{
+				"rating": 4,
+				"comment": "O alegere excelentă! Raport calitate-preț foarte bun."
+			}
+		],
+
+		"branding": {
+			"logo": "https://t4.ftcdn.net/jpg/03/23/91/57/360_F_323915727_pGJQjKMNqpvpOMVqZ5Z2iCDGEVSd5Upk.jpg",
+			"featuredImage": "https://texascoffeeschool.com/wp-content/uploads/2022/03/JAN00491-scaled.jpg"
+		},
+		"operatingHours": {
+			"days": "Luni-Vineri",
+			"hours": "09:00 - 18:00"
+		},
+		"socialProof": {
+			"followersCount": 245,
+			"socialMedia": {
+				"facebook": "https://facebook.com/business",
+				"instagram": "https://instagram.com/business"
+			}
+		},
+		"mediaGallery": {
+			"photos": ["url_photo1.jpg", "url_photo2.jpg"],
+			"video": "url_video.mp4"
+		},
+		"products": [
+			{
+				"id": 1,
+				"title": "Cappuccino",
+				"description": "Cafea italiana cu lapte",
+				"price": 12,
+				"image": "https://lorcoffee.com/cdn/shop/articles/Cappuccino-exc.jpg?v=1684870907"
+			},
+			{
+				"id": 2,
+				"title": "Espresso",
+				"description": "Cafea italiana",
+				"price": 8,
+				"image": "https://blogstudio.s3.theshoppad.net/coffeeheroau/ec178d83e5f597b162cda1e60cb64194.jpg"
+			},
+			{
+				"id": 3,
+				"title": "Americano",
+				"description": "Cafea italiana",
+				"price": 10,
+				"image": "https://www.caffesociety.co.uk/assets/recipe-images/how-to-make-an-americano.jpg"
+			},
+			{
+				"id": 4,
+				"title": "Latte",
+				"description": "Cafea italiana cu lapte",
+				"price": 15,
+				"image": "https://www.foodandwine.com/thmb/CCe2JUHfjCQ44L0YTbCu97ukUzA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Partners-Latte-FT-BLOG0523-09569880de524fe487831d95184495cc.jpg"
+			}
+		],
+		"vouchers": {
+			"active": [
+				{
+					"type": "timeLimited",
+					"count": 10,
+					"title": "Reducere Flash 30%",
+					"code": "FLASH30",
+					"discount": 30,
+					"validFrom": "2025-03-22T22:21:35Z",
+					"validTo": "2025-03-23T14:21:35Z",
+					"description": "30% reducere la toate produsele până la ora 16:00"
+				},
+				{
+					"type": "general",
+					"count": null,
+					"title": "Reducere 10%",
+					"code": "REDUCERE10",
+					"discount": 10,
+					"validFrom": null,
+					"validTo": null,
+					"description": "10% reducere la Cappuccino"
+				},
+				{
+					"type": "product",
+					"products": [2],
+					"count": 100,
+					"title": "Reducere 10% la Latte",
+					"code": "LATTE10",
+					"discount": 10,
+					"validFrom": null,
+					"validTo": null,
+					"description": "10% reducere la Latte"
+				}
+			],
+			"voucherHistory": [
+				{
+					"title": "Reducere 15%",
+					"code": "MID15",
+					"status": "expirat",
+					"usedDate": "2025-01-15"
+				}
+			]
+		},
+		"contact": {
+			"phone": "+40712345678",
+			"email": "contact@business.ro"
+		},
+		"settings": {
+			"autoFeaturedImage": true,
+			"lastUpdated": "2025-02-09T00:00:00Z"
+		}
+	},
+	{
+		"id": 2,
+		"companyDetails": {
+			"name": "Atelier Moldovenesc",
+			"description": "Atelier de creație și meșteșugărie tradițională, unde artizanii locali dau viață obiectelor decorative inspirate din cultura moldovenească. Organizăm workshop-uri și expoziții lunare.",
+			"website": "https://website-business.ro",
+			"businessType": "servicii"
+		},
+		"location": {
+			"address": "Strada Exemplu, Nr. 1",
+			"city": "Iași",
+			"citySlug": "iasi",
+			"coordinates": {
+				"lat": 47.151491,
+				"lng": 27.595543
+			}
+		},
+		"branding": {
+			"logo": "https://static.vecteezy.com/system/resources/previews/010/628/580/non_2x/cocktail-logo-design-template-bar-logo-vector.jpg",
+			"featuredImage": "https://texascoffeeschool.com/wp-content/uploads/2021/10/DSC_0052-scaled.jpg"
+		},
+		"operatingHours": {
+			"days": "Luni-Vineri",
+			"hours": "09:00 - 18:00"
+		},
+		"socialProof": {
+			"followersCount": 245,
+			"socialMedia": {
+				"facebook": "https://facebook.com/business",
+				"instagram": "https://instagram.com/business"
+			}
+		},
+		"mediaGallery": {
+			"photos": ["url_photo1.jpg", "url_photo2.jpg"],
+			"video": "url_video.mp4"
+		},
+		"products": [
+			{
+				"id": 1,
+				"title": "Cappuccino",
+				"description": "Cafea italiana cu lapte",
+				"price": 10,
+				"image": "https://media.istockphoto.com/id/1291582566/vector/bakery-bread-and-cakes-vector-design-logo.jpg?s=612x612&w=0&k=20&c=PVgG3CEiWlo_YdjX24CEJhDdxNBACHdt4Z-nLe-jjX8="
+			},
+			{
+				"id": 2,
+				"title": "Espresso",
+				"description": "Cafea italiana",
+				"price": 8,
+				"image": "https://media.istockphoto.com/id/1291582566/vector/bakery-bread-and-cakes-vector-design-logo.jpg?s=612x612&w=0&k=20&c=PVgG3CEiWlo_YdjX24CEJhDdxNBACHdt4Z-nLe-jjX8="
+			},
+			{
+				"id": 3,
+				"title": "Americano",
+				"description": "Cafea italiana",
+				"price": 10,
+				"image": "https://media.istockphoto.com/id/1291582566/vector/bakery-bread-and-cakes-vector-design-logo.jpg?s=612x612&w=0&k=20&c=PVgG3CEiWlo_YdjX24CEJhDdxNBACHdt4Z-nLe-jjX8="
+			},
+			{
+				"id": 4,
+				"title": "Latte",
+				"description": "Cafea italiana cu lapte",
+				"price": 10,
+				"image": "https://media.istockphoto.com/id/1291582566/vector/bakery-bread-and-cakes-vector-design-logo.jpg?s=612x612&w=0&k=20&c=PVgG3CEiWlo_YdjX24CEJhDdxNBACHdt4Z-nLe-jjX8="
+			}
+		],
+		"vouchers": {
+			"active": [
+				{
+					"title": "Reducere 20%",
+					"code": "MID20",
+					"discount": 20,
+					"validFrom": "2025-02-10",
+					"validTo": "2025-03-10",
+					"terms": "Valabil pentru comenzi peste 100 RON"
+				}
+			],
+			"voucherHistory": [
+				{
+					"title": "Reducere 15%",
+					"code": "MID15",
+					"status": "expirat",
+					"usedDate": "2025-01-15"
+				}
+			]
+		},
+		"contact": {
+			"phone": "+40712345678",
+			"email": "contact@business.ro"
+		},
+		"settings": {
+			"autoFeaturedImage": true,
+			"lastUpdated": "2025-02-09T00:00:00Z"
+		}
+	},
+	{
+		"id": 3,
+		"companyDetails": {
+			"name": "Digital Hub Iași",
+			"description": "Centru de inovație digitală și spațiu de coworking, oferind comunității tech locale un mediu propice pentru dezvoltare și networking. Organizăm evenimente tech și hackathoane.",
+			"website": "https://website-business.ro",
+			"businessType": "servicii"
+		},
+		"location": {
+			"address": "Strada Exemplu, Nr. 1",
+			"city": "Iași",
+			"citySlug": "iasi",
+			"coordinates": {
+				"lat": 47.151491,
+				"lng": 27.595543
+			}
+		},
+		"branding": {
+			"logo": "https://media.istockphoto.com/id/1291582566/vector/bakery-bread-and-cakes-vector-design-logo.jpg?s=612x612&w=0&k=20&c=PVgG3CEiWlo_YdjX24CEJhDdxNBACHdt4Z-nLe-jjX8=",
+			"featuredImage": "https://sharpsheets.io/wp-content/uploads/2022/11/bakery-solutions03.jpeg.webp"
+		},
+		"operatingHours": {
+			"days": "Luni-Vineri",
+			"hours": "09:00 - 18:00"
+		},
+		"socialProof": {
+			"followersCount": 245,
+			"socialMedia": {
+				"facebook": "https://facebook.com/business",
+				"instagram": "https://instagram.com/business"
+			}
+		},
+		"mediaGallery": {
+			"photos": ["url_photo1.jpg", "url_photo2.jpg"],
+			"video": "url_video.mp4"
+		},
+		"products": [
+			{
+				"title": "Produs Exemplu",
+				"description": "Descriere produs...",
+				"price": 49.99,
+				"image": "https://media.cnn.com/api/v1/images/stellar/prod/150929101049-black-coffee-stock.jpg"
+			}
+		],
+		"vouchers": {
+			"active": [
+				{
+					"title": "Reducere 20%",
+					"code": "MID20",
+					"discount": 20,
+					"validFrom": "2025-02-10",
+					"validTo": "2025-03-10",
+					"terms": "Valabil pentru comenzi peste 100 RON"
+				}
+			],
+			"voucherHistory": [
+				{
+					"title": "Reducere 15%",
+					"code": "MID15",
+					"status": "expirat",
+					"usedDate": "2025-01-15"
+				}
+			]
+		},
+		"contact": {
+			"phone": "+40712345678",
+			"email": "contact@business.ro"
+		},
+		"settings": {
+			"autoFeaturedImage": true,
+			"lastUpdated": "2025-02-09T00:00:00Z"
+		}
+	},
+	{
+		"id": 4,
+		"companyDetails": {
+			"name": "Grădina Verde",
+			"description": "Restaurant cu specific vegetarian și vegan, folosind ingrediente locale și bio. Meniul nostru se schimbă în funcție de sezon, oferind preparate creative și sănătoase.",
+			"website": "https://website-business.ro",
+			"businessType": "restaurant"
+		},
+		"location": {
+			"address": "Strada Exemplu, Nr. 1",
+			"city": "Iași",
+			"citySlug": "iasi",
+			"coordinates": {
+				"lat": 47.151491,
+				"lng": 27.595543
+			}
+		},
+
+		"branding": {
+			"logo": "https://marketplace.canva.com/EAGOVOZ3zeY/1/0/1600w/canva-retro-dazle-night-club-logo-c36gMC1IF1c.jpg",
+			"featuredImage": "https://cdn.vox-cdn.com/thumbor/qb6scDiFH4wTKcbVehj1f1e-X7E=/0x0:1731x1155/1200x900/filters:focal(933x452:1209x728)/cdn.vox-cdn.com/uploads/chorus_image/image/64999899/Eater__Tapisserie_09024.14.jpg"
+		},
+		"operatingHours": {
+			"days": "Luni-Vineri",
+			"hours": "09:00 - 18:00"
+		},
+		"socialProof": {
+			"followersCount": 245,
+			"socialMedia": {
+				"facebook": "https://facebook.com/business",
+				"instagram": "https://instagram.com/business"
+			}
+		},
+		"mediaGallery": {
+			"photos": ["url_photo1.jpg", "url_photo2.jpg"],
+			"video": "url_video.mp4"
+		},
+		"products": [
+			{
+				"title": "Produs Exemplu",
+				"description": "Descriere produs...",
+				"price": 49.99,
+				"image": "https://media.cnn.com/api/v1/images/stellar/prod/150929101049-black-coffee-stock.jpg"
+			}
+		],
+		"vouchers": {
+			"active": [
+				{
+					"title": "Reducere 20%",
+					"code": "MID20",
+					"discount": 20,
+					"validFrom": "2025-02-10",
+					"validTo": "2025-03-10",
+					"terms": "Valabil pentru comenzi peste 100 RON"
+				}
+			],
+			"voucherHistory": [
+				{
+					"title": "Reducere 15%",
+					"code": "MID15",
+					"status": "expirat",
+					"usedDate": "2025-01-15"
+				}
+			]
+		},
+		"contact": {
+			"phone": "+40712345678",
+			"email": "contact@business.ro"
+		},
+		"settings": {
+			"autoFeaturedImage": true,
+			"lastUpdated": "2025-02-09T00:00:00Z"
+		}
+	},
+	{
+		"id": 5,
+		"companyDetails": {
+			"name": "Studio Forma",
+			"description": "Sală de fitness și studio de dans modern, cu programe personalizate și clase de grup dinamice. Antrenori certificați și echipamente de ultimă generație.",
+			"website": "https://website-business.ro",
+			"businessType": "servicii"
+		},
+		"location": {
+			"address": "Strada Exemplu, Nr. 1",
+			"city": "Iași",
+			"citySlug": "iasi",
+			"coordinates": {
+				"lat": 47.151491,
+				"lng": 27.595543
+			}
+		},
+
+		"branding": {
+			"logo": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/coffee-shop-logos-design-template-cda8575e146cc5ba17cd3c1a24d65ba1_screen.jpg?ts=1638177256",
+			"featuredImage": "https://texascoffeeschool.com/wp-content/uploads/2022/03/JAN00491-scaled.jpg"
+		},
+		"operatingHours": {
+			"days": "Luni-Vineri",
+			"hours": "09:00 - 18:00"
+		},
+		"socialProof": {
+			"followersCount": 245,
+			"socialMedia": {
+				"facebook": "https://facebook.com/business",
+				"instagram": "https://instagram.com/business"
+			}
+		},
+		"mediaGallery": {
+			"photos": ["url_photo1.jpg", "url_photo2.jpg"],
+			"video": "url_video.mp4"
+		},
+		"products": [
+			{
+				"title": "Produs Exemplu",
+				"description": "Descriere produs...",
+				"price": 49.99,
+				"image": "https://media.cnn.com/api/v1/images/stellar/prod/150929101049-black-coffee-stock.jpg"
+			}
+		],
+		"vouchers": {
+			"active": [
+				{
+					"title": "Reducere 20%",
+					"code": "MID20",
+					"discount": 20,
+					"validFrom": "2025-02-10",
+					"validTo": "2025-03-10",
+					"terms": "Valabil pentru comenzi peste 100 RON"
+				}
+			],
+			"voucherHistory": [
+				{
+					"title": "Reducere 15%",
+					"code": "MID15",
+					"status": "expirat",
+					"usedDate": "2025-01-15"
+				}
+			]
+		},
+		"contact": {
+			"phone": "+40712345678",
+			"email": "contact@business.ro"
+		},
+		"settings": {
+			"autoFeaturedImage": true,
+			"lastUpdated": "2025-02-09T00:00:00Z"
+		}
+	},
+	{
+		"id": 6,
+		"companyDetails": {
+			"name": "Librăria Cărturești",
+			"description": "Librărie independentă cu cafenea, oferind o selecție vastă de cărți, reviste și evenimente culturale. Spațiu primitor pentru lectură și dezbateri literare.",
+			"website": "https://website-business.ro",
+			"businessType": "magazin"
+		},
+		"location": {
+			"address": "Strada Exemplu, Nr. 1",
+			"city": "Iași",
+			"citySlug": "iasi",
+			"coordinates": {
+				"lat": 47.151491,
+				"lng": 27.595543
+			}
+		},
+
+		"branding": {
+			"logo": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/coffee-shop-logos-design-template-cda8575e146cc5ba17cd3c1a24d65ba1_screen.jpg?ts=1638177256",
+			"featuredImage": "https://sumatocoffee.com/cdn/shop/articles/the-importance-of-coffee-shops-in-communities-782577.jpg?v=1713277728&width=1600"
+		},
+		"operatingHours": {
+			"days": "Luni-Vineri",
+			"hours": "09:00 - 18:00"
+		},
+		"socialProof": {
+			"followersCount": 245,
+			"socialMedia": {
+				"facebook": "https://facebook.com/business",
+				"instagram": "https://instagram.com/business"
+			}
+		},
+		"mediaGallery": {
+			"photos": ["url_photo1.jpg", "url_photo2.jpg"],
+			"video": "url_video.mp4"
+		},
+		"products": [
+			{
+				"title": "Produs Exemplu",
+				"description": "Descriere produs...",
+				"price": 49.99,
+				"image": "https://media.cnn.com/api/v1/images/stellar/prod/150929101049-black-coffee-stock.jpg"
+			}
+		],
+		"vouchers": {
+			"active": [
+				{
+					"title": "Reducere 20%",
+					"code": "MID20",
+					"discount": 20,
+					"validFrom": "2025-02-10",
+					"validTo": "2025-03-10",
+					"terms": "Valabil pentru comenzi peste 100 RON"
+				}
+			],
+			"voucherHistory": [
+				{
+					"title": "Reducere 15%",
+					"code": "MID15",
+					"status": "expirat",
+					"usedDate": "2025-01-15"
+				}
+			]
+		},
+		"contact": {
+			"phone": "+40712345678",
+			"email": "contact@business.ro"
+		},
+		"settings": {
+			"autoFeaturedImage": true,
+			"lastUpdated": "2025-02-09T00:00:00Z"
+		}
+	},
+	{
+		"id": 7,
+		"companyDetails": {
+			"name": "Vinăria Moldova",
+			"description": "Cramă urbană cu selecție premium de vinuri locale și internaționale. Organizăm degustări ghidate și evenimente private într-un cadru elegant și intim.",
+			"website": "https://website-business.ro",
+			"businessType": "magazin"
+		},
+		"location": {
+			"address": "Strada Exemplu, Nr. 1",
+			"city": "Iași",
+			"citySlug": "iasi",
+			"coordinates": {
+				"lat": 47.151491,
+				"lng": 27.595543
+			}
+		},
+
+		"branding": {
+			"logo": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/coffee-shop-logos-design-template-cda8575e146cc5ba17cd3c1a24d65ba1_screen.jpg?ts=1638177256",
+			"featuredImage": "https://www.barniescoffee.com/cdn/shop/articles/bar-1869656_1920.jpg?v=1660683986"
+		},
+		"operatingHours": {
+			"days": "Luni-Vineri",
+			"hours": "09:00 - 18:00"
+		},
+		"socialProof": {
+			"followersCount": 245,
+			"socialMedia": {
+				"facebook": "https://facebook.com/business",
+				"instagram": "https://instagram.com/business"
+			}
+		},
+		"mediaGallery": {
+			"photos": ["url_photo1.jpg", "url_photo2.jpg"],
+			"video": "url_video.mp4"
+		},
+		"products": [
+			{
+				"title": "Produs Exemplu",
+				"description": "Descriere produs...",
+				"price": 49.99,
+				"image": "https://media.cnn.com/api/v1/images/stellar/prod/150929101049-black-coffee-stock.jpg"
+			}
+		],
+		"vouchers": {
+			"active": [
+				{
+					"title": "Reducere 20%",
+					"code": "MID20",
+					"discount": 20,
+					"validFrom": "2025-02-10",
+					"validTo": "2025-03-10",
+					"terms": "Valabil pentru comenzi peste 100 RON"
+				}
+			],
+			"voucherHistory": [
+				{
+					"title": "Reducere 15%",
+					"code": "MID15",
+					"status": "expirat",
+					"usedDate": "2025-01-15"
+				}
+			]
+		},
+		"contact": {
+			"phone": "+40712345678",
+			"email": "contact@business.ro"
+		},
+		"settings": {
+			"autoFeaturedImage": true,
+			"lastUpdated": "2025-02-09T00:00:00Z"
+		}
+	},
+	{
+		"id": 8,
+		"companyDetails": {
+			"name": "Academia Copiilor",
+			"description": "Centru educațional pentru copii între 3-14 ani, oferind cursuri de programare, robotică, artă și limbi străine. Metodologie modernă și interactivă.",
+			"website": "https://website-business.ro",
+			"businessType": "servicii"
+		},
+		"location": {
+			"address": "Strada Exemplu, Nr. 1",
+			"city": "Iași",
+			"citySlug": "iasi",
+			"coordinates": {
+				"lat": 47.151491,
+				"lng": 27.595543
+			}
+		},
+
+		"branding": {
+			"logo": "https://media.istockphoto.com/id/1262771454/vector/coffee-shop-emblem-template.jpg?s=612x612&w=0&k=20&c=y1EyHCxENVCPCgblJ00BEdjiUjwMnYk4QgZSKRCegxY=",
+			"featuredImage": "https://3brothersbakery.com/wp-content/uploads/2019/02/Houston%E2%80%99s-Specialty-Bakery.png"
+		},
+		"operatingHours": {
+			"days": "Luni-Vineri",
+			"hours": "09:00 - 18:00"
+		},
+		"socialProof": {
+			"followersCount": 245,
+			"socialMedia": {
+				"facebook": "https://facebook.com/business",
+				"instagram": "https://instagram.com/business"
+			}
+		},
+		"mediaGallery": {
+			"photos": ["url_photo1.jpg", "url_photo2.jpg"],
+			"video": "url_video.mp4"
+		},
+		"products": [
+			{
+				"title": "Produs Exemplu",
+				"description": "Descriere produs...",
+				"price": 49.99,
+				"image": "https://media.cnn.com/api/v1/images/stellar/prod/150929101049-black-coffee-stock.jpg"
+			}
+		],
+		"vouchers": {
+			"active": [
+				{
+					"title": "Reducere 20%",
+					"code": "MID20",
+					"discount": 20,
+					"validFrom": "2025-02-10",
+					"validTo": "2025-03-10",
+					"terms": "Valabil pentru comenzi peste 100 RON"
+				}
+			],
+			"voucherHistory": [
+				{
+					"title": "Reducere 15%",
+					"code": "MID15",
+					"status": "expirat",
+					"usedDate": "2025-01-15"
+				}
+			]
+		},
+		"contact": {
+			"phone": "+40712345678",
+			"email": "contact@business.ro"
+		},
+		"settings": {
+			"autoFeaturedImage": true,
+			"lastUpdated": "2025-02-09T00:00:00Z"
+		}
+	},
+	{
+		"id": 9,
+		"companyDetails": {
+			"name": "Salon Bellezza",
+			"description": "Salon de înfrumusețare premium, oferind servicii complete de coafor, cosmetică și tratamente spa. Folosim produse profesionale și tehnici inovatoare.",
+			"website": "https://website-business.ro",
+			"businessType": "servicii"
+		},
+		"location": {
+			"address": "Strada Exemplu, Nr. 1",
+			"city": "Iași",
+			"citySlug": "iasi",
+			"coordinates": {
+				"lat": 47.151491,
+				"lng": 27.595543
+			}
+		},
+
+		"branding": {
+			"logo": "https://3brothersbakery.com/wp-content/uploads/2019/02/Houston%E2%80%99s-Specialty-Bakery.png",
+			"featuredImage": "https://texascoffeeschool.com/wp-content/uploads/2021/10/DSC_0052-scaled.jpg"
+		},
+		"operatingHours": {
+			"days": "Luni-Vineri",
+			"hours": "09:00 - 18:00"
+		},
+		"socialProof": {
+			"followersCount": 245,
+			"socialMedia": {
+				"facebook": "https://facebook.com/business",
+				"instagram": "https://instagram.com/business"
+			}
+		},
+		"mediaGallery": {
+			"photos": ["url_photo1.jpg", "url_photo2.jpg"],
+			"video": "url_video.mp4"
+		},
+		"products": [
+			{
+				"title": "Produs Exemplu",
+				"description": "Descriere produs...",
+				"price": 49.99,
+				"image": "https://media.cnn.com/api/v1/images/stellar/prod/150929101049-black-coffee-stock.jpg"
+			}
+		],
+		"vouchers": {
+			"active": [
+				{
+					"title": "Reducere 20%",
+					"code": "MID20",
+					"discount": 20,
+					"validFrom": "2025-02-10",
+					"validTo": "2025-03-10",
+					"terms": "Valabil pentru comenzi peste 100 RON"
+				}
+			],
+			"voucherHistory": [
+				{
+					"title": "Reducere 15%",
+					"code": "MID15",
+					"status": "expirat",
+					"usedDate": "2025-01-15"
+				}
+			]
+		},
+		"contact": {
+			"phone": "+40712345678",
+			"email": "contact@business.ro"
+		},
+		"settings": {
+			"autoFeaturedImage": true,
+			"lastUpdated": "2025-02-09T00:00:00Z"
+		}
+	},
+	{
+		"id": 11,
+		"companyDetails": {
+			"name": "Foto Studio Pro",
+			"description": "Studio fotografic profesionist specializat în fotografie de eveniment, portret și comercială. Echipament modern și fotografi cu experiență.",
+			"website": "https://website-business.ro",
+			"businessType": "servicii"
+		},
+		"location": {
+			"address": "Strada Exemplu, Nr. 1",
+			"city": "Iași",
+			"citySlug": "iasi",
+			"coordinates": {
+				"lat": 47.151491,
+				"lng": 27.595543
+			}
+		},
+
+		"branding": {
+			"logo": "https://t4.ftcdn.net/jpg/03/23/91/57/360_F_323915727_pGJQjKMNqpvpOMVqZ5Z2iCDGEVSd5Upk.jpg",
+			"featuredImage": "https://3brothersbakery.com/wp-content/uploads/2019/02/Houston%E2%80%99s-Specialty-Bakery.png"
+		},
+		"operatingHours": {
+			"days": "Luni-Vineri",
+			"hours": "09:00 - 18:00"
+		},
+		"socialProof": {
+			"followersCount": 245,
+			"socialMedia": {
+				"facebook": "https://facebook.com/business",
+				"instagram": "https://instagram.com/business"
+			}
+		},
+		"mediaGallery": {
+			"photos": ["url_photo1.jpg", "url_photo2.jpg"],
+			"video": "url_video.mp4"
+		},
+		"products": [
+			{
+				"title": "Produs Exemplu",
+				"description": "Descriere produs...",
+				"price": 49.99,
+				"image": "https://media.cnn.com/api/v1/images/stellar/prod/150929101049-black-coffee-stock.jpg"
+			}
+		],
+		"vouchers": {
+			"active": [
+				{
+					"title": "Reducere 20%",
+					"code": "MID20",
+					"discount": 20,
+					"validFrom": "2025-02-10",
+					"validTo": "2025-03-10",
+					"terms": "Valabil pentru comenzi peste 100 RON"
+				}
+			],
+			"voucherHistory": [
+				{
+					"title": "Reducere 15%",
+					"code": "MID15",
+					"status": "expirat",
+					"usedDate": "2025-01-15"
+				}
+			]
+		},
+		"contact": {
+			"phone": "+40712345678",
+			"email": "contact@business.ro"
+		},
+		"settings": {
+			"autoFeaturedImage": true,
+			"lastUpdated": "2025-02-09T00:00:00Z"
+		}
+	},
+	{
+		"id": 12,
+		"companyDetails": {
+			"name": "Casa Muzicii",
+			"description": "Școală de muzică pentru toate vârstele, oferind lecții de pian, chitară, vioară și canto. Profesori cu experiență și săli dotate complet.",
+			"website": "https://website-business.ro",
+			"businessType": "servicii"
+		},
+		"location": {
+			"address": "Strada Exemplu, Nr. 1",
+			"city": "Iași",
+			"citySlug": "iasi",
+			"coordinates": {
+				"lat": 47.151491,
+				"lng": 27.595543
+			}
+		},
+
+		"branding": {
+			"logo": "https://t4.ftcdn.net/jpg/03/23/91/57/360_F_323915727_pGJQjKMNqpvpOMVqZ5Z2iCDGEVSd5Upk.jpg",
+			"featuredImage": "https://www.barniescoffee.com/cdn/shop/articles/bar-1869656_1920.jpg?v=1660683986"
+		},
+		"operatingHours": {
+			"days": "Luni-Vineri",
+			"hours": "09:00 - 18:00"
+		},
+		"socialProof": {
+			"followersCount": 245,
+			"socialMedia": {
+				"facebook": "https://facebook.com/business",
+				"instagram": "https://instagram.com/business"
+			}
+		},
+		"mediaGallery": {
+			"photos": ["url_photo1.jpg", "url_photo2.jpg"],
+			"video": "url_video.mp4"
+		},
+		"products": [
+			{
+				"title": "Produs Exemplu",
+				"description": "Descriere produs...",
+				"price": 49.99,
+				"image": "https://media.cnn.com/api/v1/images/stellar/prod/150929101049-black-coffee-stock.jpg"
+			}
+		],
+		"vouchers": {
+			"active": [
+				{
+					"title": "Reducere 20%",
+					"code": "MID20",
+					"discount": 20,
+					"validFrom": "2025-02-10",
+					"validTo": "2025-03-10",
+					"terms": "Valabil pentru comenzi peste 100 RON"
+				}
+			],
+			"voucherHistory": [
+				{
+					"title": "Reducere 15%",
+					"code": "MID15",
+					"status": "expirat",
+					"usedDate": "2025-01-15"
+				}
+			]
+		},
+		"contact": {
+			"phone": "+40712345678",
+			"email": "contact@business.ro"
+		},
+		"settings": {
+			"autoFeaturedImage": true,
+			"lastUpdated": "2025-02-09T00:00:00Z"
+		}
+	},
+	{
+		"id": 13,
+		"companyDetails": {
+			"name": "Pet Paradise",
+			"description": "Centru veterinar și pet shop cu servicii complete pentru animale de companie. Oferim consultații, tratamente și produse premium pentru animalul tău.",
+			"website": "https://website-business.ro",
+			"businessType": "servicii"
+		},
+		"location": {
+			"address": "Strada Exemplu, Nr. 1",
+			"city": "Iași",
+			"citySlug": "iasi",
+			"coordinates": {
+				"lat": 47.151491,
+				"lng": 27.595543
+			}
+		},
+
+		"branding": {
+			"logo": "https://thumbs.dreamstime.com/b/bakery-bakeshop-logo-label-home-baking-bread-concept-cartoon-vector-illustration-bakery-bakeshop-logo-label-home-baking-120071941.jpg",
+			"featuredImage": "https://sumatocoffee.com/cdn/shop/articles/the-importance-of-coffee-shops-in-communities-782577.jpg?v=1713277728&width=1600"
+		},
+		"operatingHours": {
+			"days": "Luni-Vineri",
+			"hours": "09:00 - 18:00"
+		},
+		"socialProof": {
+			"followersCount": 245,
+			"socialMedia": {
+				"facebook": "https://facebook.com/business",
+				"instagram": "https://instagram.com/business"
+			}
+		},
+		"mediaGallery": {
+			"photos": ["url_photo1.jpg", "url_photo2.jpg"],
+			"video": "url_video.mp4"
+		},
+		"products": [
+			{
+				"title": "Produs Exemplu",
+				"description": "Descriere produs...",
+				"price": 49.99,
+				"image": "https://media.cnn.com/api/v1/images/stellar/prod/150929101049-black-coffee-stock.jpg"
+			}
+		],
+		"vouchers": {
+			"active": [
+				{
+					"title": "Reducere 20%",
+					"code": "MID20",
+					"discount": 20,
+					"validFrom": "2025-02-10",
+					"validTo": "2025-03-10",
+					"terms": "Valabil pentru comenzi peste 100 RON"
+				}
+			],
+			"voucherHistory": [
+				{
+					"title": "Reducere 15%",
+					"code": "MID15",
+					"status": "expirat",
+					"usedDate": "2025-01-15"
+				}
+			]
+		},
+		"contact": {
+			"phone": "+40712345678",
+			"email": "contact@business.ro"
+		},
+		"settings": {
+			"autoFeaturedImage": true,
+			"lastUpdated": "2025-02-09T00:00:00Z"
+		}
+	},
+	{
+		"id": 14,
+		"companyDetails": {
+			"name": "Imobiliare Expert",
+			"description": "Agenție imobiliară cu experiență în piața locală, oferind servicii complete de vânzare, cumpărare și închiriere. Consultanță personalizată și portofoliu vast.",
+			"website": "https://website-business.ro",
+			"businessType": "servicii"
+		},
+		"location": {
+			"address": "Strada Exemplu, Nr. 1",
+			"city": "Iași",
+			"citySlug": "iasi",
+			"coordinates": {
+				"lat": 47.151491,
+				"lng": 27.595543
+			}
+		},
+
+		"branding": {
+			"logo": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/coffee-shop-logos-design-template-cda8575e146cc5ba17cd3c1a24d65ba1_screen.jpg?ts=1638177256",
+			"featuredImage": "https://www.barniescoffee.com/cdn/shop/articles/bar-1869656_1920.jpg?v=1660683986"
+		},
+		"operatingHours": {
+			"days": "Luni-Vineri",
+			"hours": "09:00 - 18:00"
+		},
+		"socialProof": {
+			"followersCount": 245,
+			"socialMedia": {
+				"facebook": "https://facebook.com/business",
+				"instagram": "https://instagram.com/business"
+			}
+		},
+		"mediaGallery": {
+			"photos": ["url_photo1.jpg", "url_photo2.jpg"],
+			"video": "url_video.mp4"
+		},
+		"products": [
+			{
+				"title": "Produs Exemplu",
+				"description": "Descriere produs...",
+				"price": 49.99,
+				"image": "https://media.cnn.com/api/v1/images/stellar/prod/150929101049-black-coffee-stock.jpg"
+			}
+		],
+		"vouchers": {
+			"active": [
+				{
+					"title": "Reducere 20%",
+					"code": "MID20",
+					"discount": 20,
+					"validFrom": "2025-02-10",
+					"validTo": "2025-03-10",
+					"terms": "Valabil pentru comenzi peste 100 RON"
+				}
+			],
+			"voucherHistory": [
+				{
+					"title": "Reducere 15%",
+					"code": "MID15",
+					"status": "expirat",
+					"usedDate": "2025-01-15"
+				}
+			]
+		},
+		"contact": {
+			"phone": "+40712345678",
+			"email": "contact@business.ro"
+		},
+		"settings": {
+			"autoFeaturedImage": true,
+			"lastUpdated": "2025-02-09T00:00:00Z"
+		}
+	},
+	{
+		"id": 15,
+		"companyDetails": {
+			"name": "Print & Design",
+			"description": "Centru de printare și design grafic, oferind servicii complete de la conceptie la producție. Calitate premium și termene rapide de livrare.",
+			"website": "https://website-business.ro",
+			"businessType": "servicii"
+		},
+		"location": {
+			"address": "Strada Exemplu, Nr. 1",
+			"city": "Iași",
+			"citySlug": "iasi",
+			"coordinates": {
+				"lat": 47.151491,
+				"lng": 27.595543
+			}
+		},
+
+		"branding": {
+			"logo": "https://t4.ftcdn.net/jpg/03/23/91/57/360_F_323915727_pGJQjKMNqpvpOMVqZ5Z2iCDGEVSd5Upk.jpg",
+			"featuredImage": "https://sharpsheets.io/wp-content/uploads/2022/11/bakery-solutions03.jpeg.webp"
+		},
+		"operatingHours": {
+			"days": "Luni-Vineri",
+			"hours": "09:00 - 18:00"
+		},
+		"socialProof": {
+			"followersCount": 245,
+			"socialMedia": {
+				"facebook": "https://facebook.com/business",
+				"instagram": "https://instagram.com/business"
+			}
+		},
+		"mediaGallery": {
+			"photos": ["url_photo1.jpg", "url_photo2.jpg"],
+			"video": "url_video.mp4"
+		},
+		"products": [
+			{
+				"title": "Produs Exemplu",
+				"description": "Descriere produs...",
+				"price": 49.99,
+				"image": "https://media.cnn.com/api/v1/images/stellar/prod/150929101049-black-coffee-stock.jpg"
+			}
+		],
+		"vouchers": {
+			"active": [
+				{
+					"title": "Reducere 20%",
+					"code": "MID20",
+					"discount": 20,
+					"validFrom": "2025-02-10",
+					"validTo": "2025-03-10",
+					"terms": "Valabil pentru comenzi peste 100 RON"
+				}
+			],
+			"voucherHistory": [
+				{
+					"title": "Reducere 15%",
+					"code": "MID15",
+					"status": "expirat",
+					"usedDate": "2025-01-15"
+				}
+			]
+		},
+		"contact": {
+			"phone": "+40712345678",
+			"email": "contact@business.ro"
+		},
+		"settings": {
+			"autoFeaturedImage": true,
+			"lastUpdated": "2025-02-09T00:00:00Z"
+		}
+	},
+	{
+		"id": 16,
+		"companyDetails": {
+			"name": "Atelier Creativ Brașov",
+			"description": "Studio de design și creație unde artiștii locali își expun și vând lucrările. Organizăm workshop-uri și evenimente culturale pentru comunitatea locală.",
+			"website": "https://website-business.ro",
+			"businessType": "servicii"
+		},
+		"location": {
+			"address": "Strada Exemplu, Nr. 1",
+			"city": "Brașov",
+			"citySlug": "brasov",
+			"coordinates": {
+				"lat": 47.151491,
+				"lng": 27.595543
+			}
+		},
+
+		"branding": {
+			"logo": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/coffee-shop-logos-design-template-cda8575e146cc5ba17cd3c1a24d65ba1_screen.jpg?ts=1638177256",
+			"featuredImage": "https://texascoffeeschool.com/wp-content/uploads/2022/03/JAN00491-scaled.jpg"
+		},
+		"operatingHours": {
+			"days": "Luni-Vineri",
+			"hours": "09:00 - 18:00"
+		},
+		"socialProof": {
+			"followersCount": 245,
+			"socialMedia": {
+				"facebook": "https://facebook.com/business",
+				"instagram": "https://instagram.com/business"
+			}
+		},
+		"mediaGallery": {
+			"photos": ["url_photo1.jpg", "url_photo2.jpg"],
+			"video": "url_video.mp4"
+		},
+		"products": [
+			{
+				"title": "Produs Exemplu",
+				"description": "Descriere produs...",
+				"price": 49.99,
+				"image": "https://media.cnn.com/api/v1/images/stellar/prod/150929101049-black-coffee-stock.jpg"
+			}
+		],
+		"vouchers": {
+			"active": [
+				{
+					"title": "Reducere 20%",
+					"code": "MID20",
+					"discount": 20,
+					"validFrom": "2025-02-10",
+					"validTo": "2025-03-10",
+					"terms": "Valabil pentru comenzi peste 100 RON"
+				}
+			],
+			"voucherHistory": [
+				{
+					"title": "Reducere 15%",
+					"code": "MID15",
+					"status": "expirat",
+					"usedDate": "2025-01-15"
+				}
+			]
+		},
+		"contact": {
+			"phone": "+40712345678",
+			"email": "contact@business.ro"
+		},
+		"settings": {
+			"autoFeaturedImage": true,
+			"lastUpdated": "2025-02-09T00:00:00Z"
+		}
+	},
+	{
+		"id": 17,
+		"companyDetails": {
+			"name": "Mountain Bike Shop",
+			"description": "Magazin specializat în echipamente și accesorii pentru ciclism montan. Oferim service, închirieri și organizăm ture ghidate în împrejurimi.",
+			"website": "https://website-business.ro",
+			"businessType": "magazin"
+		},
+		"location": {
+			"address": "Strada Exemplu, Nr. 1",
+			"city": "Brașov",
+			"citySlug": "brasov",
+			"coordinates": {
+				"lat": 47.151491,
+				"lng": 27.595543
+			}
+		},
+
+		"branding": {
+			"logo": "https://thumbs.dreamstime.com/b/bakery-bakeshop-logo-label-home-baking-bread-concept-cartoon-vector-illustration-bakery-bakeshop-logo-label-home-baking-120071941.jpg",
+			"featuredImage": "https://d2w1ef2ao9g8r9.cloudfront.net/otl-images/_1600x1066_crop_center-center_82_line/how-to-open-coffee-shop.jpg"
+		},
+		"operatingHours": {
+			"days": "Luni-Vineri",
+			"hours": "09:00 - 18:00"
+		},
+		"socialProof": {
+			"followersCount": 245,
+			"socialMedia": {
+				"facebook": "https://facebook.com/business",
+				"instagram": "https://instagram.com/business"
+			}
+		},
+		"mediaGallery": {
+			"photos": ["url_photo1.jpg", "url_photo2.jpg"],
+			"video": "url_video.mp4"
+		},
+		"products": [
+			{
+				"title": "Produs Exemplu",
+				"description": "Descriere produs...",
+				"price": 49.99,
+				"image": "https://media.cnn.com/api/v1/images/stellar/prod/150929101049-black-coffee-stock.jpg"
+			}
+		],
+		"vouchers": {
+			"active": [
+				{
+					"title": "Reducere 20%",
+					"code": "MID20",
+					"discount": 20,
+					"validFrom": "2025-02-10",
+					"validTo": "2025-03-10",
+					"terms": "Valabil pentru comenzi peste 100 RON"
+				}
+			],
+			"voucherHistory": [
+				{
+					"title": "Reducere 15%",
+					"code": "MID15",
+					"status": "expirat",
+					"usedDate": "2025-01-15"
+				}
+			]
+		},
+		"contact": {
+			"phone": "+40712345678",
+			"email": "contact@business.ro"
+		},
+		"settings": {
+			"autoFeaturedImage": true,
+			"lastUpdated": "2025-02-09T00:00:00Z"
+		}
+	},
+	{
+		"id": 18,
+		"companyDetails": {
+			"name": "Ski School Pro",
+			"description": "Școală de schi și snowboard cu instructori certificați internațional. Cursuri pentru toate nivelurile și echipament de închiriat.",
+			"website": "https://website-business.ro",
+			"businessType": "servicii"
+		},
+		"location": {
+			"address": "Strada Exemplu, Nr. 1",
+			"city": "Brașov",
+			"citySlug": "brasov",
+			"coordinates": {
+				"lat": 47.151491,
+				"lng": 27.595543
+			}
+		},
+
+		"branding": {
+			"logo": "https://static.vecteezy.com/system/resources/previews/010/628/580/non_2x/cocktail-logo-design-template-bar-logo-vector.jpg",
+			"featuredImage": "https://texascoffeeschool.com/wp-content/uploads/2022/03/JAN00491-scaled.jpg"
+		},
+		"operatingHours": {
+			"days": "Luni-Vineri",
+			"hours": "09:00 - 18:00"
+		},
+		"socialProof": {
+			"followersCount": 245,
+			"socialMedia": {
+				"facebook": "https://facebook.com/business",
+				"instagram": "https://instagram.com/business"
+			}
+		},
+		"mediaGallery": {
+			"photos": ["url_photo1.jpg", "url_photo2.jpg"],
+			"video": "url_video.mp4"
+		},
+		"products": [
+			{
+				"title": "Produs Exemplu",
+				"description": "Descriere produs...",
+				"price": 49.99,
+				"image": "https://media.cnn.com/api/v1/images/stellar/prod/150929101049-black-coffee-stock.jpg"
+			}
+		],
+		"vouchers": {
+			"active": [
+				{
+					"title": "Reducere 20%",
+					"code": "MID20",
+					"discount": 20,
+					"validFrom": "2025-02-10",
+					"validTo": "2025-03-10",
+					"terms": "Valabil pentru comenzi peste 100 RON"
+				}
+			],
+			"voucherHistory": [
+				{
+					"title": "Reducere 15%",
+					"code": "MID15",
+					"status": "expirat",
+					"usedDate": "2025-01-15"
+				}
+			]
+		},
+		"contact": {
+			"phone": "+40712345678",
+			"email": "contact@business.ro"
+		},
+		"settings": {
+			"autoFeaturedImage": true,
+			"lastUpdated": "2025-02-09T00:00:00Z"
+		}
+	},
+	{
+		"id": 19,
+		"companyDetails": {
+			"name": "Restaurant Transilvania",
+			"description": "Restaurant tradițional cu specific local, oferind preparate autentice transilvănene într-un decor rustic și primitor.",
+			"website": "https://website-business.ro",
+			"businessType": "restaurant"
+		},
+		"location": {
+			"address": "Strada Exemplu, Nr. 1",
+			"city": "Brașov",
+			"citySlug": "brasov",
+			"coordinates": {
+				"lat": 47.151491,
+				"lng": 27.595543
+			}
+		},
+
+		"branding": {
+			"logo": "https://media.istockphoto.com/id/1262771454/vector/coffee-shop-emblem-template.jpg?s=612x612&w=0&k=20&c=y1EyHCxENVCPCgblJ00BEdjiUjwMnYk4QgZSKRCegxY=",
+			"featuredImage": "https://texascoffeeschool.com/wp-content/uploads/2021/10/DSC_0052-scaled.jpg"
+		},
+		"operatingHours": {
+			"days": "Luni-Vineri",
+			"hours": "09:00 - 18:00"
+		},
+		"socialProof": {
+			"followersCount": 245,
+			"socialMedia": {
+				"facebook": "https://facebook.com/business",
+				"instagram": "https://instagram.com/business"
+			}
+		},
+		"mediaGallery": {
+			"photos": ["url_photo1.jpg", "url_photo2.jpg"],
+			"video": "url_video.mp4"
+		},
+		"products": [
+			{
+				"title": "Produs Exemplu",
+				"description": "Descriere produs...",
+				"price": 49.99,
+				"image": "https://media.cnn.com/api/v1/images/stellar/prod/150929101049-black-coffee-stock.jpg"
+			}
+		],
+		"vouchers": {
+			"active": [
+				{
+					"title": "Reducere 20%",
+					"code": "MID20",
+					"discount": 20,
+					"validFrom": "2025-02-10",
+					"validTo": "2025-03-10",
+					"terms": "Valabil pentru comenzi peste 100 RON"
+				}
+			],
+			"voucherHistory": [
+				{
+					"title": "Reducere 15%",
+					"code": "MID15",
+					"status": "expirat",
+					"usedDate": "2025-01-15"
+				}
+			]
+		},
+		"contact": {
+			"phone": "+40712345678",
+			"email": "contact@business.ro"
+		},
+		"settings": {
+			"autoFeaturedImage": true,
+			"lastUpdated": "2025-02-09T00:00:00Z"
+		}
+	},
+	{
+		"id": 21,
+		"companyDetails": {
+			"name": "Adventure Park",
+			"description": "Parc de aventură cu trasee pentru toate vârstele și nivelurile de dificultate. Activități în aer liber și team building-uri corporate.",
+			"website": "https://website-business.ro",
+			"businessType": "servicii"
+		},
+		"location": {
+			"address": "Strada Exemplu, Nr. 1",
+			"city": "Brașov",
+			"citySlug": "brasov",
+			"coordinates": {
+				"lat": 47.151491,
+				"lng": 27.595543
+			}
+		},
+
+		"branding": {
+			"logo": "https://t4.ftcdn.net/jpg/03/23/91/57/360_F_323915727_pGJQjKMNqpvpOMVqZ5Z2iCDGEVSd5Upk.jpg",
+			"featuredImage": "https://sharpsheets.io/wp-content/uploads/2022/11/bakery-solutions03.jpeg.webp"
+		},
+		"operatingHours": {
+			"days": "Luni-Vineri",
+			"hours": "09:00 - 18:00"
+		},
+		"socialProof": {
+			"followersCount": 245,
+			"socialMedia": {
+				"facebook": "https://facebook.com/business",
+				"instagram": "https://instagram.com/business"
+			}
+		},
+		"mediaGallery": {
+			"photos": ["url_photo1.jpg", "url_photo2.jpg"],
+			"video": "url_video.mp4"
+		},
+		"products": [
+			{
+				"title": "Produs Exemplu",
+				"description": "Descriere produs...",
+				"price": 49.99,
+				"image": "https://media.cnn.com/api/v1/images/stellar/prod/150929101049-black-coffee-stock.jpg"
+			}
+		],
+		"vouchers": {
+			"active": [
+				{
+					"title": "Reducere 20%",
+					"code": "MID20",
+					"discount": 20,
+					"validFrom": "2025-02-10",
+					"validTo": "2025-03-10",
+					"terms": "Valabil pentru comenzi peste 100 RON"
+				}
+			],
+			"voucherHistory": [
+				{
+					"title": "Reducere 15%",
+					"code": "MID15",
+					"status": "expirat",
+					"usedDate": "2025-01-15"
+				}
+			]
+		},
+		"contact": {
+			"phone": "+40712345678",
+			"email": "contact@business.ro"
+		},
+		"settings": {
+			"autoFeaturedImage": true,
+			"lastUpdated": "2025-02-09T00:00:00Z"
+		}
+	},
+	{
+		"id": 22,
+		"companyDetails": {
+			"name": "Eco Tours",
+			"description": "Agenție de turism specializată în tururi eco și culturale în zona Brașovului. Ghizi locali cu experiență și pachete personalizate.",
+			"website": "https://website-business.ro",
+			"businessType": "servicii"
+		},
+		"location": {
+			"address": "Strada Exemplu, Nr. 1",
+			"city": "Brașov",
+			"citySlug": "brasov",
+			"coordinates": {
+				"lat": 47.151491,
+				"lng": 27.595543
+			}
+		},
+
+		"branding": {
+			"logo": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/coffee-shop-logos-design-template-cda8575e146cc5ba17cd3c1a24d65ba1_screen.jpg?ts=1638177256",
+			"featuredImage": "https://sharpsheets.io/wp-content/uploads/2022/11/bakery-solutions03.jpeg.webp"
+		},
+		"operatingHours": {
+			"days": "Luni-Vineri",
+			"hours": "09:00 - 18:00"
+		},
+		"socialProof": {
+			"followersCount": 245,
+			"socialMedia": {
+				"facebook": "https://facebook.com/business",
+				"instagram": "https://instagram.com/business"
+			}
+		},
+		"mediaGallery": {
+			"photos": ["url_photo1.jpg", "url_photo2.jpg"],
+			"video": "url_video.mp4"
+		},
+		"products": [
+			{
+				"title": "Produs Exemplu",
+				"description": "Descriere produs...",
+				"price": 49.99,
+				"image": "https://media.cnn.com/api/v1/images/stellar/prod/150929101049-black-coffee-stock.jpg"
+			}
+		],
+		"vouchers": {
+			"active": [
+				{
+					"title": "Reducere 20%",
+					"code": "MID20",
+					"discount": 20,
+					"validFrom": "2025-02-10",
+					"validTo": "2025-03-10",
+					"terms": "Valabil pentru comenzi peste 100 RON"
+				}
+			],
+			"voucherHistory": [
+				{
+					"title": "Reducere 15%",
+					"code": "MID15",
+					"status": "expirat",
+					"usedDate": "2025-01-15"
+				}
+			]
+		},
+		"contact": {
+			"phone": "+40712345678",
+			"email": "contact@business.ro"
+		},
+		"settings": {
+			"autoFeaturedImage": true,
+			"lastUpdated": "2025-02-09T00:00:00Z"
+		}
+	},
+	{
+		"id": 23,
+		"companyDetails": {
+			"name": "Casa Medievală",
+			"description": "Restaurant și pensiune în centrul istoric, oferind experiențe gastronomice autentice într-un cadru medieval restaurat.",
+			"website": "https://website-business.ro",
+			"businessType": "restaurant"
+		},
+		"location": {
+			"address": "Strada Exemplu, Nr. 1",
+			"city": "Brașov",
+			"citySlug": "brasov",
+			"coordinates": {
+				"lat": 47.151491,
+				"lng": 27.595543
+			}
+		},
+
+		"branding": {
+			"logo": "https://thumbs.dreamstime.com/b/bakery-bakeshop-logo-label-home-baking-bread-concept-cartoon-vector-illustration-bakery-bakeshop-logo-label-home-baking-120071941.jpg",
+			"featuredImage": "https://sharpsheets.io/wp-content/uploads/2022/11/bakery-solutions03.jpeg.webp"
+		},
+		"operatingHours": {
+			"days": "Luni-Vineri",
+			"hours": "09:00 - 18:00"
+		},
+		"socialProof": {
+			"followersCount": 245,
+			"socialMedia": {
+				"facebook": "https://facebook.com/business",
+				"instagram": "https://instagram.com/business"
+			}
+		},
+		"mediaGallery": {
+			"photos": ["url_photo1.jpg", "url_photo2.jpg"],
+			"video": "url_video.mp4"
+		},
+		"products": [
+			{
+				"title": "Produs Exemplu",
+				"description": "Descriere produs...",
+				"price": 49.99,
+				"image": "https://media.cnn.com/api/v1/images/stellar/prod/150929101049-black-coffee-stock.jpg"
+			}
+		],
+		"vouchers": {
+			"active": [
+				{
+					"title": "Reducere 20%",
+					"code": "MID20",
+					"discount": 20,
+					"validFrom": "2025-02-10",
+					"validTo": "2025-03-10",
+					"terms": "Valabil pentru comenzi peste 100 RON"
+				}
+			],
+			"voucherHistory": [
+				{
+					"title": "Reducere 15%",
+					"code": "MID15",
+					"status": "expirat",
+					"usedDate": "2025-01-15"
+				}
+			]
+		},
+		"contact": {
+			"phone": "+40712345678",
+			"email": "contact@business.ro"
+		},
+		"settings": {
+			"autoFeaturedImage": true,
+			"lastUpdated": "2025-02-09T00:00:00Z"
+		}
+	},
+	{
+		"id": 24,
+		"companyDetails": {
+			"name": "Artizanat Local",
+			"description": "Magazin de suveniruri și artizanat local, promovând meșteșugarii din zona Brașovului. Produse autentice și ateliere demonstrative.",
+			"website": "https://website-business.ro",
+			"businessType": "magazin"
+		},
+		"location": {
+			"address": "Strada Exemplu, Nr. 1",
+			"city": "Brașov",
+			"citySlug": "brasov",
+			"coordinates": {
+				"lat": 47.151491,
+				"lng": 27.595543
+			}
+		},
+
+		"branding": {
+			"logo": "https://thumbs.dreamstime.com/b/bakery-bakeshop-logo-label-home-baking-bread-concept-cartoon-vector-illustration-bakery-bakeshop-logo-label-home-baking-120071941.jpg",
+			"featuredImage": "https://d2w1ef2ao9g8r9.cloudfront.net/otl-images/_1600x1066_crop_center-center_82_line/how-to-open-coffee-shop.jpg"
+		},
+		"operatingHours": {
+			"days": "Luni-Vineri",
+			"hours": "09:00 - 18:00"
+		},
+		"socialProof": {
+			"followersCount": 245,
+			"socialMedia": {
+				"facebook": "https://facebook.com/business",
+				"instagram": "https://instagram.com/business"
+			}
+		},
+		"mediaGallery": {
+			"photos": ["url_photo1.jpg", "url_photo2.jpg"],
+			"video": "url_video.mp4"
+		},
+		"products": [
+			{
+				"title": "Produs Exemplu",
+				"description": "Descriere produs...",
+				"price": 49.99,
+				"image": "https://media.cnn.com/api/v1/images/stellar/prod/150929101049-black-coffee-stock.jpg"
+			}
+		],
+		"vouchers": {
+			"active": [
+				{
+					"title": "Reducere 20%",
+					"code": "MID20",
+					"discount": 20,
+					"validFrom": "2025-02-10",
+					"validTo": "2025-03-10",
+					"terms": "Valabil pentru comenzi peste 100 RON"
+				}
+			],
+			"voucherHistory": [
+				{
+					"title": "Reducere 15%",
+					"code": "MID15",
+					"status": "expirat",
+					"usedDate": "2025-01-15"
+				}
+			]
+		},
+		"contact": {
+			"phone": "+40712345678",
+			"email": "contact@business.ro"
+		},
+		"settings": {
+			"autoFeaturedImage": true,
+			"lastUpdated": "2025-02-09T00:00:00Z"
+		}
+	},
+	{
+		"id": 25,
+		"companyDetails": {
+			"name": "Brașov Fitness",
+			"description": "Centru de fitness modern cu echipamente de ultimă generație, clase de grup și antrenori personali certificați.",
+			"website": "https://website-business.ro",
+			"businessType": "servicii"
+		},
+		"location": {
+			"address": "Strada Exemplu, Nr. 1",
+			"city": "Brașov",
+			"citySlug": "brasov",
+			"coordinates": {
+				"lat": 47.151491,
+				"lng": 27.595543
+			}
+		},
+
+		"branding": {
+			"logo": "https://marketplace.canva.com/EAGOVOZ3zeY/1/0/1600w/canva-retro-dazle-night-club-logo-c36gMC1IF1c.jpg",
+			"featuredImage": "https://cdn.vox-cdn.com/thumbor/qb6scDiFH4wTKcbVehj1f1e-X7E=/0x0:1731x1155/1200x900/filters:focal(933x452:1209x728)/cdn.vox-cdn.com/uploads/chorus_image/image/64999899/Eater__Tapisserie_09024.14.jpg"
+		},
+		"operatingHours": {
+			"days": "Luni-Vineri",
+			"hours": "09:00 - 18:00"
+		},
+		"socialProof": {
+			"followersCount": 245,
+			"socialMedia": {
+				"facebook": "https://facebook.com/business",
+				"instagram": "https://instagram.com/business"
+			}
+		},
+		"mediaGallery": {
+			"photos": ["url_photo1.jpg", "url_photo2.jpg"],
+			"video": "url_video.mp4"
+		},
+		"products": [
+			{
+				"title": "Produs Exemplu",
+				"description": "Descriere produs...",
+				"price": 49.99,
+				"image": "https://media.cnn.com/api/v1/images/stellar/prod/150929101049-black-coffee-stock.jpg"
+			}
+		],
+		"vouchers": {
+			"active": [
+				{
+					"title": "Reducere 20%",
+					"code": "MID20",
+					"discount": 20,
+					"validFrom": "2025-02-10",
+					"validTo": "2025-03-10",
+					"terms": "Valabil pentru comenzi peste 100 RON"
+				}
+			],
+			"voucherHistory": [
+				{
+					"title": "Reducere 15%",
+					"code": "MID15",
+					"status": "expirat",
+					"usedDate": "2025-01-15"
+				}
+			]
+		},
+		"contact": {
+			"phone": "+40712345678",
+			"email": "contact@business.ro"
+		},
+		"settings": {
+			"autoFeaturedImage": true,
+			"lastUpdated": "2025-02-09T00:00:00Z"
+		}
+	},
+	{
+		"id": 26,
+		"companyDetails": {
+			"name": "Urban Hub București",
+			"description": "Spațiu de coworking modern în inima capitalei, oferind birouri flexibile și săli de conferințe pentru profesioniști și antreprenori.",
+			"website": "https://website-business.ro",
+			"businessType": "servicii"
+		},
+		"location": {
+			"address": "Strada Exemplu, Nr. 1",
+			"city": "București",
+			"citySlug": "bucuresti",
+			"coordinates": {
+				"lat": 47.151491,
+				"lng": 27.595543
+			}
+		},
+
+		"branding": {
+			"logo": "https://thumbs.dreamstime.com/b/bakery-bakeshop-logo-label-home-baking-bread-concept-cartoon-vector-illustration-bakery-bakeshop-logo-label-home-baking-120071941.jpg",
+			"featuredImage": "https://cdn.vox-cdn.com/thumbor/qb6scDiFH4wTKcbVehj1f1e-X7E=/0x0:1731x1155/1200x900/filters:focal(933x452:1209x728)/cdn.vox-cdn.com/uploads/chorus_image/image/64999899/Eater__Tapisserie_09024.14.jpg"
+		},
+		"operatingHours": {
+			"days": "Luni-Vineri",
+			"hours": "09:00 - 18:00"
+		},
+		"socialProof": {
+			"followersCount": 245,
+			"socialMedia": {
+				"facebook": "https://facebook.com/business",
+				"instagram": "https://instagram.com/business"
+			}
+		},
+		"mediaGallery": {
+			"photos": ["url_photo1.jpg", "url_photo2.jpg"],
+			"video": "url_video.mp4"
+		},
+		"products": [
+			{
+				"title": "Produs Exemplu",
+				"description": "Descriere produs...",
+				"price": 49.99,
+				"image": "https://media.cnn.com/api/v1/images/stellar/prod/150929101049-black-coffee-stock.jpg"
+			}
+		],
+		"vouchers": {
+			"active": [
+				{
+					"title": "Reducere 20%",
+					"code": "MID20",
+					"discount": 20,
+					"validFrom": "2025-02-10",
+					"validTo": "2025-03-10",
+					"terms": "Valabil pentru comenzi peste 100 RON"
+				}
+			],
+			"voucherHistory": [
+				{
+					"title": "Reducere 15%",
+					"code": "MID15",
+					"status": "expirat",
+					"usedDate": "2025-01-15"
+				}
+			]
+		},
+		"contact": {
+			"phone": "+40712345678",
+			"email": "contact@business.ro"
+		},
+		"settings": {
+			"autoFeaturedImage": true,
+			"lastUpdated": "2025-02-09T00:00:00Z"
+		}
+	},
+	{
+		"id": 27,
+		"companyDetails": {
+			"name": "Studio 54",
+			"description": "Studio de producție multimedia și post-producție, oferind servicii complete pentru industria de advertising și film.",
+			"website": "https://website-business.ro",
+			"businessType": "servicii"
+		},
+		"location": {
+			"address": "Strada Exemplu, Nr. 1",
+			"city": "București",
+			"citySlug": "bucuresti",
+			"coordinates": {
+				"lat": 47.151491,
+				"lng": 27.595543
+			}
+		},
+
+		"branding": {
+			"logo": "https://t4.ftcdn.net/jpg/03/23/91/57/360_F_323915727_pGJQjKMNqpvpOMVqZ5Z2iCDGEVSd5Upk.jpg",
+			"featuredImage": "https://d2w1ef2ao9g8r9.cloudfront.net/otl-images/_1600x1066_crop_center-center_82_line/how-to-open-coffee-shop.jpg"
+		},
+		"operatingHours": {
+			"days": "Luni-Vineri",
+			"hours": "09:00 - 18:00"
+		},
+		"socialProof": {
+			"followersCount": 245,
+			"socialMedia": {
+				"facebook": "https://facebook.com/business",
+				"instagram": "https://instagram.com/business"
+			}
+		},
+		"mediaGallery": {
+			"photos": ["url_photo1.jpg", "url_photo2.jpg"],
+			"video": "url_video.mp4"
+		},
+		"products": [
+			{
+				"title": "Produs Exemplu",
+				"description": "Descriere produs...",
+				"price": 49.99,
+				"image": "https://media.cnn.com/api/v1/images/stellar/prod/150929101049-black-coffee-stock.jpg"
+			}
+		],
+		"vouchers": {
+			"active": [
+				{
+					"title": "Reducere 20%",
+					"code": "MID20",
+					"discount": 20,
+					"validFrom": "2025-02-10",
+					"validTo": "2025-03-10",
+					"terms": "Valabil pentru comenzi peste 100 RON"
+				}
+			],
+			"voucherHistory": [
+				{
+					"title": "Reducere 15%",
+					"code": "MID15",
+					"status": "expirat",
+					"usedDate": "2025-01-15"
+				}
+			]
+		},
+		"contact": {
+			"phone": "+40712345678",
+			"email": "contact@business.ro"
+		},
+		"settings": {
+			"autoFeaturedImage": true,
+			"lastUpdated": "2025-02-09T00:00:00Z"
+		}
+	},
+	{
+		"id": 28,
+		"companyDetails": {
+			"name": "Clinica Estetică",
+			"description": "Clinică de medicină estetică și dermatologie cu echipamente de ultimă generație și medici specialiști cu reputație internațională.",
+			"website": "https://website-business.ro",
+			"businessType": "servicii"
+		},
+		"location": {
+			"address": "Strada Exemplu, Nr. 1",
+			"city": "București",
+			"citySlug": "bucuresti",
+			"coordinates": {
+				"lat": 47.151491,
+				"lng": 27.595543
+			}
+		},
+
+		"branding": {
+			"logo": "https://3brothersbakery.com/wp-content/uploads/2019/02/Houston%E2%80%99s-Specialty-Bakery.png",
+			"featuredImage": "https://texascoffeeschool.com/wp-content/uploads/2021/10/DSC_0052-scaled.jpg"
+		},
+		"operatingHours": {
+			"days": "Luni-Vineri",
+			"hours": "09:00 - 18:00"
+		},
+		"socialProof": {
+			"followersCount": 245,
+			"socialMedia": {
+				"facebook": "https://facebook.com/business",
+				"instagram": "https://instagram.com/business"
+			}
+		},
+		"mediaGallery": {
+			"photos": ["url_photo1.jpg", "url_photo2.jpg"],
+			"video": "url_video.mp4"
+		},
+		"products": [
+			{
+				"title": "Produs Exemplu",
+				"description": "Descriere produs...",
+				"price": 49.99,
+				"image": "https://media.cnn.com/api/v1/images/stellar/prod/150929101049-black-coffee-stock.jpg"
+			}
+		],
+		"vouchers": {
+			"active": [
+				{
+					"title": "Reducere 20%",
+					"code": "MID20",
+					"discount": 20,
+					"validFrom": "2025-02-10",
+					"validTo": "2025-03-10",
+					"terms": "Valabil pentru comenzi peste 100 RON"
+				}
+			],
+			"voucherHistory": [
+				{
+					"title": "Reducere 15%",
+					"code": "MID15",
+					"status": "expirat",
+					"usedDate": "2025-01-15"
+				}
+			]
+		},
+		"contact": {
+			"phone": "+40712345678",
+			"email": "contact@business.ro"
+		},
+		"settings": {
+			"autoFeaturedImage": true,
+			"lastUpdated": "2025-02-09T00:00:00Z"
+		}
+	},
+	{
+		"id": 29,
+		"companyDetails": {
+			"name": "Business Academy",
+			"description": "Centru de training și dezvoltare profesională, oferind cursuri și workshop-uri pentru antreprenori și manageri.",
+			"website": "https://website-business.ro",
+			"businessType": "servicii"
+		},
+		"location": {
+			"address": "Strada Exemplu, Nr. 1",
+			"city": "București",
+			"citySlug": "bucuresti",
+			"coordinates": {
+				"lat": 47.151491,
+				"lng": 27.595543
+			}
+		},
+
+		"branding": {
+			"logo": "https://media.istockphoto.com/id/1262771454/vector/coffee-shop-emblem-template.jpg?s=612x612&w=0&k=20&c=y1EyHCxENVCPCgblJ00BEdjiUjwMnYk4QgZSKRCegxY=",
+			"featuredImage": "https://www.barniescoffee.com/cdn/shop/articles/bar-1869656_1920.jpg?v=1660683986"
+		},
+		"operatingHours": {
+			"days": "Luni-Vineri",
+			"hours": "09:00 - 18:00"
+		},
+		"socialProof": {
+			"followersCount": 245,
+			"socialMedia": {
+				"facebook": "https://facebook.com/business",
+				"instagram": "https://instagram.com/business"
+			}
+		},
+		"mediaGallery": {
+			"photos": ["url_photo1.jpg", "url_photo2.jpg"],
+			"video": "url_video.mp4"
+		},
+		"products": [
+			{
+				"title": "Produs Exemplu",
+				"description": "Descriere produs...",
+				"price": 49.99,
+				"image": "https://media.cnn.com/api/v1/images/stellar/prod/150929101049-black-coffee-stock.jpg"
+			}
+		],
+		"vouchers": {
+			"active": [
+				{
+					"title": "Reducere 20%",
+					"code": "MID20",
+					"discount": 20,
+					"validFrom": "2025-02-10",
+					"validTo": "2025-03-10",
+					"terms": "Valabil pentru comenzi peste 100 RON"
+				}
+			],
+			"voucherHistory": [
+				{
+					"title": "Reducere 15%",
+					"code": "MID15",
+					"status": "expirat",
+					"usedDate": "2025-01-15"
+				}
+			]
+		},
+		"contact": {
+			"phone": "+40712345678",
+			"email": "contact@business.ro"
+		},
+		"settings": {
+			"autoFeaturedImage": true,
+			"lastUpdated": "2025-02-09T00:00:00Z"
+		}
+	},
+	{
+		"id": 30,
+		"companyDetails": {
+			"name": "Galeria de Artă Modernă",
+			"description": "Spațiu expozițional dedicat artei contemporane, reprezentând artiști români și internaționali. Organizăm vernisaje și evenimente culturale.",
+			"website": "https://website-business.ro",
+			"businessType": "servicii"
+		},
+		"location": {
+			"address": "Strada Exemplu, Nr. 1",
+			"city": "București",
+			"citySlug": "bucuresti",
+			"coordinates": {
+				"lat": 47.151491,
+				"lng": 27.595543
+			}
+		},
+		"branding": {
+			"logo": "https://media.istockphoto.com/id/1291582566/vector/bakery-bread-and-cakes-vector-design-logo.jpg?s=612x612&w=0&k=20&c=PVgG3CEiWlo_YdjX24CEJhDdxNBACHdt4Z-nLe-jjX8=",
+			"featuredImage": "https://3brothersbakery.com/wp-content/uploads/2019/02/Houston%E2%80%99s-Specialty-Bakery.png"
+		},
+		"operatingHours": {
+			"days": "Luni-Vineri",
+			"hours": "09:00 - 18:00"
+		},
+		"socialProof": {
+			"followersCount": 245,
+			"socialMedia": {
+				"facebook": "https://facebook.com/business",
+				"instagram": "https://instagram.com/business"
+			}
+		},
+		"mediaGallery": {
+			"photos": ["url_photo1.jpg", "url_photo2.jpg"],
+			"video": "url_video.mp4"
+		},
+		"products": [
+			{
+				"title": "Produs Exemplu",
+				"description": "Descriere produs...",
+				"price": 49.99,
+				"image": "https://media.cnn.com/api/v1/images/stellar/prod/150929101049-black-coffee-stock.jpg"
+			}
+		],
+		"vouchers": {
+			"active": [
+				{
+					"title": "Reducere 20%",
+					"code": "MID20",
+					"discount": 20,
+					"validFrom": "2025-02-10",
+					"validTo": "2025-03-10",
+					"terms": "Valabil pentru comenzi peste 100 RON"
+				}
+			],
+			"voucherHistory": [
+				{
+					"title": "Reducere 15%",
+					"code": "MID15",
+					"status": "expirat",
+					"usedDate": "2025-01-15"
+				}
+			]
+		},
+		"contact": {
+			"phone": "+40712345678",
+			"email": "contact@business.ro"
+		},
+		"settings": {
+			"autoFeaturedImage": true,
+			"lastUpdated": "2025-02-09T00:00:00Z"
+		}
+	}
+]

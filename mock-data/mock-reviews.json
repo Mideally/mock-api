@@ -1,0 +1,68 @@
+{
+	"reviews": [
+		{
+			"rating": 4.5,
+			"comment": "Foarte bună cafenea, cu un personal foarte amabil și atențios."
+		},
+		{
+			"rating": 5,
+			"comment": "Servicii excelente! Personalul este foarte amabil și profesionist. Recomand cu încredere!"
+		},
+		{
+			"rating": 4.5,
+			"comment": "O experiență minunată, atmosferă plăcută și produse de calitate. Voi reveni cu siguranță."
+		},
+		{
+			"rating": 3.5,
+			"comment": "În general bine, dar mai este loc de îmbunătățire la timpul de așteptare."
+		},
+		{
+			"rating": 5,
+			"comment": "Cea mai bună alegere din oraș! Calitate premium și servicii impecabile."
+		},
+		{
+			"rating": 4,
+			"comment": "Foarte mulțumit de serviciile oferite. Personalul este bine pregătit și prietenos."
+		},
+		{
+			"rating": 5,
+			"comment": "Locație superbă, servicii de top și prețuri corecte. Merită vizitat!"
+		},
+		{
+			"rating": 4.5,
+			"comment": "Am rămas plăcut impresionat de profesionalismul echipei. Recomand cu căldură!"
+		},
+		{
+			"rating": 3,
+			"comment": "Servicii decent, dar prețurile sunt cam mari pentru ce oferă."
+		},
+		{
+			"rating": 5,
+			"comment": "O experiență extraordinară! Totul a fost perfect, de la început până la sfârșit."
+		},
+		{
+			"rating": 4.5,
+			"comment": "Personalul foarte amabil și atent la detalii. Servicii de calitate!"
+		},
+		{
+			"rating": 5,
+			"comment": "Unul dintre cele mai bune locuri din oraș. Mereu plec mulțumit de aici."
+		},
+		{
+			"rating": 4,
+			"comment": "Servicii bune, personal prietenos. Recomand pentru calitatea oferită."
+		},
+		{
+			"rating": 4.5,
+			"comment": "Experiență foarte plăcută! Voi reveni cu siguranță și data viitoare."
+		},
+		{
+			"rating": 5,
+			"comment": "Absolut fantastic! Depășește toate așteptările. Merit� vizitat!"
+		},
+		{
+			"rating": 4,
+			"comment": "O alegere excelentă! Raport calitate-preț foarte bun."
+		}
+	]
+}

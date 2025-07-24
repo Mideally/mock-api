@@ -1,0 +1,139 @@
+{
+	"id": "1",
+	"active": true,
+	"slug": "cafeneaua-urbana",
+	"companyDetails": {
+		"name": "Cafeneaua Urbană",
+		"description": "Spațiu expozițional dedicat artei contemporane, reprezentând artiști români și internaționali. Organizăm vernisaje și evenimente culturale.",
+		"website": "https://mideally.com",
+		"businessType": "servicii"
+	},
+	"locations": [
+		{
+			"id": "9187134",
+			"name": "Iași - Piața Alexandru",
+			"shortName": "PA1",
+			"address": {
+				"zip": "730000",
+				"city": "Iași",
+				"state": null,
+				"county": "Iași",
+				"street": "Piața Alexandru nr. 1",
+				"fullAddress": "Piața Alexandru nr. 1, Iași",
+				"country": "Romania"
+			},
+			"featuredImage": "https://www.iointeriors.in/assets/img/top-5-creative-ideas-for-small-coffee-shop-interior-design.webp",
+			"contact": null,
+			"schedule": [
+				{
+					"day": "Luni",
+					"open": "08:00",
+					"close": "17:00"
+				},
+				{
+					"day": "Marti",
+					"open": "08:00",
+					"close": "17:00"
+				},
+				{
+					"day": "Miercuri",
+					"open": "08:00",
+					"close": "17:00"
+				},
+				{
+					"day": "Joi",
+					"open": "08:00",
+					"close": "17:00"
+				},
+				{
+					"day": "Vineri",
+					"open": "08:00",
+					"close": "17:00"
+				},
+				{
+					"day": "Sambata",
+					"open": "08:00",
+					"close": "17:00"
+				},
+				{
+					"day": "Duminica",
+					"open": "08:00",
+					"close": "17:00"
+				}
+			],
+			"gallery": [
+				"https://www.iointeriors.in/assets/img/top-5-creative-ideas-for-small-coffee-shop-interior-design.webp"
+			],
+			"coordinates": {
+				"latitude": 47.158473,
+				"longitude": 27.595912
+			},
+			"tags": ["cafenea", "cafenea urbana", "cafenea urbana iași"],
+			"reviews": [
+				{
+					"name": "Andrei Popescu",
+					"rating": 4,
+					"comment": "Servicii bune, personal prietenos. Recomand pentru calitatea oferită."
+				}
+			],
+			"products": [
+				{
+					"id": "9187132",
+					"title": "Cappuccino",
+					"description": "Cafea italiana cu lapte",
+					"price": 12,
+					"image": "https://lorcoffee.com/cdn/shop/articles/Cappuccino-exc.jpg?v=1684870907"
+				}
+			]
+		}
+	],
+	"followers": 245,
+	"socialMedia": {
+		"facebook": "https://www.facebook.com/business",
+		"instagram": "https://www.instagram.com/business"
+	},
+	"gallery": [
+		"https://sharpsheets.io/wp-content/uploads/2022/11/bakery-solutions03.jpeg.webp",
+		"https://cdn.vox-cdn.com/thumbor/qb6scDiFH4wTKcbVehj1f1e-X7E=/0x0:1731x1155/1200x900/filters:focal(933x452:1209x728)/cdn.vox-cdn.com/uploads/chorus_image/image/64999899/Eater__Tapisserie_09024.14.jpg",
+		"https://sumatocoffee.com/cdn/shop/articles/the-importance-of-coffee-shops-in-communities-782577.jpg?v=1713277728&width=1600",
+		"https://www.barniescoffee.com/cdn/shop/articles/bar-1869656_1920.jpg?v=1660683986"
+	],
+	"logo": "https://t4.ftcdn.net/jpg/03/23/91/57/360_F_323915727_pGJQjKMNqpvpOMVqZ5Z2iCDGEVSd5Upk.jpg",
+	"featuredImage": "https://texascoffeeschool.com/wp-content/uploads/2022/03/JAN00491-scaled.jpg",
+	"address": {
+		"zip": "730000",
+		"city": "Iași",
+		"state": null,
+		"county": "Iași",
+		"street": "Str. Ștefan cel Mare, nr. 1",
+		"fullAddress": "Str. Ștefan cel Mare, nr. 1, Iași",
+		"country": "Romania"
+	},
+	"contact": {
+		"name": "Aidan Eichmann",
+		"email": "wkoch@example.org",
+		"phone": "(820) 775-6657"
+	},
+	"deals": {
+		"moments": [
+			{
+				"id": "9187132",
+				"title": "Happy Hour Espresso",
+				"description": "Espresso la jumătate de preț între 11:45-12:45.",
+				"startTime": "2025-05-02T11:45:00",
+				"endTime": "2025-07-12T12:45:00",
+				"availableLocations": ["9187133", "9187134"]
+			}
+		],
+		"drops": [
+			{
+				"id": "9187152",
+				"title": "Drop de cafea",
+				"description": "Primele 30 de cafele la 5 RON azi!",
+				"available": 30,
+				"claimed": 10,
+				"availableLocations": ["9187132", "9187133", "9187134"]
+			}
+		]
+	}
+}

@@ -1,0 +1,168 @@
+{
+	"deals": {
+		"moments": [
+			{
+				"id": "9187132",
+				"title": "Happy Hour Espresso",
+				"description": "Espresso la jumătate de preț între 11:45-12:45.",
+				"startTime": "2025-05-02T11:45:00",
+				"endTime": "2025-07-12T12:45:00",
+				"availableLocations": ["9187133", "9187134"]
+			},
+			{
+				"id": "9187133",
+				"title": "Croissant de dimineață",
+				"description": "Croissant + cafea la 12 RON până la ora 11:30.",
+				"startTime": "2025-05-02T09:00:00",
+				"endTime": "2025-06-12T11:30:00",
+				"availableLocations": ["9187133", "9187134"]
+			},
+			{
+				"id": "9187134",
+				"title": "Lunch Moment",
+				"description": "Burger + băutură la 20% reducere între 13:00-14:00.",
+				"startTime": "2025-05-02T13:00:00",
+				"endTime": "2025-06-02T18:00:00",
+				"availableLocations": ["9187133", "9187134"]
+			},
+			{
+				"id": "9187135",
+				"title": "Moment de relaxare",
+				"description": "Masaj express la 30 RON între 16:00-17:00.",
+				"startTime": "2025-05-02T16:00:00",
+				"endTime": "2025-05-02T17:00:00",
+				"availableLocations": ["9187133", "9187134"]
+			},
+			{
+				"id": "9187136",
+				"title": "Buchetul zilei",
+				"description": "10% reducere la buchetul zilei până la ora 12:00.",
+				"startTime": "2025-05-02T10:00:00",
+				"endTime": "2025-05-02T12:00:00",
+				"availableLocations": ["9187133", "9187134"]
+			},
+			{
+				"id": "9187137",
+				"title": "Acces dimineața",
+				"description": "Acces la sală cu 50% reducere între 11:00-12:00.",
+				"startTime": "2025-05-02T11:00:00",
+				"endTime": "2025-05-02T12:00:00",
+				"availableLocations": ["9187133", "9187134"]
+			},
+			{
+				"id": "9187138",
+				"title": "Pizza la prânz",
+				"description": "Orice pizza la 25 RON între 12:30-13:30.",
+				"startTime": "2025-05-02T12:30:00",
+				"endTime": "2025-05-02T13:30:00",
+				"availableLocations": ["9187133", "9187134"]
+			},
+			{
+				"id": "9187139",
+				"title": "Moment de lectură",
+				"description": "Reducere 15% la orice carte între 14:00-15:00.",
+				"startTime": "2025-05-02T14:00:00",
+				"endTime": "2025-05-02T15:00:00",
+				"availableLocations": ["9187133", "9187134"]
+			},
+			{
+				"id": "9187140",
+				"title": "Pâine caldă",
+				"description": "Pâine artizanală la 8 RON până la ora 12:00.",
+				"startTime": "2025-05-02T10:30:00",
+				"endTime": "2025-05-02T12:00:00",
+				"availableLocations": ["9187133", "9187134"]
+			},
+			{
+				"id": "9187141",
+				"title": "Momentul bărbierului",
+				"description": "Tuns + bărbierit la 30 RON între 15:00-16:00.",
+				"startTime": "2025-05-02T15:00:00",
+				"endTime": "2025-05-02T16:00:00",
+				"availableLocations": ["9187133", "9187134"]
+			}
+		],
+		"drops": [
+			{
+				"id": "9187152",
+				"title": "Drop de cafea",
+				"description": "Primele 30 de cafele la 5 RON azi!",
+				"available": 30,
+				"claimed": 10,
+				"availableLocations": ["9187132", "9187133", "9187134"]
+			},
+			{
+				"id": "9187153",
+				"title": "Drop croissant",
+				"description": "Doar 20 de croissante la preț special de 4 RON.",
+				"available": 20,
+				"claimed": 10,
+				"availableLocations": ["9187132", "9187133", "9187134"]
+			},
+			{
+				"id": "9187154",
+				"title": "Drop burger",
+				"description": "15 meniuri burger la 50% reducere pentru primii clienți.",
+				"available": 15,
+				"claimed": 10,
+				"availableLocations": ["9187132", "9187133", "9187134"]
+			},
+			{
+				"id": "9187155",
+				"title": "Drop relaxare",
+				"description": "10 masaje gratuite pentru primii 10 clienți.",
+				"available": 10,
+				"claimed": 10,
+				"availableLocations": ["9187132", "9187133", "9187134"]
+			},
+			{
+				"id": "9187156",
+				"title": "Drop floral",
+				"description": "25 buchete la jumătate de preț azi.",
+				"available": 25,
+				"claimed": 10,
+				"availableLocations": ["9187132", "9187133", "9187134"]
+			},
+			{
+				"id": "9187157",
+				"title": "Drop fitness",
+				"description": "5 abonamente lunare la preț redus pentru primii înscriși.",
+				"available": 5,
+				"claimed": 1,
+				"availableLocations": ["9187132", "9187133", "9187134"]
+			},
+			{
+				"id": "9187158",
+				"title": "Drop pizza",
+				"description": "Primele 40 de pizza la 15 RON fiecare.",
+				"available": 40,
+				"claimed": 12,
+				"availableLocations": ["9187134"]
+			},
+			{
+				"id": "9187159",
+				"title": "Drop de carte",
+				"description": "Primele 10 romane la 50% reducere.",
+				"available": 10,
+				"claimed": 9,
+				"availableLocations": ["9187134"]
+			},
+			{
+				"id": "9187160",
+				"title": "Drop artizanal",
+				"description": "15 pachete de degustare la 10 RON fiecare.",
+				"available": 15,
+				"claimed": 10,
+				"availableLocations": ["9187134"]
+			},
+			{
+				"id": "9187161",
+				"title": "Drop grooming",
+				"description": "Primele 12 tunsori la 20 RON.",
+				"available": 12,
+				"claimed": 0,
+				"availableLocations": ["9187132", "9187134"]
+			}
+		]
+	}
+}

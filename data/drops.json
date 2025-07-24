@@ -1,0 +1,810 @@
+[
+	{
+		"id": "95457",
+		"title": "Bilet Duo",
+		"description": "Workshop gratuit de pictură, 18 locuri disponibile.",
+		"available": 18,
+		"claimed": 2,
+		"business": {
+			"id": "1",
+			"name": "Cafeneaua Urbană",
+			"availableLocations": [
+				{
+					"id": "9187134",
+					"name": "Iași - Piața Alexandru",
+					"featuredImage": "https://www.iointeriors.in/assets/img/top-5-creative-ideas-for-small-coffee-shop-interior-design.webp"
+				},
+				{
+					"id": "9187132",
+					"name": "Iași - Piața Unirii",
+					"featuredImage": "https://texascoffeeschool.com/wp-content/uploads/2024/08/1418-e1723733846245.jpg"
+				},
+				{
+					"id": "9187133",
+					"name": "Iași - Miroslava",
+					"featuredImage": "https://esquirescoffee.co.uk/wp-content/uploads/2021/11/kaylah-matthews-6e5hgWV2DAo-unsplash-e1684321509250.jpg"
+				}
+			]
+		}
+	},
+	{
+		"id": "72459",
+		"title": "Pass Cultura",
+		"description": "Tur ghidat de 30 min la 5 RON, maxim 14 persoane.",
+		"available": 14,
+		"claimed": 7,
+		"business": {
+			"id": "1",
+			"name": "Cafeneaua Urbană",
+			"availableLocations": [
+				{
+					"id": "9187132",
+					"name": "Iași - Piața Unirii",
+					"featuredImage": "https://texascoffeeschool.com/wp-content/uploads/2024/08/1418-e1723733846245.jpg"
+				},
+				{
+					"id": "9187133",
+					"name": "Iași - Miroslava",
+					"featuredImage": "https://esquirescoffee.co.uk/wp-content/uploads/2021/11/kaylah-matthews-6e5hgWV2DAo-unsplash-e1684321509250.jpg"
+				},
+				{
+					"id": "9187134",
+					"name": "Iași - Piața Alexandru",
+					"featuredImage": "https://www.iointeriors.in/assets/img/top-5-creative-ideas-for-small-coffee-shop-interior-design.webp"
+				}
+			]
+		}
+	},
+	{
+		"id": "21049",
+		"title": "Happy Hour Espresso",
+		"description": "Cafeaua zilei la jumătate de preț – exclusiv până la ora 18:00, 6 disponibile.",
+		"available": 6,
+		"claimed": 3,
+		"business": {
+			"id": "2",
+			"name": "Cafeneaua Noastră",
+			"availableLocations": [
+				{
+					"id": "9187132",
+					"name": "Iași - Piața Unirii",
+					"featuredImage": "https://sharpsheets.io/wp-content/uploads/2022/11/bakery-solutions03.jpeg.webp"
+				}
+			]
+		}
+	},
+	{
+		"id": "64270",
+		"title": "Happy Hour Espresso",
+		"description": "Happy Hour: orice Latte la 8 RON. Doar 11 porții disponibile!",
+		"available": 11,
+		"claimed": 4,
+		"business": {
+			"id": "2",
+			"name": "Cafeneaua Noastră",
+			"availableLocations": [
+				{
+					"id": "9187132",
+					"name": "Iași - Piața Unirii",
+					"featuredImage": "https://sharpsheets.io/wp-content/uploads/2022/11/bakery-solutions03.jpeg.webp"
+				}
+			]
+		}
+	},
+	{
+		"id": "52694",
+		"title": "Latte Lovers",
+		"description": "Obține un Cappuccino și un croissant la doar 7 RON – valabil până la 10:00.",
+		"available": 10,
+		"claimed": 7,
+		"business": {
+			"id": "3",
+			"name": "Cafeneaua Aurora",
+			"availableLocations": [
+				{
+					"id": "9187135",
+					"name": "București - Centrul Vechi",
+					"featuredImage": "https://texascoffeeschool.com/wp-content/uploads/2024/08/1418-e1723733846245.jpg"
+				}
+			]
+		}
+	},
+	{
+		"id": "60813",
+		"title": "Dimineață Energică",
+		"description": "Primele 16 cafele Espresso la 6 RON până la ora 12:00.",
+		"available": 16,
+		"claimed": 13,
+		"business": {
+			"id": "3",
+			"name": "Cafeneaua Aurora",
+			"availableLocations": [
+				{
+					"id": "9187135",
+					"name": "București - Centrul Vechi",
+					"featuredImage": "https://texascoffeeschool.com/wp-content/uploads/2024/08/1418-e1723733846245.jpg"
+				}
+			]
+		}
+	},
+	{
+		"id": "41363",
+		"title": "Happy Hour Espresso",
+		"description": "Cafeaua zilei la jumătate de preț – exclusiv până la ora 11:00, 6 disponibile.",
+		"available": 6,
+		"claimed": 0,
+		"business": {
+			"id": "3",
+			"name": "Cafeneaua Aurora",
+			"availableLocations": [
+				{
+					"id": "9187135",
+					"name": "București - Centrul Vechi",
+					"featuredImage": "https://texascoffeeschool.com/wp-content/uploads/2024/08/1418-e1723733846245.jpg"
+				}
+			]
+		}
+	},
+	{
+		"id": "20562",
+		"title": "Bagel Bonanza",
+		"description": "Brioșe la jumătate de preț pentru primii 9 clienți.",
+		"available": 9,
+		"claimed": 8,
+		"business": {
+			"id": "4",
+			"name": "Brutăria Tradițională",
+			"availableLocations": [
+				{
+					"id": "9187137",
+					"name": "Cluj-Napoca - Mănăștur",
+					"featuredImage": "https://sharpsheets.io/wp-content/uploads/2022/11/bakery-solutions03.jpeg.webp"
+				},
+				{
+					"id": "9187136",
+					"name": "Cluj-Napoca - Centru",
+					"featuredImage": "https://cdn.vox-cdn.com/thumbor/qb6scDiFH4wTKcbVehj1f1e-X7E=/0x0:1731x1155/1200x900/filters:focal(933x452:1209x728)/cdn.vox-cdn.com/uploads/chorus_image/image/64999899/Eater__Tapisserie_09024.14.jpg"
+				}
+			]
+		}
+	},
+	{
+		"id": "74168",
+		"title": "Happy Hour Mojito",
+		"description": "Cumperi 2 shoturi, primești 1 gratuit – doar 10 seturi!",
+		"available": 10,
+		"claimed": 3,
+		"business": {
+			"id": "5",
+			"name": "Barul Nocturn",
+			"availableLocations": [
+				{
+					"id": "9187138",
+					"name": "Timișoara - Centru",
+					"featuredImage": "https://www.barniescoffee.com/cdn/shop/articles/bar-1869656_1920.jpg?v=1660683986"
+				}
+			]
+		}
+	},
+	{
+		"id": "54790",
+		"title": "Dimineață Energică",
+		"description": "Obține un Cappuccino și un croissant la doar 7 RON – valabil până la 19:30.",
+		"available": 6,
+		"claimed": 3,
+		"business": {
+			"id": "6",
+			"name": "Cafeneaua Verde",
+			"availableLocations": [
+				{
+					"id": "9187139",
+					"name": "Brașov - Centru Istoric",
+					"featuredImage": "https://esquirescoffee.co.uk/wp-content/uploads/2021/11/kaylah-matthews-6e5hgWV2DAo-unsplash-e1684321509250.jpg"
+				},
+				{
+					"id": "9187140",
+					"name": "Brașov - Poiana Brașov",
+					"featuredImage": "https://www.iointeriors.in/assets/img/top-5-creative-ideas-for-small-coffee-shop-interior-design.webp"
+				}
+			]
+		}
+	},
+	{
+		"id": "81739",
+		"title": "Shot de Energie",
+		"description": "Primele 6 cafele Espresso la 10 RON până la ora 19:00.",
+		"available": 6,
+		"claimed": 0,
+		"business": {
+			"id": "6",
+			"name": "Cafeneaua Verde",
+			"availableLocations": [
+				{
+					"id": "9187139",
+					"name": "Brașov - Centru Istoric",
+					"featuredImage": "https://esquirescoffee.co.uk/wp-content/uploads/2021/11/kaylah-matthews-6e5hgWV2DAo-unsplash-e1684321509250.jpg"
+				},
+				{
+					"id": "9187140",
+					"name": "Brașov - Poiana Brașov",
+					"featuredImage": "https://www.iointeriors.in/assets/img/top-5-creative-ideas-for-small-coffee-shop-interior-design.webp"
+				}
+			]
+		}
+	},
+	{
+		"id": "99343",
+		"title": "Săptămâna Chiflelor",
+		"description": "Croissant cu unt la 12 RON, doar azi, 8 disponibile.",
+		"available": 8,
+		"claimed": 6,
+		"business": {
+			"id": "7",
+			"name": "Brutăria Artizanală",
+			"availableLocations": [
+				{
+					"id": "9187141",
+					"name": "Sibiu - Centru",
+					"featuredImage": "https://3brothersbakery.com/wp-content/uploads/2019/02/Houston%E2%80%99s-Specialty-Bakery.png"
+				}
+			]
+		}
+	},
+	{
+		"id": "99536",
+		"title": "Promo Cappuccino",
+		"description": "Obține un Cappuccino și un croissant la doar 9 RON – valabil până la 12:45.",
+		"available": 5,
+		"claimed": 0,
+		"business": {
+			"id": "8",
+			"name": "Cafeneaua Aurora",
+			"availableLocations": [
+				{
+					"id": "9187142",
+					"name": "Constanța - Centru",
+					"featuredImage": "https://texascoffeeschool.com/wp-content/uploads/2024/08/1418-e1723733846245.jpg"
+				},
+				{
+					"id": "9187143",
+					"name": "Constanța - Mamaia",
+					"featuredImage": "https://esquirescoffee.co.uk/wp-content/uploads/2021/11/kaylah-matthews-6e5hgWV2DAo-unsplash-e1684321509250.jpg"
+				},
+				{
+					"id": "9187144",
+					"name": "Constanța - Eforie",
+					"featuredImage": "https://www.iointeriors.in/assets/img/top-5-creative-ideas-for-small-coffee-shop-interior-design.webp"
+				}
+			]
+		}
+	},
+	{
+		"id": "84203",
+		"title": "Shot de Energie",
+		"description": "Primele 11 cafele Espresso la 7 RON până la ora 20:00.",
+		"available": 11,
+		"claimed": 7,
+		"business": {
+			"id": "8",
+			"name": "Cafeneaua Aurora",
+			"availableLocations": [
+				{
+					"id": "9187142",
+					"name": "Constanța - Centru",
+					"featuredImage": "https://texascoffeeschool.com/wp-content/uploads/2024/08/1418-e1723733846245.jpg"
+				},
+				{
+					"id": "9187144",
+					"name": "Constanța - Eforie",
+					"featuredImage": "https://www.iointeriors.in/assets/img/top-5-creative-ideas-for-small-coffee-shop-interior-design.webp"
+				}
+			]
+		}
+	},
+	{
+		"id": "62156",
+		"title": "Dimineață Energică",
+		"description": "Happy Hour: orice Latte la 9 RON. Doar 7 porții disponibile!",
+		"available": 7,
+		"claimed": 1,
+		"business": {
+			"id": "8",
+			"name": "Cafeneaua Aurora",
+			"availableLocations": [
+				{
+					"id": "9187142",
+					"name": "Constanța - Centru",
+					"featuredImage": "https://texascoffeeschool.com/wp-content/uploads/2024/08/1418-e1723733846245.jpg"
+				},
+				{
+					"id": "9187144",
+					"name": "Constanța - Eforie",
+					"featuredImage": "https://www.iointeriors.in/assets/img/top-5-creative-ideas-for-small-coffee-shop-interior-design.webp"
+				},
+				{
+					"id": "9187143",
+					"name": "Constanța - Mamaia",
+					"featuredImage": "https://esquirescoffee.co.uk/wp-content/uploads/2021/11/kaylah-matthews-6e5hgWV2DAo-unsplash-e1684321509250.jpg"
+				}
+			]
+		}
+	},
+	{
+		"id": "74519",
+		"title": "Pass Cultura",
+		"description": "Bilet duo la preț redus: 10 RON – 9 pachete.",
+		"available": 9,
+		"claimed": 9,
+		"business": {
+			"id": "9",
+			"name": "Night Club Elite",
+			"availableLocations": [
+				{
+					"id": "9187145",
+					"name": "București - Centrul Vechi",
+					"featuredImage": "https://marketplace.canva.com/EAGOVOZ3zeY/1/0/1600w/canva-retro-dazle-night-club-logo-c36gMC1IF1c.jpg"
+				}
+			]
+		}
+	},
+	{
+		"id": "67447",
+		"title": "Bilet Duo",
+		"description": "Intrare la expoziție + cafea la 9 RON pentru primii 16 vizitatori.",
+		"available": 16,
+		"claimed": 6,
+		"business": {
+			"id": "9",
+			"name": "Night Club Elite",
+			"availableLocations": [
+				{
+					"id": "9187145",
+					"name": "București - Centrul Vechi",
+					"featuredImage": "https://marketplace.canva.com/EAGOVOZ3zeY/1/0/1600w/canva-retro-dazle-night-club-logo-c36gMC1IF1c.jpg"
+				}
+			]
+		}
+	},
+	{
+		"id": "10156",
+		"title": "Promo Cappuccino",
+		"description": "Primele 5 cafele Espresso la 7 RON până la ora 22:00.",
+		"available": 5,
+		"claimed": 1,
+		"business": {
+			"id": "10",
+			"name": "Cafeneaua Dorobanți",
+			"availableLocations": [
+				{
+					"id": "9187146",
+					"name": "București - Dorobanți",
+					"featuredImage": "https://texascoffeeschool.com/wp-content/uploads/2022/03/JAN00491-scaled.jpg"
+				}
+			]
+		}
+	},
+	{
+		"id": "27801",
+		"title": "Pauza de Prânz",
+		"description": "Primele 10 cafele Espresso la 7 RON până la ora 09:00.",
+		"available": 10,
+		"claimed": 8,
+		"business": {
+			"id": "10",
+			"name": "Cafeneaua Dorobanți",
+			"availableLocations": [
+				{
+					"id": "9187146",
+					"name": "București - Dorobanți",
+					"featuredImage": "https://texascoffeeschool.com/wp-content/uploads/2022/03/JAN00491-scaled.jpg"
+				}
+			]
+		}
+	},
+	{
+		"id": "82677",
+		"title": "Early Bird Brew",
+		"description": "Happy Hour: orice Latte la 10 RON. Doar 12 porții disponibile!",
+		"available": 12,
+		"claimed": 1,
+		"business": {
+			"id": "10",
+			"name": "Cafeneaua Dorobanți",
+			"availableLocations": [
+				{
+					"id": "9187146",
+					"name": "București - Dorobanți",
+					"featuredImage": "https://texascoffeeschool.com/wp-content/uploads/2022/03/JAN00491-scaled.jpg"
+				}
+			]
+		}
+	},
+	{
+		"id": "26230",
+		"title": "Săptămâna Chiflelor",
+		"description": "Croissant cu unt la 20 RON, doar azi, 20 disponibile.",
+		"available": 20,
+		"claimed": 10,
+		"business": {
+			"id": "11",
+			"name": "Brutăria Mama",
+			"availableLocations": [
+				{
+					"id": "9187147",
+					"name": "Ploiești - Centru",
+					"featuredImage": "https://sharpsheets.io/wp-content/uploads/2022/11/bakery-solutions03.jpeg.webp"
+				},
+				{
+					"id": "9187148",
+					"name": "Ploiești - Sud",
+					"featuredImage": "https://cdn.vox-cdn.com/thumbor/qb6scDiFH4wTKcbVehj1f1e-X7E=/0x0:1731x1155/1200x900/filters:focal(933x452:1209x728)/cdn.vox-cdn.com/uploads/chorus_image/image/64999899/Eater__Tapisserie_09024.14.jpg"
+				}
+			]
+		}
+	},
+	{
+		"id": "71231",
+		"title": "Săptămâna Chiflelor",
+		"description": "Pachet familial: 4 chifle integrale la 6 RON până la ora 19:00.",
+		"available": 8,
+		"claimed": 3,
+		"business": {
+			"id": "11",
+			"name": "Brutăria Mama",
+			"availableLocations": [
+				{
+					"id": "9187147",
+					"name": "Ploiești - Centru",
+					"featuredImage": "https://sharpsheets.io/wp-content/uploads/2022/11/bakery-solutions03.jpeg.webp"
+				},
+				{
+					"id": "9187148",
+					"name": "Ploiești - Sud",
+					"featuredImage": "https://cdn.vox-cdn.com/thumbor/qb6scDiFH4wTKcbVehj1f1e-X7E=/0x0:1731x1155/1200x900/filters:focal(933x452:1209x728)/cdn.vox-cdn.com/uploads/chorus_image/image/64999899/Eater__Tapisserie_09024.14.jpg"
+				}
+			]
+		}
+	},
+	{
+		"id": "12050",
+		"title": "Promo Cappuccino",
+		"description": "Happy Hour: orice Latte la 12 RON. Doar 8 porții disponibile!",
+		"available": 8,
+		"claimed": 2,
+		"business": {
+			"id": "12",
+			"name": "Cafeneaua Universitate",
+			"availableLocations": [
+				{
+					"id": "9187149",
+					"name": "București - Universitate",
+					"featuredImage": "https://sumatocoffee.com/cdn/shop/articles/the-importance-of-coffee-shops-in-communities-782577.jpg?v=1713277728&width=1600"
+				}
+			]
+		}
+	},
+	{
+		"id": "99778",
+		"title": "Latte Lovers",
+		"description": "Ia-ți doza de energie: Americano la 20 RON pentru primii 20 clienți.",
+		"available": 20,
+		"claimed": 11,
+		"business": {
+			"id": "12",
+			"name": "Cafeneaua Universitate",
+			"availableLocations": [
+				{
+					"id": "9187149",
+					"name": "București - Universitate",
+					"featuredImage": "https://sumatocoffee.com/cdn/shop/articles/the-importance-of-coffee-shops-in-communities-782577.jpg?v=1713277728&width=1600"
+				}
+			]
+		}
+	},
+	{
+		"id": "64555",
+		"title": "Promo Cappuccino",
+		"description": "Ia-ți doza de energie: Americano la 7 RON pentru primii 15 clienți.",
+		"available": 15,
+		"claimed": 1,
+		"business": {
+			"id": "12",
+			"name": "Cafeneaua Universitate",
+			"availableLocations": [
+				{
+					"id": "9187149",
+					"name": "București - Universitate",
+					"featuredImage": "https://sumatocoffee.com/cdn/shop/articles/the-importance-of-coffee-shops-in-communities-782577.jpg?v=1713277728&width=1600"
+				}
+			]
+		}
+	},
+	{
+		"id": "54529",
+		"title": "Cocktail Time",
+		"description": "Cocktailul casei la 10 RON pentru primii 15 clienți.",
+		"available": 15,
+		"claimed": 5,
+		"business": {
+			"id": "13",
+			"name": "Barul Vechi",
+			"availableLocations": [
+				{
+					"id": "9187150",
+					"name": "Sibiu - Centru Vechi",
+					"featuredImage": "https://www.barniescoffee.com/cdn/shop/articles/bar-1869656_1920.jpg?v=1660683986"
+				}
+			]
+		}
+	},
+	{
+		"id": "73551",
+		"title": "Sunset Spritz",
+		"description": "Pachet VIP: sticlă de prosecco + 4 pahare la 20 RON – 10 pachete.",
+		"available": 10,
+		"claimed": 6,
+		"business": {
+			"id": "13",
+			"name": "Barul Vechi",
+			"availableLocations": [
+				{
+					"id": "9187150",
+					"name": "Sibiu - Centru Vechi",
+					"featuredImage": "https://www.barniescoffee.com/cdn/shop/articles/bar-1869656_1920.jpg?v=1660683986"
+				}
+			]
+		}
+	},
+	{
+		"id": "18317",
+		"title": "Happy Hour Espresso",
+		"description": "Ia-ți doza de energie: Americano la 7 RON pentru primii 9 clienți.",
+		"available": 9,
+		"claimed": 1,
+		"business": {
+			"id": "14",
+			"name": "Cafeneaua Studenților",
+			"availableLocations": [
+				{
+					"id": "9187151",
+					"name": "Cluj-Napoca - Campus",
+					"featuredImage": "https://esquirescoffee.co.uk/wp-content/uploads/2021/11/kaylah-matthews-6e5hgWV2DAo-unsplash-e1684321509250.jpg"
+				}
+			]
+		}
+	},
+	{
+		"id": "63721",
+		"title": "Pachet Familial",
+		"description": "Pachet familial: 4 chifle integrale la 8 RON până la ora 19:45.",
+		"available": 10,
+		"claimed": 9,
+		"business": {
+			"id": "15",
+			"name": "Brutăria Cornel",
+			"availableLocations": [
+				{
+					"id": "9187152",
+					"name": "Timișoara - Centru",
+					"featuredImage": "https://3brothersbakery.com/wp-content/uploads/2019/02/Houston%E2%80%99s-Specialty-Bakery.png"
+				}
+			]
+		}
+	},
+	{
+		"id": "83852",
+		"title": "Mic Dejun Dulce",
+		"description": "Brioșe la jumătate de preț pentru primii 17 clienți.",
+		"available": 17,
+		"claimed": 16,
+		"business": {
+			"id": "15",
+			"name": "Brutăria Cornel",
+			"availableLocations": [
+				{
+					"id": "9187152",
+					"name": "Timișoara - Centru",
+					"featuredImage": "https://3brothersbakery.com/wp-content/uploads/2019/02/Houston%E2%80%99s-Specialty-Bakery.png"
+				}
+			]
+		}
+	},
+	{
+		"id": "74103",
+		"title": "Brioșe de Duminică",
+		"description": "Brioșe la jumătate de preț pentru primii 12 clienți.",
+		"available": 12,
+		"claimed": 0,
+		"business": {
+			"id": "15",
+			"name": "Brutăria Cornel",
+			"availableLocations": [
+				{
+					"id": "9187152",
+					"name": "Timișoara - Centru",
+					"featuredImage": "https://3brothersbakery.com/wp-content/uploads/2019/02/Houston%E2%80%99s-Specialty-Bakery.png"
+				}
+			]
+		}
+	},
+	{
+		"id": "99951",
+		"title": "Cafeaua Casei",
+		"description": "Cafeaua zilei la jumătate de preț – exclusiv până la ora 14:00, 14 disponibile.",
+		"available": 14,
+		"claimed": 3,
+		"business": {
+			"id": "16",
+			"name": "Cafeneaua Centrală",
+			"availableLocations": [
+				{
+					"id": "9187153",
+					"name": "Brașov - Centru",
+					"featuredImage": "https://texascoffeeschool.com/wp-content/uploads/2024/08/1418-e1723733846245.jpg"
+				}
+			]
+		}
+	},
+	{
+		"id": "46283",
+		"title": "Pachet Familial",
+		"description": "Croissant cu unt la 5 RON, doar azi, 11 disponibile.",
+		"available": 11,
+		"claimed": 4,
+		"business": {
+			"id": "17",
+			"name": "Brutăria Bunicii",
+			"availableLocations": [
+				{
+					"id": "9187154",
+					"name": "Craiova - Centru",
+					"featuredImage": "https://sharpsheets.io/wp-content/uploads/2022/11/bakery-solutions03.jpeg.webp"
+				}
+			]
+		}
+	},
+	{
+		"id": "27388",
+		"title": "Mic Dejun Dulce",
+		"description": "Primele 20 baghete proaspăt scoase din cuptor la 9 RON bucata.",
+		"available": 20,
+		"claimed": 1,
+		"business": {
+			"id": "17",
+			"name": "Brutăria Bunicii",
+			"availableLocations": [
+				{
+					"id": "9187154",
+					"name": "Craiova - Centru",
+					"featuredImage": "https://sharpsheets.io/wp-content/uploads/2022/11/bakery-solutions03.jpeg.webp"
+				}
+			]
+		}
+	},
+	{
+		"id": "27455",
+		"title": "Cocktail Time",
+		"description": "Pachet VIP: sticlă de prosecco + 4 pahare la 5 RON – 9 pachete.",
+		"available": 9,
+		"claimed": 9,
+		"business": {
+			"id": "18",
+			"name": "Barul Modern",
+			"availableLocations": [
+				{
+					"id": "9187155",
+					"name": "București - Herăstrău",
+					"featuredImage": "https://www.barniescoffee.com/cdn/shop/articles/bar-1869656_1920.jpg?v=1660683986"
+				}
+			]
+		}
+	},
+	{
+		"id": "89138",
+		"title": "VIP Bottle Service",
+		"description": "Cocktailul casei la 7 RON pentru primii 12 clienți.",
+		"available": 12,
+		"claimed": 0,
+		"business": {
+			"id": "18",
+			"name": "Barul Modern",
+			"availableLocations": [
+				{
+					"id": "9187155",
+					"name": "București - Herăstrău",
+					"featuredImage": "https://www.barniescoffee.com/cdn/shop/articles/bar-1869656_1920.jpg?v=1660683986"
+				}
+			]
+		}
+	},
+	{
+		"id": "16167",
+		"title": "Promo Cappuccino",
+		"description": "Ia-ți doza de energie: Americano la 12 RON pentru primii 7 clienți.",
+		"available": 7,
+		"claimed": 4,
+		"business": {
+			"id": "19",
+			"name": "Cafeneaua Romantică",
+			"availableLocations": [
+				{
+					"id": "9187156",
+					"name": "Sibiu - Centru",
+					"featuredImage": "https://esquirescoffee.co.uk/wp-content/uploads/2021/11/kaylah-matthews-6e5hgWV2DAo-unsplash-e1684321509250.jpg"
+				}
+			]
+		}
+	},
+	{
+		"id": "67798",
+		"title": "Early Bird Brew",
+		"description": "Primele 16 cafele Espresso la 9 RON până la ora 21:00.",
+		"available": 16,
+		"claimed": 4,
+		"business": {
+			"id": "19",
+			"name": "Cafeneaua Romantică",
+			"availableLocations": [
+				{
+					"id": "9187156",
+					"name": "Sibiu - Centru",
+					"featuredImage": "https://esquirescoffee.co.uk/wp-content/uploads/2021/11/kaylah-matthews-6e5hgWV2DAo-unsplash-e1684321509250.jpg"
+				}
+			]
+		}
+	},
+	{
+		"id": "93473",
+		"title": "Happy Hour Covrigi",
+		"description": "Pachet familial: 4 chifle integrale la 15 RON până la ora 13:30.",
+		"available": 6,
+		"claimed": 6,
+		"business": {
+			"id": "20",
+			"name": "Brutăria Familiei",
+			"availableLocations": [
+				{
+					"id": "9187157",
+					"name": "Miroslava - Centru",
+					"featuredImage": "https://cdn.vox-cdn.com/thumbor/qb6scDiFH4wTKcbVehj1f1e-X7E=/0x0:1731x1155/1200x900/filters:focal(933x452:1209x728)/cdn.vox-cdn.com/uploads/chorus_image/image/64999899/Eater__Tapisserie_09024.14.jpg"
+				}
+			]
+		}
+	},
+	{
+		"id": "92834",
+		"title": "Bagel Bonanza",
+		"description": "2+1 gratuit la covrigi unt – doar 8 pachete!",
+		"available": 8,
+		"claimed": 4,
+		"business": {
+			"id": "20",
+			"name": "Brutăria Familiei",
+			"availableLocations": [
+				{
+					"id": "9187157",
+					"name": "Miroslava - Centru",
+					"featuredImage": "https://cdn.vox-cdn.com/thumbor/qb6scDiFH4wTKcbVehj1f1e-X7E=/0x0:1731x1155/1200x900/filters:focal(933x452:1209x728)/cdn.vox-cdn.com/uploads/chorus_image/image/64999899/Eater__Tapisserie_09024.14.jpg"
+				}
+			]
+		}
+	},
+	{
+		"id": "20268",
+		"title": "Pachet Familial",
+		"description": "Brioșe la jumătate de preț pentru primii 11 clienți.",
+		"available": 11,
+		"claimed": 0,
+		"business": {
+			"id": "20",
+			"name": "Brutăria Familiei",
+			"availableLocations": [
+				{
+					"id": "9187157",
+					"name": "Miroslava - Centru",
+					"featuredImage": "https://cdn.vox-cdn.com/thumbor/qb6scDiFH4wTKcbVehj1f1e-X7E=/0x0:1731x1155/1200x900/filters:focal(933x452:1209x728)/cdn.vox-cdn.com/uploads/chorus_image/image/64999899/Eater__Tapisserie_09024.14.jpg"
+				}
+			]
+		}
+	}
+]

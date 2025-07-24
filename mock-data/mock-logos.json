@@ -1,0 +1,58 @@
+[
+	{
+		"id": 1,
+		"name": "Coffee Shop Logo 1",
+		"url": "https://t4.ftcdn.net/jpg/03/23/91/57/360_F_323915727_pGJQjKMNqpvpOMVqZ5Z2iCDGEVSd5Upk.jpg",
+		"category": "coffee-shop",
+		"description": "Classic coffee shop logo with warm tones"
+	},
+	{
+		"id": 2,
+		"name": "Cocktail Bar Logo",
+		"url": "https://static.vecteezy.com/system/resources/previews/010/628/580/non_2x/cocktail-logo-design-template-bar-logo-vector.jpg",
+		"category": "bar",
+		"description": "Elegant cocktail bar logo with drink elements"
+	},
+	{
+		"id": 3,
+		"name": "Bakery Logo 1",
+		"url": "https://media.istockphoto.com/id/1291582566/vector/bakery-bread-and-cakes-vector-design-logo.jpg?s=612x612&w=0&k=20&c=PVgG3CEiWlo_YdjX24CEJhDdxNBACHdt4Z-nLe-jjX8=",
+		"category": "bakery",
+		"description": "Traditional bakery logo with bread and cakes"
+	},
+	{
+		"id": 4,
+		"name": "Night Club Logo",
+		"url": "https://marketplace.canva.com/EAGOVOZ3zeY/1/0/1600w/canva-retro-dazle-night-club-logo-c36gMC1IF1c.jpg",
+		"category": "night-club",
+		"description": "Retro dazzle night club logo design"
+	},
+	{
+		"id": 5,
+		"name": "Coffee Shop Logo 2",
+		"url": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/coffee-shop-logos-design-template-cda8575e146cc5ba17cd3c1a24d65ba1_screen.jpg?ts=1638177256",
+		"category": "coffee-shop",
+		"description": "Modern coffee shop logo template"
+	},
+	{
+		"id": 6,
+		"name": "Coffee Shop Logo 3",
+		"url": "https://media.istockphoto.com/id/1262771454/vector/coffee-shop-emblem-template.jpg?s=612x612&w=0&k=20&c=y1EyHCxENVCPCgblJ00BEdjiUjwMnYk4QgZSKRCegxY=",
+		"category": "coffee-shop",
+		"description": "Coffee shop emblem template"
+	},
+	{
+		"id": 7,
+		"name": "Bakery Logo 2",
+		"url": "https://3brothersbakery.com/wp-content/uploads/2019/02/Houston%E2%80%99s-Specialty-Bakery.png",
+		"category": "bakery",
+		"description": "Specialty bakery logo with professional design"
+	},
+	{
+		"id": 8,
+		"name": "Bakery Logo 3",
+		"url": "https://thumbs.dreamstime.com/b/bakery-bakeshop-logo-label-home-baking-bread-concept-cartoon-vector-illustration-bakery-bakeshop-logo-label-home-baking-120071941.jpg",
+		"category": "bakery",
+		"description": "Cartoon-style bakery logo with home baking concept"
+	}
+]
