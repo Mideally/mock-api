@@ -1,19 +1,23 @@
 {
 	"version": 2,
-	"functions": {
-		"server.js": {
-			"maxDuration": 30
+	"builds": [
+		{
+			"src": "server.js",
+			"use": "@vercel/node"
+		},
+		{
+			"src": "public/**",
+			"use": "@vercel/static"
 		}
-	},
+	],
 	"routes": [
 		{
+			"src": "/",
+			"dest": "/server.js"
+		},
+		{
 			"src": "/(.*)",
-			"dest": "/server.js",
-			"headers": {
-				"Access-Control-Allow-Origin": "*",
-				"Access-Control-Allow-Methods": "GET,PUT,POST,DELETE,OPTIONS",
-				"Access-Control-Allow-Headers": "Content-Type, Authorization, X-Requested-With"
-			}
+			"dest": "/server.js"
 		}
 	]
 }
