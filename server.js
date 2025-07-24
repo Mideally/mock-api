@@ -8,9 +8,25 @@ const app = express();
 const PORT = process.env.PORT || 3030;
 
 app.use((req, res, next) => {
-	res.header('Access-Control-Allow-Origin', '*');
+	// Allow specific origins in production, or all in development
+	const allowedOrigins = [
+		'https://web-v2-beta.vercel.app',
+		'http://localhost:3000',
+		'http://localhost:3001',
+		'http://localhost:5173',
+	];
+
+	const origin = req.headers.origin;
+
+	if (allowedOrigins.includes(origin)) {
+		res.header('Access-Control-Allow-Origin', origin);
+	} else {
+		res.header('Access-Control-Allow-Origin', '*');
+	}
+
 	res.header('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE,OPTIONS');
-	res.header('Access-Control-Allow-Headers', 'Content-Type, Authorization');
+	res.header('Access-Control-Allow-Headers', 'Content-Type, Authorization, X-Requested-With');
+	res.header('Access-Control-Allow-Credentials', 'true');
 
 	// Handle preflight requests
 	if (req.method === 'OPTIONS') {
