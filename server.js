@@ -14,6 +14,13 @@ app.use((req, res, next) => {
 	next();
 });
 
+// Serve static files from public directory
+app.use(express.static(path.join(__dirname, 'public')));
+
+app.get('/', (req, res) => {
+	res.sendFile(path.join(__dirname, 'public', 'index.html'));
+});
+
 // Helper function to paginate results
 const paginateResults = (data, page = 1, limit = 6) => {
 	const startIndex = (page - 1) * limit;

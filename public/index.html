@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Mock Server API Documentation</title>
+		<style>
+			body {
+				font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+				max-width: 1200px;
+				margin: 0 auto;
+				padding: 20px;
+				line-height: 1.6;
+				color: #333;
+			}
+			h1 {
+				color: #2c3e50;
+				border-bottom: 3px solid #3498db;
+				padding-bottom: 10px;
+			}
+			h2 {
+				color: #34495e;
+				margin-top: 30px;
+				border-left: 4px solid #3498db;
+				padding-left: 15px;
+			}
+			.endpoint {
+				background: #f8f9fa;
+				border: 1px solid #e9ecef;
+				border-radius: 8px;
+				padding: 15px;
+				margin: 15px 0;
+			}
+			.method {
+				display: inline-block;
+				background: #28a745;
+				color: white;
+				padding: 4px 8px;
+				border-radius: 4px;
+				font-weight: bold;
+				font-size: 12px;
+				margin-right: 10px;
+			}
+			.url {
+				font-family: 'Courier New', monospace;
+				background: #f1f3f4;
+				padding: 2px 6px;
+				border-radius: 4px;
+				color: #d73a49;
+			}
+			.description {
+				margin-top: 10px;
+				color: #666;
+			}
+			.params {
+				margin-top: 10px;
+				font-size: 14px;
+			}
+			.param {
+				background: #e3f2fd;
+				padding: 2px 6px;
+				border-radius: 3px;
+				font-family: 'Courier New', monospace;
+				font-size: 12px;
+			}
+			.status {
+				background: #d4edda;
+				color: #155724;
+				padding: 10px;
+				border-radius: 5px;
+				margin-bottom: 20px;
+			}
+		</style>
+	</head>
+	<body>
+		<h1>Mock Server API Documentation</h1>
+
+		<div class="status">✅ Server is running | Status: OK | Timestamp: <span id="timestamp"></span></div>
+
+		<h2>Companies Endpoints</h2>
+
+		<div class="endpoint">
+			<span class="method">GET</span>
+			<span class="url">/companies</span>
+			<div class="description">Get all companies with pagination</div>
+			<div class="params">
+				<strong>Query Parameters:</strong>
+				<span class="param">page</span> (default: 1), <span class="param">limit</span> (default: 6)
+			</div>
+		</div>
+
+		<div class="endpoint">
+			<span class="method">GET</span>
+			<span class="url">/companies/type/:type</span>
+			<div class="description">Get companies filtered by business type</div>
+			<div class="params">
+				<strong>Path Parameters:</strong>
+				<span class="param">type</span> (cafenea, patiserie, restaurant, etc.)<br />
+				<strong>Query Parameters:</strong>
+				<span class="param">page</span> (default: 1), <span class="param">limit</span> (default: 6)
+			</div>
+		</div>
+
+		<div class="endpoint">
+			<span class="method">GET</span>
+			<span class="url">/companies/megamenu</span>
+			<div class="description">Get companies organized for megamenu navigation</div>
+		</div>
+
+		<div class="endpoint">
+			<span class="method">GET</span>
+			<span class="url">/companies/:slug</span>
+			<div class="description">Get a specific company by slug</div>
+			<div class="params">
+				<strong>Path Parameters:</strong>
+				<span class="param">slug</span>
+			</div>
+		</div>
+
+		<div class="endpoint">
+			<span class="method">GET</span>
+			<span class="url">/companies/city/:city</span>
+			<div class="description">Get companies filtered by city</div>
+			<div class="params">
+				<strong>Path Parameters:</strong>
+				<span class="param">city</span><br />
+				<strong>Query Parameters:</strong>
+				<span class="param">page</span> (default: 1), <span class="param">limit</span> (default: 6)
+			</div>
+		</div>
+
+		<div class="endpoint">
+			<span class="method">GET</span>
+			<span class="url">/companies/county/:county</span>
+			<div class="description">Get companies filtered by county</div>
+			<div class="params">
+				<strong>Path Parameters:</strong>
+				<span class="param">county</span><br />
+				<strong>Query Parameters:</strong>
+				<span class="param">page</span> (default: 1), <span class="param">limit</span> (default: 6)
+			</div>
+		</div>
+
+		<h2>Moments Endpoints</h2>
+
+		<div class="endpoint">
+			<span class="method">GET</span>
+			<span class="url">/moments</span>
+			<div class="description">Get all moments with pagination</div>
+			<div class="params">
+				<strong>Query Parameters:</strong>
+				<span class="param">page</span> (default: 1), <span class="param">limit</span> (default: 6)
+			</div>
+		</div>
+
+		<div class="endpoint">
+			<span class="method">GET</span>
+			<span class="url">/moments/expiring-soon</span>
+			<div class="description">Get 6 moments closest to expiry</div>
+		</div>
+
+		<div class="endpoint">
+			<span class="method">GET</span>
+			<span class="url">/moments/:id</span>
+			<div class="description">Get a specific moment by ID</div>
+			<div class="params">
+				<strong>Path Parameters:</strong>
+				<span class="param">id</span>
+			</div>
+		</div>
+
+		<div class="endpoint">
+			<span class="method">GET</span>
+			<span class="url">/moments/business/:businessId</span>
+			<div class="description">Get moments for a specific business</div>
+			<div class="params">
+				<strong>Path Parameters:</strong>
+				<span class="param">businessId</span><br />
+				<strong>Query Parameters:</strong>
+				<span class="param">page</span> (default: 1), <span class="param">limit</span> (default: 6)
+			</div>
+		</div>
+
+		<h2>Drops Endpoints</h2>
+
+		<div class="endpoint">
+			<span class="method">GET</span>
+			<span class="url">/drops</span>
+			<div class="description">Get all drops with pagination</div>
+			<div class="params">
+				<strong>Query Parameters:</strong>
+				<span class="param">page</span> (default: 1), <span class="param">limit</span> (default: 6)
+			</div>
+		</div>
+
+		<div class="endpoint">
+			<span class="method">GET</span>
+			<span class="url">/drops/ending-soon</span>
+			<div class="description">Get 7 drops with least remaining availability</div>
+		</div>
+
+		<div class="endpoint">
+			<span class="method">GET</span>
+			<span class="url">/drops/:id</span>
+			<div class="description">Get a specific drop by ID</div>
+			<div class="params">
+				<strong>Path Parameters:</strong>
+				<span class="param">id</span>
+			</div>
+		</div>
+
+		<div class="endpoint">
+			<span class="method">GET</span>
+			<span class="url">/drops/business/:businessId</span>
+			<div class="description">Get drops for a specific business</div>
+			<div class="params">
+				<strong>Path Parameters:</strong>
+				<span class="param">businessId</span><br />
+				<strong>Query Parameters:</strong>
+				<span class="param">page</span> (default: 1), <span class="param">limit</span> (default: 6)
+			</div>
+		</div>
+
+		<script>
+			// Update timestamp
+			document.getElementById('timestamp').textContent = new Date().toLocaleString();
+		</script>
+	</body>
+</html>
